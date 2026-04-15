@@ -1,0 +1,130 @@
+# ================================================================
+# AI 资讯监控 · 约束文件 (watch.yaml)
+# 直接在 GitHub 上编辑此文件，Routine 下次运行时自动生效
+# ================================================================
+
+version: "1.0"
+
+# ----------------------------------------------------------------
+# 关注维度
+# 每个 topic 独立控制：priority 影响报告排序，sources 定义从哪抓
+# 不需要的 topic 整块注释掉即可
+# ----------------------------------------------------------------
+topics:
+
+  # ── Claude & Anthropic 生态 ──────────────────────────────────
+  - id: claude_ecosystem
+    name: "Claude 生态"
+    priority: high
+    sources:
+      github_releases:
+        - anthropics/claude-code
+        - anthropics/anthropic-sdk-typescript
+        - anthropics/anthropic-sdk-python
+        - larksuite/cli
+      web:
+        - url: https://www.anthropic.com/news
+        - url: https://claude.ai/blog
+
+  # ── AI 工具发现（新工具/新框架）────────────────────────────
+  - id: ai_tools_discovery
+    name: "AI 工具发现"
+    priority: high
+    sources:
+      github_trending:
+        period: daily                    # daily / weekly
+        languages: [TypeScript, JavaScript, Python]
+        # 标题或描述命中任一关键词才算相关
+        must_match_any:
+          - claude
+          - MCP
+          - AI coding
+          - agent
+          - spec-driven
+          - openspec
+          - cc-switch
+          - claude code
+      github_search:
+        # 近 14 天出现、star 数有一定积累的新工具
+        queries:
+          - "claude code stars:>50 created:>14days"
+          - "MCP server stars:>100 pushed:>7days"
+          - "claude agent stars:>30 created:>14days"
+      hn:
+        keywords:
+          - claude code
+          - spec kit
+          - openspec
+          - MCP server
+          - AI coding
+          - spec driven
+          - cc-switch
+        min_points: 30
+      dev_community:
+        tags: [claudecode, claude, ai-tools, mcp]
+
+  # ── 国内 AI 动态 ─────────────────────────────────────────────
+  - id: china_ai_trends
+    name: "国内 AI 动态"
+    priority: medium
+    sources:
+      web:
+        - url: https://www.leiphone.com/
+          # use_jina: true  ← 若直接抓取失败，取消注释此行
+          keywords:
+            - AI
+            - 大模型
+            - 智能体
+            - 云产品
+            - CodeBuddy
+            - 阿里云
+            - 腾讯云
+            - 字节跳动
+        - url: https://www.smarthey.com/
+          keywords: [AI, 大模型, 智能体, 云厂商]
+
+  # ── Spec 驱动开发 ────────────────────────────────────────────
+  - id: spec_driven_dev
+    name: "Spec 驱动开发"
+    priority: medium
+    sources:
+      github_search:
+        queries:
+          - "spec-driven stars:>200 pushed:>30days"
+          - "openspec OR spec-kit stars:>100 pushed:>14days"
+      hn:
+        keywords:
+          - spec driven
+          - spec kit
+          - openspec
+          - SDD
+          - spec-driven development
+        min_points: 20
+      web:
+        - url: https://openclawapi.org/en/blog
+        - url: https://dev.to/t/ai
+          keywords: [spec, openspec, spec-kit, SDD, spec-driven]
+
+# ----------------------------------------------------------------
+# 全局过滤规则
+# ----------------------------------------------------------------
+filters:
+  lookback_hours: 24           # 只处理过去 N 小时内的内容
+  max_items_per_topic: 5       # 每个维度最多输出几条
+  exclude_keywords:            # 命中这些词的条目直接丢弃
+    - sponsored
+    - advertisement
+    - 广告
+    - 招聘
+  deduplicate: true            # 跨信源去重（URL 相同 or 标题相似度 >80%）
+
+# ----------------------------------------------------------------
+# 输出配置
+# ----------------------------------------------------------------
+output:
+  # Webhook 地址从 Routine 环境变量读取，不要硬写在这里
+  feishu_webhook: "${FEISHU_WEBHOOK_URL}"
+  format: card                 # card（飞书交互卡片）
+  include_why: true            # 每条资讯加一句"为什么你该关注"
+  skip_if_empty: true          # 当天无新内容时不推送空报告
+  language: zh
