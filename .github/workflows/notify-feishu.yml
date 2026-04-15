@@ -1,0 +1,15 @@
+name: Notify Feishu
+on:
+  push:
+    paths:
+      - '.ai-news-bot/latest-report.json'
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Push to Feishu
+        run: |
+          curl -X POST "${{ secrets.FEISHU_WEBHOOK_URL }}" \
+            -H "Content-Type: application/json" \
+            -d @.ai-news-bot/latest-report.json
