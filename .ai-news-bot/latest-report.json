@@ -4,7 +4,7 @@
     "header": {
       "title": {
         "tag": "plain_text",
-        "content": "📡 AI 资讯速报 · 2026-04-16"
+        "content": "📡 AI 资讯速报 · 2026-04-17"
       },
       "template": "blue"
     },
@@ -13,7 +13,7 @@
         "tag": "div",
         "text": {
           "tag": "lark_md",
-          "content": "**🔧 Claude 生态**\n· [Claude Code v2.1.110 · /tui全屏、移动推送通知、MCP…](https://github.com/anthropics/claude-code/releases/tag/v2.1.110)\n  _Claude Code 最新版本，新增 /tui 无闪烁全屏渲染、移动端 Push 通知工具、MCP 服务器断连修复和安全加固，直接影响日常编程工作流，建议今日更新_\n· [Claude Code v2.1.109 · 扩展思维进度提示改进](https://github.com/anthropics/claude-code/releases/tag/v2.1.109)\n  _同日发布，优化了 Extended Thinking（扩展推理）的旋转进度提示动画，使用深度推理模式时体验更流畅_\n· [Claude.ai / API / Claude Code 服务大规模故障（HN…](https://claudestatus.com/)\n  _昨日 Claude 服务出现系统性异常，社区热议 242+ 分，了解故障背景有助于评估 AI 编程工具的稳定性风险和降级方案_\n· [anthropic-sdk-typescript v0.89.0 · 正式标记 …](https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.89.0)\n  _SDK 将旧版 Claude Sonnet 4 和 Opus 4 标记为 deprecated，说明 Claude 4.5/4.6 系列已成主力模型，现有项目应尽快迁移依赖_"
+          "content": "**🔧 Claude 生态**\n· [Claude Opus 4.7 正式发布，编码与 Agent 能力全面提升](https://www.anthropic.com/news/claude-opus-4-7)\n  _为什么关注：Anthropic 新旗舰模型上线（HN 1437 赞），强化 coding、vision、multi-step agent 能力，Claude Code auto 模式已默认切换，直接影响你的 AI 编码体验_\n· [Claude Code v2.1.111：Opus 4.7 xhigh + /effort + /ultrareview](https://github.com/anthropics/claude-code/releases/tag/v2.1.111)\n  _为什么关注：新增 /effort 效力调节滑块、/less-permission-prompts 减少权限弹窗、/ultrareview 全面代码审查技能，Max 订阅用户可立即享用 Opus 4.7 auto 模式_\n· [Claude Code v2.1.112：修复 auto 模式 Opus 4.7 不可用问题](https://github.com/anthropics/claude-code/releases/tag/v2.1.112)\n  _为什么关注：auto 模式 bug 快速修复，若昨日遇到 Opus 4.7 临时不可用报错请立即更新_\n· [Anthropic TS SDK v0.90.0：支持 Opus 4.7 与 token budgets](https://github.com/anthropics/anthropic-sdk-typescript/releases)\n  _为什么关注：前端调用 Claude API 需同步升级，新增 token budget 精细控制和用户画像特性_"
         }
       },
       {
@@ -23,7 +23,7 @@
         "tag": "div",
         "text": {
           "tag": "lark_md",
-          "content": "**🛠️ AI 工具发现**\n· [forrestchang/andrej-karpathy-skills · 今日…](https://github.com/forrestchang/andrej-karpathy-skills)\n  _将 Andrej Karpathy 总结的 LLM 编码陷阱浓缩为单个 CLAUDE.md，可直接拖入项目提升 Claude Code 输出质量，强烈推荐收藏_\n· [thedotmack/claude-mem · Claude Code 自动记忆…](https://github.com/thedotmack/claude-mem)\n  _自动捕获 Claude 的会话操作、AI 压缩后注入未来上下文，解决大型项目历史信息丢失问题，是 Claude Code 工程化的实用扩展_\n· [obra/superpowers · Agentic 技能框架，2,055⭐](https://github.com/obra/superpowers)\n  _快速增长的 Agent 软件开发方法论框架，与 Claude Code Skills 系统理念高度契合，了解其设计思路有助于面试中阐述 Agent 架构观点_\n· [Libretto – 确定性 AI 浏览器自动化（HN 88pts）](https://github.com/saffron-health/libretto)\n  _提出「开发时 AI」理念：用 coding agent 预生成可检查的确定性脚本，而非运行时黑盒 agent，对 spec-driven 开发思路有重要参考价值_\n· [How I built a resume MCP in an hour（DEV …](https://dev.to/david_hyland_08f49962a50f/how-i-built-a-resume-mcp-in-an-hour-3o4m)\n  _一小时内构建完整 MCP 服务器的实战教程，展示了 MCP 开发的低门槛，面试时可作为 MCP 生态快速上手能力的佐证_"
+          "content": "**🛠️ AI 工具发现**\n· [andrej-karpathy-skills：单文件 CLAUDE.md 今日 +7959 ★](https://github.com/forrestchang/andrej-karpathy-skills)\n  _为什么关注：将 Karpathy 总结的 LLM 编码坑点打包成一个 CLAUDE.md，drop-in 即可提升 Claude Code 输出质量，今日 Trending 第一_\n· [claude-mem：Claude Code 跨会话记忆插件 今日 +1897 ★](https://github.com/thedotmack/claude-mem)\n  _为什么关注：自动捕获 Claude 会话并压缩注入下次上下文，解决 Agent 跨会话记忆断裂痛点，正快速走红_\n· [GenericAgent：自进化 Agent 技能树 今日 +872 ★](https://github.com/lsdefine/GenericAgent)\n  _为什么关注：从 3.3K 行种子代码自动生长技能树，token 消耗降低 6x，自进化 Agent 方向代表性开源项目_\n· [EvoMap/evolver：GEP 驱动 AI Agent 自进化引擎 今日 +812 ★](https://github.com/EvoMap/evolver)\n  _为什么关注：与 GenericAgent 同日上榜，说明自进化 Agent 正成为前端 AI 工程师需跟进的新热点_\n· [Qwen3.6-35B-A3B：阿里开源 Agentic Coding 专用模型（HN 891 赞）](https://qwen.ai/blog?id=qwen3.6-35b-a3b)\n  _为什么关注：专为 agentic coding 优化的开源模型，可作为 Claude 本地替代方案评估，也是 AI coding 赛道竞争格局的重要信号_"
         }
       },
       {
@@ -33,17 +33,7 @@
         "tag": "div",
         "text": {
           "tag": "lark_md",
-          "content": "**🏢 国内 AI 动态**\n· [台积电 Q1 净利润同比增 50%，AI 需求连续四季度创纪录](https://www.smarthey.com/detail/680101801886.html)\n  _AI 芯片需求持续高速增长，直接影响国内云厂商（阿里云、腾讯云）的 GPU 算力采购成本与 AI 服务定价策略，是 AI 工程化背景的重要宏观信号_\n· [Snap 裁员 1,000 人，聚焦 AI 驱动长期价值增长](https://www.smarthey.com/detail/189101801889.html)\n  _海外 AI 赛道裁员重组趋势持续，对比国内大厂 AI 编码工具（CodeBuddy 等）投入加大，AI coding 赛道竞争格局在全球范围内加速分化_"
-        }
-      },
-      {
-        "tag": "hr"
-      },
-      {
-        "tag": "div",
-        "text": {
-          "tag": "lark_md",
-          "content": "**🔌 MCP 生态**\n· [MCP as Observability Interface: AI Agent…](https://ingero.io/mcp-observability-interface-ai-agents-kernel-tracepoints/)\n  _将 MCP 用于可观测性接口，让 AI Agent 接入内核追踪点（Tracepoint），是 MCP 协议在系统级工具链中的创新应用，扩展了 MCP 的使用边界_\n· [agent-dispatch：让 Claude Code Agents 互相通信…](https://dev.to/serik_ospanov_c84c8ee2e54/let-your-claude-code-agents-talk-to-each-other-introducing-agent-dispatch--3ik0)\n  _实现 Claude Code 多 Agent 之间的消息传递，是构建复杂 multi-agent 工作流的基础组件，对 agent 协作架构设计有直接参考价值_"
+          "content": "**🏢 国内 AI 动态**\n· [阿里云喊出 AI 五年 1000 亿美元：底气还是画饼？](https://www.leiphone.com/banner/homepageUrl/id/3422)\n  _为什么关注：阿里云大规模押注 AI 基建，AI coding 工具（如通义灵码）后续投入可期，直接影响国内 AI 编程工具格局_\n· [国内云厂商涨价潮：有人提价有人降价，各有盘算](https://www.leiphone.com/banner/homepageUrl/id/3423)\n  _为什么关注：国内 AI API 定价分化加剧，了解成本趋势对技术选型和工具链方案评估有直接参考价值_\n· [AI「杀死」旧软件：1.6 万亿市值蒸发，三位实战派深谈出路](https://www.leiphone.com/banner/homepageUrl/id/3424)\n  _为什么关注：前端工程师理解 AI 重塑软件开发格局的必读视角，高级工程师面试高频话题_\n· [智象未来完成新一轮融资，打造下一代原生全模态世界模型](https://www.leiphone.com/category/ai/HPQegPF11KQhQ2jq.html)\n  _为什么关注：全模态 AI 是下一代应用层的基础，国内新融资信号反映资本持续押注多模态方向_"
         }
       },
       {
@@ -54,7 +44,7 @@
         "elements": [
           {
             "tag": "plain_text",
-            "content": "数据来源：GitHub Releases · GitHub Trending · HN Algolia · DEV Community · Smarthey｜⚠️ 跳过：Leiphone（24h 内无更新）· Spec 驱动专栏（无新热度内容）· GitHub Search（Rate Limit 限速）｜修改关注维度：编辑仓库中的 watch.yaml"
+            "content": "数据来源：GitHub · HN · 雷峰网 · DEV Community｜修改关注维度：编辑仓库中的 watch.yaml\n⚠️ 跳过：GitHub Releases API（匿名速率限制）· GitHub Search API（速率限制耗尽）· GitHub MCP（仅限自有仓库）· smarthey.com（未抓取）· Spec 驱动开发（24h 内无符合条件内容）"
           }
         ]
       }
