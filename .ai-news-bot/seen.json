@@ -1,0 +1,95 @@
+{
+  "urls": {
+    "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.91.1": {
+      "title": "anthropic-sdk-typescript sdk-v0.91.1 · 内存文件权限安全修复",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.91.1",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-04-25",
+      "count": 1
+    },
+    "https://github.com/larksuite/cli/releases/tag/v1.0.19": {
+      "title": "larksuite/cli v1.0.19 · 飞书文档 v2 API 增删改",
+      "url": "https://github.com/larksuite/cli/releases/tag/v1.0.19",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-04-25",
+      "count": 1
+    },
+    "https://www.anthropic.com/news/anthropic-nec": {
+      "title": "Anthropic × NEC · 日本最大 AI 工程师训练",
+      "url": "https://www.anthropic.com/news/anthropic-nec",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-04-25",
+      "count": 1
+    },
+    "https://github.com/alchaincyf/huashu-design": {
+      "title": "alchaincyf/huashu-design · Claude Code HTML 设计 Skill",
+      "url": "https://github.com/alchaincyf/huashu-design",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-04-25",
+      "count": 1
+    },
+    "https://github.com/getagentseal/codeburn": {
+      "title": "getagentseal/codeburn · AI 编码 Token 成本可视化",
+      "url": "https://github.com/getagentseal/codeburn",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-04-25",
+      "count": 1
+    },
+    "https://github.com/Alishahryar1/free-claude-code": {
+      "title": "Alishahryar1/free-claude-code · 免 API 费终端使用",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-04-25",
+      "count": 1
+    },
+    "https://github.com/zilliztech/claude-context": {
+      "title": "zilliztech/claude-context · 整库语义搜索 MCP",
+      "url": "https://github.com/zilliztech/claude-context",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-04-25",
+      "count": 1
+    },
+    "https://github.com/iamzhihuix/skills-manage": {
+      "title": "iamzhihuix/skills-manage · 跨平台 Skill 管理桌面应用",
+      "url": "https://github.com/iamzhihuix/skills-manage",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-04-25",
+      "count": 1
+    },
+    "https://dev.to/lovanaut55/dont-build-your-mcp-server-as-an-api-wrapper-12ib": {
+      "title": "Don't Build Your MCP Server as an API Wrapper",
+      "url": "https://dev.to/lovanaut55/dont-build-your-mcp-server-as-an-api-wrapper-12ib",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-04-25",
+      "count": 1
+    },
+    "https://dev.to/ievgen_ch/mcp-auth-that-actually-works-oauth-for-remote-servers-ka8": {
+      "title": "MCP Auth That Actually Works: OAuth for Remote Servers",
+      "url": "https://dev.to/ievgen_ch/mcp-auth-that-actually-works-oauth-for-remote-servers-ka8",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-04-25",
+      "count": 1
+    },
+    "https://github.com/googleapis/mcp-toolbox": {
+      "title": "googleapis/mcp-toolbox · 数据库专用 MCP 工具箱",
+      "url": "https://github.com/googleapis/mcp-toolbox",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-04-25",
+      "count": 1
+    },
+    "https://github.com/github/github-mcp-server": {
+      "title": "github/github-mcp-server · GitHub 官方 MCP 服务器",
+      "url": "https://github.com/github/github-mcp-server",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-04-25",
+      "count": 1
+    },
+    "https://github.com/mcp-use/mcp-use": {
+      "title": "mcp-use/mcp-use · MCP App 全栈开发框架",
+      "url": "https://github.com/mcp-use/mcp-use",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-04-25",
+      "count": 1
+    }
+  }
+}

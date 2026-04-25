@@ -4,7 +4,7 @@
     "header": {
       "title": {
         "tag": "plain_text",
-        "content": "📡 AI 资讯速报 · 2026-04-16"
+        "content": "📡 AI 资讯速报 · 2026-04-25"
       },
       "template": "blue"
     },
@@ -13,7 +13,7 @@
         "tag": "div",
         "text": {
           "tag": "lark_md",
-          "content": "**🔧 Claude 生态**\n· [Claude Code v2.1.110 · /tui全屏、移动推送通知、MCP…](https://github.com/anthropics/claude-code/releases/tag/v2.1.110)\n  _Claude Code 最新版本，新增 /tui 无闪烁全屏渲染、移动端 Push 通知工具、MCP 服务器断连修复和安全加固，直接影响日常编程工作流，建议今日更新_\n· [Claude Code v2.1.109 · 扩展思维进度提示改进](https://github.com/anthropics/claude-code/releases/tag/v2.1.109)\n  _同日发布，优化了 Extended Thinking（扩展推理）的旋转进度提示动画，使用深度推理模式时体验更流畅_\n· [Claude.ai / API / Claude Code 服务大规模故障（HN…](https://claudestatus.com/)\n  _昨日 Claude 服务出现系统性异常，社区热议 242+ 分，了解故障背景有助于评估 AI 编程工具的稳定性风险和降级方案_\n· [anthropic-sdk-typescript v0.89.0 · 正式标记 …](https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.89.0)\n  _SDK 将旧版 Claude Sonnet 4 和 Opus 4 标记为 deprecated，说明 Claude 4.5/4.6 系列已成主力模型，现有项目应尽快迁移依赖_"
+          "content": "**🔧 Claude 生态**\n· [anthropic-sdk-typescript…](https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.91.1)\n  _修复内存文件权限为严格模式（restrictive file mode），直接关闭 SDK 本地内存文件可被其他进程读取的安全漏洞，使用 SDK Memory 功能的项目应立即更新_\n· [larksuite/cli v1.0.19 · 飞书文档…](https://github.com/larksuite/cli/releases/tag/v1.0.19)\n  _新增飞书文档 v2 API 的 create/fetch/update，Claude Routine 直接写入飞书文档成为可能，影响 AI 报告自动化工作流_\n· [Anthropic × NEC · 日本最大 AI…](https://www.anthropic.com/news/anthropic-nec)\n  _Anthropic 首次在亚太建立大规模 AI 工程师认证体系，预示企业级 Claude 生态在亚太快速落地，国内企业可能跟进引入 Claude 产品体系_"
         }
       },
       {
@@ -23,7 +23,7 @@
         "tag": "div",
         "text": {
           "tag": "lark_md",
-          "content": "**🛠️ AI 工具发现**\n· [forrestchang/andrej-karpathy-skills · 今日…](https://github.com/forrestchang/andrej-karpathy-skills)\n  _将 Andrej Karpathy 总结的 LLM 编码陷阱浓缩为单个 CLAUDE.md，可直接拖入项目提升 Claude Code 输出质量，强烈推荐收藏_\n· [thedotmack/claude-mem · Claude Code 自动记忆…](https://github.com/thedotmack/claude-mem)\n  _自动捕获 Claude 的会话操作、AI 压缩后注入未来上下文，解决大型项目历史信息丢失问题，是 Claude Code 工程化的实用扩展_\n· [obra/superpowers · Agentic 技能框架，2,055⭐](https://github.com/obra/superpowers)\n  _快速增长的 Agent 软件开发方法论框架，与 Claude Code Skills 系统理念高度契合，了解其设计思路有助于面试中阐述 Agent 架构观点_\n· [Libretto – 确定性 AI 浏览器自动化（HN 88pts）](https://github.com/saffron-health/libretto)\n  _提出「开发时 AI」理念：用 coding agent 预生成可检查的确定性脚本，而非运行时黑盒 agent，对 spec-driven 开发思路有重要参考价值_\n· [How I built a resume MCP in an hour（DEV …](https://dev.to/david_hyland_08f49962a50f/how-i-built-a-resume-mcp-in-an-hour-3o4m)\n  _一小时内构建完整 MCP 服务器的实战教程，展示了 MCP 开发的低门槛，面试时可作为 MCP 生态快速上手能力的佐证_"
+          "content": "**🛠️ AI 工具发现**\n· [alchaincyf/huashu-design ·…](https://github.com/alchaincyf/huashu-design)\n  _6193⭐，内置 20 条设计哲学的 HTML 原生高保真原型 Skill，Claude Code 内直出 UI 原型无需 Figma，前端日常 UI 评审和 Spec 验证效率显著提升_\n· [getagentseal/codeburn · AI 编码…](https://github.com/getagentseal/codeburn)\n  _3642⭐，今日活跃，TUI 看板显示 Claude Code/Codex/Cursor 的 Token 消耗分布，量化 AI 工具链成本的第一步，可直接用于工具选型决策_\n· [Alishahryar1/free-claude-code…](https://github.com/Alishahryar1/free-claude-code)\n  _今日 Trending 第二，2638 stars，绕过 API 计费在终端或 VSCode 使用 claude-code，了解其代理实现机制对 MCP/agent 工具链架构有参考价值_\n· [zilliztech/claude-context ·…](https://github.com/zilliztech/claude-context)\n  _今日 Trending，706 stars，将整个代码库向量化给 Claude Code 做代码搜索 MCP，解决大型 Monorepo 中 agent 全局代码理解不足的核心痛点_\n· [iamzhihuix/skills-manage ·…](https://github.com/iamzhihuix/skills-manage)\n  _1060⭐，统一管理 Claude Code/Cursor/Gemini CLI/Codex 等 20+ 平台的 Skill，是 multi-agent 工具链工程化的系统性解决方案_"
         }
       },
       {
@@ -33,17 +33,7 @@
         "tag": "div",
         "text": {
           "tag": "lark_md",
-          "content": "**🏢 国内 AI 动态**\n· [台积电 Q1 净利润同比增 50%，AI 需求连续四季度创纪录](https://www.smarthey.com/detail/680101801886.html)\n  _AI 芯片需求持续高速增长，直接影响国内云厂商（阿里云、腾讯云）的 GPU 算力采购成本与 AI 服务定价策略，是 AI 工程化背景的重要宏观信号_\n· [Snap 裁员 1,000 人，聚焦 AI 驱动长期价值增长](https://www.smarthey.com/detail/189101801889.html)\n  _海外 AI 赛道裁员重组趋势持续，对比国内大厂 AI 编码工具（CodeBuddy 等）投入加大，AI coding 赛道竞争格局在全球范围内加速分化_"
-        }
-      },
-      {
-        "tag": "hr"
-      },
-      {
-        "tag": "div",
-        "text": {
-          "tag": "lark_md",
-          "content": "**🔌 MCP 生态**\n· [MCP as Observability Interface: AI Agent…](https://ingero.io/mcp-observability-interface-ai-agents-kernel-tracepoints/)\n  _将 MCP 用于可观测性接口，让 AI Agent 接入内核追踪点（Tracepoint），是 MCP 协议在系统级工具链中的创新应用，扩展了 MCP 的使用边界_\n· [agent-dispatch：让 Claude Code Agents 互相通信…](https://dev.to/serik_ospanov_c84c8ee2e54/let-your-claude-code-agents-talk-to-each-other-introducing-agent-dispatch--3ik0)\n  _实现 Claude Code 多 Agent 之间的消息传递，是构建复杂 multi-agent 工作流的基础组件，对 agent 协作架构设计有直接参考价值_"
+          "content": "**🔌 MCP 生态**\n· [Don't Build Your MCP Server…](https://dev.to/lovanaut55/dont-build-your-mcp-server-as-an-api-wrapper-12ib)\n  _阐明 MCP 服务器应暴露语义工具而非代理 REST API，是设计 MCP server 的核心架构原则，面试中阐述 MCP 设计哲学的直接参考_\n· [MCP Auth That Actually Works:…](https://dev.to/ievgen_ch/mcp-auth-that-actually-works-oauth-for-remote-servers-ka8)\n  _解决远程 MCP 服务器 OAuth 认证的工程实战，是 MCP 从本地开发上线到生产环境必须解决的关键问题_\n· [googleapis/mcp-toolbox ·…](https://github.com/googleapis/mcp-toolbox)\n  _14804⭐，今日有更新，Google 官方数据库 MCP 服务器，支持 SQL/NoSQL，是 Claude Code 访问数据库工作流的生产级方案_\n· [github/github-mcp-server ·…](https://github.com/github/github-mcp-server)\n  _29235⭐，昨日有更新，最高频使用的 MCP 服务器之一，更新内容影响 Claude Code 与 GitHub 仓库协作的全流程能力_\n· [mcp-use/mcp-use · MCP App…](https://github.com/mcp-use/mcp-use)\n  _9808⭐，今日活跃，支持 ChatGPT/Claude 的跨模型 MCP App 框架，是构建通用 MCP 应用的快速起点_"
         }
       },
       {
@@ -54,7 +44,7 @@
         "elements": [
           {
             "tag": "plain_text",
-            "content": "数据来源：GitHub Releases · GitHub Trending · HN Algolia · DEV Community · Smarthey｜⚠️ 跳过：Leiphone（24h 内无更新）· Spec 驱动专栏（无新热度内容）· GitHub Search（Rate Limit 限速）｜修改关注维度：编辑仓库中的 watch.yaml"
+            "content": "数据来源：GitHub Releases · GitHub Trending · GitHub Search · DEV Community · Anthropic Blog｜修改关注维度：编辑 watch.yaml\n⚠️ 跳过：HN Algolia（DNS 不可达）、雷峰网（当日内容为北京车展专题，无 AI 动态）、smarthey（503）、Spec 驱动（24h 内无新内容）、国内 AI 动态（各信源 24h 内无匹配条目）"
           }
         ]
       }
