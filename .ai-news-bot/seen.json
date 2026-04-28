@@ -1,0 +1,130 @@
+{
+  "urls": {
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.121": {
+      "title": "Claude Code v2.1.121 · alwaysLoad MCP + PostToolUse 扩展",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.121",
+      "first_seen": "2026-04-28",
+      "last_seen": "2026-04-28",
+      "count": 1
+    },
+    "https://github.com/larksuite/cli/releases/tag/v1.0.20": {
+      "title": "larksuite/cli v1.0.20 · whiteboard SVG 兼容修复",
+      "url": "https://github.com/larksuite/cli/releases/tag/v1.0.20",
+      "first_seen": "2026-04-28",
+      "last_seen": "2026-04-28",
+      "count": 1
+    },
+    "https://github.com/evanklem/evanflow": {
+      "title": "EvanFlow – TDD driven feedback loop for Claude Code",
+      "url": "https://github.com/evanklem/evanflow",
+      "first_seen": "2026-04-28",
+      "last_seen": "2026-04-28",
+      "count": 1
+    },
+    "https://support.claude.com/en/articles/11940350-claude-code-model-configuration": {
+      "title": "Claude Pro Opus 模型须开启额外用量方可使用",
+      "url": "https://support.claude.com/en/articles/11940350-claude-code-model-configuration",
+      "first_seen": "2026-04-28",
+      "last_seen": "2026-04-28",
+      "count": 1
+    },
+    "https://dev.to/kanta13jp1/running-12-ai-instances-in-parallel-my-claude-code-fleet-architecture-33lb": {
+      "title": "Running 12 AI Instances in Parallel: Claude Code Fleet",
+      "url": "https://dev.to/kanta13jp1/running-12-ai-instances-in-parallel-my-claude-code-fleet-architecture-33lb",
+      "first_seen": "2026-04-28",
+      "last_seen": "2026-04-28",
+      "count": 1
+    },
+    "https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-powered-ai-coding-agent-deletes-entire-company-database-in-9-seconds-backups-zapped-after-cursor-tool-powered-by-anthropics-claude-goes-rogue": {
+      "title": "Claude coding agent 9 秒删除公司数据库",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-powered-ai-coding-agent-deletes-entire-company-database-in-9-seconds-backups-zapped-after-cursor-tool-powered-by-anthropics-claude-goes-rogue",
+      "first_seen": "2026-04-28",
+      "last_seen": "2026-04-28",
+      "count": 1
+    },
+    "https://dev.to/lewiska/coding-agents-broke-code-review-two-claude-code-skills-help-me-fight-back-3nba": {
+      "title": "Coding agents broke code review. Two Skills fight back",
+      "url": "https://dev.to/lewiska/coding-agents-broke-code-review-two-claude-code-skills-help-me-fight-back-3nba",
+      "first_seen": "2026-04-28",
+      "last_seen": "2026-04-28",
+      "count": 1
+    },
+    "https://www.smarthey.com/detail/924202302852.html": {
+      "title": "阿里发布HappyHorse 1.0视频生成模型",
+      "url": "https://www.smarthey.com/detail/924202302852.html",
+      "first_seen": "2026-04-28",
+      "last_seen": "2026-04-28",
+      "count": 1
+    },
+    "https://www.leiphone.com/category/zaobao/KfEK3hmbcYtUAnYP.html": {
+      "title": "Meta收购Manus被国家发改委叫停",
+      "url": "https://www.leiphone.com/category/zaobao/KfEK3hmbcYtUAnYP.html",
+      "first_seen": "2026-04-28",
+      "last_seen": "2026-04-28",
+      "count": 1
+    },
+    "https://www.leiphone.com/category/transportation/K7ZQKtmfjAKjmf9X.html": {
+      "title": "荣威联合火山引擎发布AI原生汽车序列",
+      "url": "https://www.leiphone.com/category/transportation/K7ZQKtmfjAKjmf9X.html",
+      "first_seen": "2026-04-28",
+      "last_seen": "2026-04-28",
+      "count": 1
+    },
+    "https://dev.to/kanta13jp1/10-security-principles-before-you-ship-an-mcp-server-28nc": {
+      "title": "10 Security Principles Before You Ship an MCP Server",
+      "url": "https://dev.to/kanta13jp1/10-security-principles-before-you-ship-an-mcp-server-28nc",
+      "first_seen": "2026-04-28",
+      "last_seen": "2026-04-28",
+      "count": 1
+    },
+    "https://dev.to/moshe_io/mcp-vs-function-calling-a-practical-decision-framework-p78": {
+      "title": "MCP vs Function Calling: A Practical Decision Framework",
+      "url": "https://dev.to/moshe_io/mcp-vs-function-calling-a-practical-decision-framework-p78",
+      "first_seen": "2026-04-28",
+      "last_seen": "2026-04-28",
+      "count": 1
+    },
+    "https://github.com/MCPJam/inspector": {
+      "title": "MCPJam/inspector · MCP server 调试与评估平台",
+      "url": "https://github.com/MCPJam/inspector",
+      "first_seen": "2026-04-28",
+      "last_seen": "2026-04-28",
+      "count": 1
+    },
+    "https://dev.to/silask/nginx-uis-mcp-endpoint-shipped-with-empty-allowlist-equals-allow-all-and-thats-the-story-5fee": {
+      "title": "nginx-ui MCP 空 allowlist 等于全开放漏洞",
+      "url": "https://dev.to/silask/nginx-uis-mcp-endpoint-shipped-with-empty-allowlist-equals-allow-all-and-thats-the-story-5fee",
+      "first_seen": "2026-04-28",
+      "last_seen": "2026-04-28",
+      "count": 1
+    },
+    "https://github.com/github/spec-kit": {
+      "title": "github/spec-kit · Spec 驱动开发官方工具包（91k⭐）",
+      "url": "https://github.com/github/spec-kit",
+      "first_seen": "2026-04-28",
+      "last_seen": "2026-04-28",
+      "count": 1
+    },
+    "https://github.com/Fission-AI/OpenSpec": {
+      "title": "Fission-AI/OpenSpec · AI 编程助手专用 SDD 框架（43k⭐）",
+      "url": "https://github.com/Fission-AI/OpenSpec",
+      "first_seen": "2026-04-28",
+      "last_seen": "2026-04-28",
+      "count": 1
+    },
+    "https://github.com/gsd-build/get-shit-done": {
+      "title": "gsd-build/get-shit-done · meta-prompting + SDD（58k⭐）",
+      "url": "https://github.com/gsd-build/get-shit-done",
+      "first_seen": "2026-04-28",
+      "last_seen": "2026-04-28",
+      "count": 1
+    },
+    "https://github.com/potpie-ai/potpie": {
+      "title": "potpie-ai/potpie · 大型代码库专用 Spec 驱动开发",
+      "url": "https://github.com/potpie-ai/potpie",
+      "first_seen": "2026-04-28",
+      "last_seen": "2026-04-28",
+      "count": 1
+    }
+  }
+}
