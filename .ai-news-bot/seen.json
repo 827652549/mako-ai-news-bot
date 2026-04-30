@@ -1,0 +1,123 @@
+{
+  "urls": {
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.123": {
+      "title": "Claude Code v2.1.123 · OAuth 认证修复",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.123",
+      "first_seen": "2026-04-30",
+      "last_seen": "2026-04-30",
+      "count": 1
+    },
+    "https://github.com/larksuite/cli/releases/tag/v1.0.22": {
+      "title": "飞书 CLI v1.0.22 · Task App 成员管理",
+      "url": "https://github.com/larksuite/cli/releases/tag/v1.0.22",
+      "first_seen": "2026-04-30",
+      "last_seen": "2026-04-30",
+      "count": 1
+    },
+    "https://github.com/anthropics/claude-code/issues/53262": {
+      "title": "HERMES.md commit 消息触发超额计费",
+      "url": "https://github.com/anthropics/claude-code/issues/53262",
+      "first_seen": "2026-04-30",
+      "last_seen": "2026-04-30",
+      "count": 1
+    },
+    "https://github.com/warpdotdev/warp": {
+      "title": "warp · Agentic 终端 · 今日 12K⭐",
+      "url": "https://github.com/warpdotdev/warp",
+      "first_seen": "2026-04-30",
+      "last_seen": "2026-04-30",
+      "count": 1
+    },
+    "https://github.com/mattpocock/skills": {
+      "title": "mattpocock/skills · 今日 7K⭐ 暴涨",
+      "url": "https://github.com/mattpocock/skills",
+      "first_seen": "2026-04-30",
+      "last_seen": "2026-04-30",
+      "count": 1
+    },
+    "https://github.com/obra/superpowers": {
+      "title": "obra/superpowers · 今日 1.6K⭐",
+      "url": "https://github.com/obra/superpowers",
+      "first_seen": "2026-04-30",
+      "last_seen": "2026-04-30",
+      "count": 1
+    },
+    "https://code.claude.com/docs/en/champion-kit": {
+      "title": "Anthropic Champion Kit 企业推广指南",
+      "url": "https://code.claude.com/docs/en/champion-kit",
+      "first_seen": "2026-04-30",
+      "last_seen": "2026-04-30",
+      "count": 1
+    },
+    "https://www.leiphone.com/category/industrynews/lERHmOr6zFZwPr73.html": {
+      "title": "丰e足食×阿里云千问 无人零售标杆",
+      "url": "https://www.leiphone.com/category/industrynews/lERHmOr6zFZwPr73.html",
+      "first_seen": "2026-04-30",
+      "last_seen": "2026-04-30",
+      "count": 1
+    },
+    "https://www.leiphone.com/category/transportation/K7ZQKtmfjAKjmf9X.html": {
+      "title": "荣威×火山引擎 全球首款 AI 原生汽车",
+      "url": "https://www.leiphone.com/category/transportation/K7ZQKtmfjAKjmf9X.html",
+      "first_seen": "2026-04-30",
+      "last_seen": "2026-04-30",
+      "count": 1
+    },
+    "https://www.smarthey.com/detail/486194004772.html": {
+      "title": "WorkBuddy 接入腾讯文档 AI 工作流闭环",
+      "url": "https://www.smarthey.com/detail/486194004772.html",
+      "first_seen": "2026-04-30",
+      "last_seen": "2026-04-30",
+      "count": 1
+    },
+    "https://www.smarthey.com/detail/917123402289.html": {
+      "title": "阶跃星辰 Step Image Edit 2 · 3.5B 登顶",
+      "url": "https://www.smarthey.com/detail/917123402289.html",
+      "first_seen": "2026-04-30",
+      "last_seen": "2026-04-30",
+      "count": 1
+    },
+    "https://github.com/modelcontextprotocol/registry": {
+      "title": "modelcontextprotocol/registry 官方注册表",
+      "url": "https://github.com/modelcontextprotocol/registry",
+      "first_seen": "2026-04-30",
+      "last_seen": "2026-04-30",
+      "count": 1
+    },
+    "https://github.com/Mouseww/anything-analyzer": {
+      "title": "anything-analyzer · 抓包+MCP+AI 分析",
+      "url": "https://github.com/Mouseww/anything-analyzer",
+      "first_seen": "2026-04-30",
+      "last_seen": "2026-04-30",
+      "count": 1
+    },
+    "https://dev.to/tokenmixai/flowise-mcp-rce-what-cve-2026-40933-teaches-about-agent-security-1p6g": {
+      "title": "Flowise MCP RCE CVE-2026-40933 分析",
+      "url": "https://dev.to/tokenmixai/flowise-mcp-rce-what-cve-2026-40933-teaches-about-agent-security-1p6g",
+      "first_seen": "2026-04-30",
+      "last_seen": "2026-04-30",
+      "count": 1
+    },
+    "https://github.com/jpicklyk/task-orchestrator": {
+      "title": "task-orchestrator · Schema 强制 Agent 输出",
+      "url": "https://github.com/jpicklyk/task-orchestrator",
+      "first_seen": "2026-04-30",
+      "last_seen": "2026-04-30",
+      "count": 1
+    },
+    "https://dev.to/tomfweb/why-we-built-an-mcp-server-for-website-health-data-instead-of-letting-agents-run-the-checks-42jo": {
+      "title": "MCP server 替代 Agent 自检的设计思路",
+      "url": "https://dev.to/tomfweb/why-we-built-an-mcp-server-for-website-health-data-instead-of-letting-agents-run-the-checks-42jo",
+      "first_seen": "2026-04-30",
+      "last_seen": "2026-04-30",
+      "count": 1
+    },
+    "https://dev.to/moonrunnerkc/94-of-published-skillmd-files-skip-the-specs-two-most-basic-patterns-oo0": {
+      "title": "94% SKILL.md 实现缺失 spec 核心模式",
+      "url": "https://dev.to/moonrunnerkc/94-of-published-skillmd-files-skip-the-specs-two-most-basic-patterns-oo0",
+      "first_seen": "2026-04-30",
+      "last_seen": "2026-04-30",
+      "count": 1
+    }
+  }
+}
