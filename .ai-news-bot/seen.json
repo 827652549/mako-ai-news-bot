@@ -1,0 +1,123 @@
+{
+  "urls": {
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.126": {
+      "title": "Claude Code v2.1.126 · project purge + gateway model picker",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.126",
+      "first_seen": "2026-05-02",
+      "last_seen": "2026-05-02",
+      "count": 1
+    },
+    "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/": {
+      "title": "Uber torches 2026 AI budget on Claude Code in 4 months",
+      "url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
+      "first_seen": "2026-05-02",
+      "last_seen": "2026-05-02",
+      "count": 1
+    },
+    "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.92.0": {
+      "title": "anthropic-sdk-typescript v0.92.0 · Managed Agents API",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.92.0",
+      "first_seen": "2026-05-02",
+      "last_seen": "2026-05-02",
+      "count": 1
+    },
+    "https://dev.to/arcade/claude-code-routines-5-production-workflows-that-ship-real-work-25il": {
+      "title": "Claude Code Routines: 5 production workflows that ship",
+      "url": "https://dev.to/arcade/claude-code-routines-5-production-workflows-that-ship-real-work-25il",
+      "first_seen": "2026-05-02",
+      "last_seen": "2026-05-02",
+      "count": 1
+    },
+    "https://dev.to/jtorchia/claude-code-refuses-commits-with-openclaw-i-reproduced-it-on-my-real-repo-and-the-behavior-is-26bl": {
+      "title": "OpenClaw in Claude Code: contradicts the viral post",
+      "url": "https://dev.to/jtorchia/claude-code-refuses-commits-with-openclaw-i-reproduced-it-on-my-real-repo-and-the-behavior-is-26bl",
+      "first_seen": "2026-05-02",
+      "last_seen": "2026-05-02",
+      "count": 1
+    },
+    "https://github.com/mattpocock/skills": {
+      "title": "mattpocock/skills · 3645 stars · 真实工程师的 Claude skills",
+      "url": "https://github.com/mattpocock/skills",
+      "first_seen": "2026-05-02",
+      "last_seen": "2026-05-02",
+      "count": 1
+    },
+    "https://github.com/warpdotdev/warp": {
+      "title": "warpdotdev/warp · 3401 stars · Agentic 开发环境开源",
+      "url": "https://github.com/warpdotdev/warp",
+      "first_seen": "2026-05-02",
+      "last_seen": "2026-05-02",
+      "count": 1
+    },
+    "https://github.com/garrytan/gstack": {
+      "title": "garrytan/gstack · Garry Tan 的 23 工具 Claude Code 配置",
+      "url": "https://github.com/garrytan/gstack",
+      "first_seen": "2026-05-02",
+      "last_seen": "2026-05-02",
+      "count": 1
+    },
+    "https://github.com/obra/superpowers": {
+      "title": "obra/superpowers · 1096 stars · Agentic 软件开发方法论",
+      "url": "https://github.com/obra/superpowers",
+      "first_seen": "2026-05-02",
+      "last_seen": "2026-05-02",
+      "count": 1
+    },
+    "https://dev.to/tak848/ccgate-delegate-claude-code-codex-cli-permission-prompts-to-an-llm-274c": {
+      "title": "ccgate: Delegate Claude/Codex permission prompts to LLM",
+      "url": "https://dev.to/tak848/ccgate-delegate-claude-code-codex-cli-permission-prompts-to-an-llm-274c",
+      "first_seen": "2026-05-02",
+      "last_seen": "2026-05-02",
+      "count": 1
+    },
+    "https://www.leiphone.com/category/industrynews/y3caNPRzm8uVpYbx.html": {
+      "title": "阿里缩减合伙人人数，AI 纳入核心业务",
+      "url": "https://www.leiphone.com/category/industrynews/y3caNPRzm8uVpYbx.html",
+      "first_seen": "2026-05-02",
+      "last_seen": "2026-05-02",
+      "count": 1
+    },
+    "https://www.leiphone.com/category/BigTech/lMAGjH9NOu3gjnXf.html": {
+      "title": "抖音版花呗上线，字节跳动做金融能成吗？",
+      "url": "https://www.leiphone.com/category/BigTech/lMAGjH9NOu3gjnXf.html",
+      "first_seen": "2026-05-02",
+      "last_seen": "2026-05-02",
+      "count": 1
+    },
+    "https://github.com/microsoft/mcp": {
+      "title": "microsoft/mcp · 官方 Microsoft MCP 服务器目录",
+      "url": "https://github.com/microsoft/mcp",
+      "first_seen": "2026-05-02",
+      "last_seen": "2026-05-02",
+      "count": 1
+    },
+    "https://dev.to/sam_curatedmcp/five-hard-problems-in-the-mcp-ecosystem-3651": {
+      "title": "Five Hard Problems in the MCP Ecosystem",
+      "url": "https://dev.to/sam_curatedmcp/five-hard-problems-in-the-mcp-ecosystem-3651",
+      "first_seen": "2026-05-02",
+      "last_seen": "2026-05-02",
+      "count": 1
+    },
+    "https://dev.to/abdlrahmansaberabdo/debug-mcp-like-network-tab-seeing-every-tool-call-in-real-time-2gdf": {
+      "title": "Debug MCP Like Network Tab: Every Tool Call Real Time",
+      "url": "https://dev.to/abdlrahmansaberabdo/debug-mcp-like-network-tab-seeing-every-tool-call-in-real-time-2gdf",
+      "first_seen": "2026-05-02",
+      "last_seen": "2026-05-02",
+      "count": 1
+    },
+    "https://dev.to/ryosuke_tsuji_f08e20fdca1/cutting-self-built-mcp-server-token-usage-by-90-the-parking-pattern-3e7o": {
+      "title": "Cut MCP Server Token Usage by 90% — The Parking Pattern",
+      "url": "https://dev.to/ryosuke_tsuji_f08e20fdca1/cutting-self-built-mcp-server-token-usage-by-90-the-parking-pattern-3e7o",
+      "first_seen": "2026-05-02",
+      "last_seen": "2026-05-02",
+      "count": 1
+    },
+    "https://github.com/askalf/dario": {
+      "title": "askalf/dario · 本地 LLM 路由器 + MCP 服务器",
+      "url": "https://github.com/askalf/dario",
+      "first_seen": "2026-05-02",
+      "last_seen": "2026-05-02",
+      "count": 1
+    }
+  }
+}
