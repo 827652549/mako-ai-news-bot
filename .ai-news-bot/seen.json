@@ -1,0 +1,641 @@
+{
+  "urls": {
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.126": {
+      "title": "claude-code v2.1.126 · What's changed - The `/model` picker now lists models fro",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.126",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.29.1": {
+      "title": "anthropic-sdk-typescript bedrock-sdk-v0.29.1 · 0.29.1 (2026-04-30) Full Changelo",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/bedrock-sdk-v0.29.1",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/larksuite/cli/releases/tag/v1.0.23": {
+      "title": "cli v1.0.23 · Changelog * 686c91dc71d56700dca746b6b1a0774ff12c405e chore(r",
+      "url": "https://github.com/larksuite/cli/releases/tag/v1.0.23",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/TauricResearch/TradingAgents": {
+      "title": "TauricResearch/TradingAgents · 2225⭐今日",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/ruvnet/ruflo": {
+      "title": "ruvnet/ruflo · 1299⭐今日",
+      "url": "https://github.com/ruvnet/ruflo",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/1jehuang/jcode": {
+      "title": "1jehuang/jcode · 482⭐今日",
+      "url": "https://github.com/1jehuang/jcode",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/browserbase/skills": {
+      "title": "browserbase/skills · 346⭐今日",
+      "url": "https://github.com/browserbase/skills",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/simstudioai/sim": {
+      "title": "simstudioai/sim · 215⭐今日",
+      "url": "https://github.com/simstudioai/sim",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/jo-inc/camofox-browser": {
+      "title": "jo-inc/camofox-browser · 165⭐今日",
+      "url": "https://github.com/jo-inc/camofox-browser",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/iOfficeAI/AionUi": {
+      "title": "iOfficeAI/AionUi · 118⭐今日",
+      "url": "https://github.com/iOfficeAI/AionUi",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/decolua/9router": {
+      "title": "decolua/9router · 112⭐今日",
+      "url": "https://github.com/decolua/9router",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/bradygaster/squad": {
+      "title": "bradygaster/squad · 29⭐今日",
+      "url": "https://github.com/bradygaster/squad",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/danielmiessler/Personal_AI_Infrastructure": {
+      "title": "danielmiessler/Personal_AI_Infrastructure · 27⭐今日",
+      "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/777genius/claude_agent_teams_ui": {
+      "title": "777genius/claude_agent_teams_ui · 15⭐今日",
+      "url": "https://github.com/777genius/claude_agent_teams_ui",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/ToolJet/ToolJet": {
+      "title": "ToolJet/ToolJet · 12⭐今日",
+      "url": "https://github.com/ToolJet/ToolJet",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/perplexityai/modelcontextprotocol": {
+      "title": "perplexityai/modelcontextprotocol · 2⭐今日",
+      "url": "https://github.com/perplexityai/modelcontextprotocol",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/nexu-io/open-design": {
+      "title": "nexu-io/open-design · 16111⭐",
+      "url": "https://github.com/nexu-io/open-design",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/op7418/guizang-ppt-skill": {
+      "title": "op7418/guizang-ppt-skill · 4643⭐",
+      "url": "https://github.com/op7418/guizang-ppt-skill",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/NyxTides/ppt-image-first": {
+      "title": "NyxTides/ppt-image-first · 535⭐",
+      "url": "https://github.com/NyxTides/ppt-image-first",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/evanklem/evanflow": {
+      "title": "evanklem/evanflow · 373⭐",
+      "url": "https://github.com/evanklem/evanflow",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/AKCodez/hackingtool-plugin": {
+      "title": "AKCodez/hackingtool-plugin · 365⭐",
+      "url": "https://github.com/AKCodez/hackingtool-plugin",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/seulee26/mckinsey-pptx": {
+      "title": "seulee26/mckinsey-pptx · 357⭐",
+      "url": "https://github.com/seulee26/mckinsey-pptx",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/ksimback/tech-debt-skill": {
+      "title": "ksimback/tech-debt-skill · 346⭐",
+      "url": "https://github.com/ksimback/tech-debt-skill",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/nateherkai/token-dashboard": {
+      "title": "nateherkai/token-dashboard · 341⭐",
+      "url": "https://github.com/nateherkai/token-dashboard",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/Cuimao777/cuimao-translator": {
+      "title": "Cuimao777/cuimao-translator · 301⭐",
+      "url": "https://github.com/Cuimao777/cuimao-translator",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/browser-use/bux": {
+      "title": "browser-use/bux · 293⭐",
+      "url": "https://github.com/browser-use/bux",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/punkpeye/awesome-mcp-servers": {
+      "title": "punkpeye/awesome-mcp-servers · 86127⭐",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/microsoft/playwright-mcp": {
+      "title": "microsoft/playwright-mcp · 31918⭐",
+      "url": "https://github.com/microsoft/playwright-mcp",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/github/github-mcp-server": {
+      "title": "github/github-mcp-server · 29453⭐",
+      "url": "https://github.com/github/github-mcp-server",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/activepieces/activepieces": {
+      "title": "activepieces/activepieces · 22017⭐",
+      "url": "https://github.com/activepieces/activepieces",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/googleapis/mcp-toolbox": {
+      "title": "googleapis/mcp-toolbox · 14911⭐",
+      "url": "https://github.com/googleapis/mcp-toolbox",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/GLips/Figma-Context-MCP": {
+      "title": "GLips/Figma-Context-MCP · 14592⭐",
+      "url": "https://github.com/GLips/Figma-Context-MCP",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/casdoor/casdoor": {
+      "title": "casdoor/casdoor · 13536⭐",
+      "url": "https://github.com/casdoor/casdoor",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/mcp-use/mcp-use": {
+      "title": "mcp-use/mcp-use · 9870⭐",
+      "url": "https://github.com/mcp-use/mcp-use",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/modelcontextprotocol/inspector": {
+      "title": "modelcontextprotocol/inspector · 9642⭐",
+      "url": "https://github.com/modelcontextprotocol/inspector",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/awslabs/mcp": {
+      "title": "awslabs/mcp · 8932⭐",
+      "url": "https://github.com/awslabs/mcp",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/ConardLi/garden-skills": {
+      "title": "ConardLi/garden-skills · 2108⭐",
+      "url": "https://github.com/ConardLi/garden-skills",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/skydoves/compose-performance-skills": {
+      "title": "skydoves/compose-performance-skills · 261⭐",
+      "url": "https://github.com/skydoves/compose-performance-skills",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/Julpygo/Claude-Code-AI-Design": {
+      "title": "Julpygo/Claude-Code-AI-Design · 211⭐",
+      "url": "https://github.com/Julpygo/Claude-Code-AI-Design",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/Alfredo7777777/claude-design-agents-toolkit": {
+      "title": "Alfredo7777777/claude-design-agents-toolkit · 197⭐",
+      "url": "https://github.com/Alfredo7777777/claude-design-agents-toolkit",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/IKingBarou/Zeroclaw-Plugin-Hub": {
+      "title": "IKingBarou/Zeroclaw-Plugin-Hub · 197⭐",
+      "url": "https://github.com/IKingBarou/Zeroclaw-Plugin-Hub",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/kaktusesquire6rmu/ai-polymarket-agent": {
+      "title": "kaktusesquire6rmu/ai-polymarket-agent · 165⭐",
+      "url": "https://github.com/kaktusesquire6rmu/ai-polymarket-agent",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/hacktivist123/agent-session-resume": {
+      "title": "hacktivist123/agent-session-resume · 158⭐",
+      "url": "https://github.com/hacktivist123/agent-session-resume",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/agentforce314/clawcodex": {
+      "title": "agentforce314/clawcodex · 125⭐",
+      "url": "https://github.com/agentforce314/clawcodex",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/AeternaLabsHQ/pullmd": {
+      "title": "AeternaLabsHQ/pullmd · 105⭐",
+      "url": "https://github.com/AeternaLabsHQ/pullmd",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/lahfir/agent-desktop": {
+      "title": "Show HN: Agent-desktop – Native desktop automation CLI for AI agents",
+      "url": "https://github.com/lahfir/agent-desktop",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en": {
+      "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
+      "url": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://snewpapers.com/": {
+      "title": "Show HN: Large Scale Article Extract of Newspapers 1730s-1960s",
+      "url": "https://snewpapers.com/",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://dev.to/jtorchia/spotify-verified-for-human-artists-what-it-signals-for-code-content-and-my-own-blog-2bk5": {
+      "title": "Spotify Verified for Human Artists: What It Signals for Code, Content, and My Ow",
+      "url": "https://dev.to/jtorchia/spotify-verified-for-human-artists-what-it-signals-for-code-content-and-my-own-blog-2bk5",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://dev.to/jtorchia/spotify-verified-para-artistas-humanos-lo-que-esto-anticipa-para-el-codigo-el-contenido-y-mi-30b8": {
+      "title": "Spotify Verified para artistas humanos: lo que esto anticipa para el código, el ",
+      "url": "https://dev.to/jtorchia/spotify-verified-para-artistas-humanos-lo-que-esto-anticipa-para-el-codigo-el-contenido-y-mi-30b8",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://dev.to/jeffreese/spec-driven-development-515": {
+      "title": "Spec-Driven Development",
+      "url": "https://dev.to/jeffreese/spec-driven-development-515",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://dev.to/michelfaure/memory-code-audit-the-anti-drift-discipline-1p6b": {
+      "title": "Memory code audit: the anti-drift discipline",
+      "url": "https://dev.to/michelfaure/memory-code-audit-the-anti-drift-discipline-1p6b",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://dev.to/michelfaure/audit-memory-code-le-chantier-anti-derive-25e4": {
+      "title": "Audit memory code : le chantier anti-dérive",
+      "url": "https://dev.to/michelfaure/audit-memory-code-le-chantier-anti-derive-25e4",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://dev.to/reneza/agentic-knowledge-base-karpathys-llm-wiki-with-adapters-593n": {
+      "title": "Pure semantic search missed 4 of 5 of my agent queries. Hybrid + parallel fan-ou",
+      "url": "https://dev.to/reneza/agentic-knowledge-base-karpathys-llm-wiki-with-adapters-593n",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://dev.to/kenimo49/vibe-coding-will-get-your-api-keys-stolen-env-and-keychain-wont-save-you-4ifg": {
+      "title": "Vibe Coding Will Get Your API Keys Stolen — .env and Keychain Won't Save You",
+      "url": "https://dev.to/kenimo49/vibe-coding-will-get-your-api-keys-stolen-env-and-keychain-wont-save-you-4ifg",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://dev.to/michaeltuszynski/your-agents-compliments-are-a-confession-3kdj": {
+      "title": "Your Agent's Compliments Are a Confession",
+      "url": "https://dev.to/michaeltuszynski/your-agents-compliments-are-a-confession-3kdj",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://dev.to/lazydev_oh/i-spent-a-week-with-the-mcp-server-i-built-8-real-cases-for-apsity-2cc4": {
+      "title": "I Spent a Week with the MCP Server I Built — 8 Real Cases for Apsity",
+      "url": "https://dev.to/lazydev_oh/i-spent-a-week-with-the-mcp-server-i-built-8-real-cases-for-apsity-2cc4",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://dev.to/agentkit/pretooluse-hooks-are-a-tiny-state-machine-the-four-exit-codes-that-actually-matter-2bg3": {
+      "title": "PreToolUse Hooks Are a Tiny State Machine: The Four Exit Codes That Actually Mat",
+      "url": "https://dev.to/agentkit/pretooluse-hooks-are-a-tiny-state-machine-the-four-exit-codes-that-actually-matter-2bg3",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://dev.to/zoetaka38/3-mcp-server-failure-modes-that-bit-us-in-production-and-how-we-ship-around-them-4fc9": {
+      "title": "3 MCP server failure modes that bit us in production, and how we ship around the",
+      "url": "https://dev.to/zoetaka38/3-mcp-server-failure-modes-that-bit-us-in-production-and-how-we-ship-around-them-4fc9",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://dev.to/zoetaka38/i-shipped-a-regex-to-catch-ai-agents-committing-only-half-the-work-then-i-ripped-it-back-out-3imi": {
+      "title": "I shipped a regex to catch AI agents committing only half the work. Then I rippe",
+      "url": "https://dev.to/zoetaka38/i-shipped-a-regex-to-catch-ai-agents-committing-only-half-the-work-then-i-ripped-it-back-out-3imi",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://dev.to/pablo72/i-put-claude-inside-blenders-text-editor-2meo": {
+      "title": "I put Claude inside Blender's Text Editor",
+      "url": "https://dev.to/pablo72/i-put-claude-inside-blenders-text-editor-2meo",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://dev.to/hector_haung_da45eb10a814/ai-is-very-good-at-implementing-bad-plans-4d80": {
+      "title": "AI Is Very Good at Implementing Bad Plans",
+      "url": "https://dev.to/hector_haung_da45eb10a814/ai-is-very-good-at-implementing-bad-plans-4d80",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://dev.to/mspro3210/when-a-protocol-vendor-declines-to-patch-the-test-harness-becomes-the-spec-5837": {
+      "title": "When a protocol vendor declines to patch, the test harness becomes the spec",
+      "url": "https://dev.to/mspro3210/when-a-protocol-vendor-declines-to-patch-the-test-harness-becomes-the-spec-5837",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://dev.to/irparent/what-changed-in-iris-v040-1c0k": {
+      "title": "What changed in Iris v0.4.0",
+      "url": "https://dev.to/irparent/what-changed-in-iris-v040-1c0k",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://dev.to/studiomeyer_io/three-tools-three-layers-sentry-langfuse-and-langgraph-for-multi-agent-fleets-4c92": {
+      "title": "Three Tools, Three Layers: Sentry, Langfuse, and LangGraph for Multi-Agent Fleet",
+      "url": "https://dev.to/studiomeyer_io/three-tools-three-layers-sentry-langfuse-and-langgraph-for-multi-agent-fleets-4c92",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://dev.to/min8t/why-email-verification-is-21-checks-not-1-and-why-mcp-makes-it-agent-ready-3me6": {
+      "title": "Why email verification is 21 checks, not 1 (and why MCP makes it agent-ready)",
+      "url": "https://dev.to/min8t/why-email-verification-is-21-checks-not-1-and-why-mcp-makes-it-agent-ready-3me6",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://dev.to/yoshinaga/30-seconds-to-a-real-diagnosis-with-mureo-v080-demo-scenarios-4cfg": {
+      "title": "30 seconds to a real diagnosis with mureo v0.8.0 demo scenarios",
+      "url": "https://dev.to/yoshinaga/30-seconds-to-a-real-diagnosis-with-mureo-v080-demo-scenarios-4cfg",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://dev.to/barissozen/the-6-mcp-tools-in-hashlock-markets-what-each-one-does-and-when-an-agent-calls-it-54gm": {
+      "title": "The 6 MCP tools in Hashlock Markets — what each one does and when an agent calls",
+      "url": "https://dev.to/barissozen/the-6-mcp-tools-in-hashlock-markets-what-each-one-does-and-when-an-agent-calls-it-54gm",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://www.leiphone.com/category/industrynews/y3caNPRzm8uVpYbx.html": {
+      "title": "阿里缩减合伙人人数，AI纳入核心业 ...",
+      "url": "https://www.leiphone.com/category/industrynews/y3caNPRzm8uVpYbx.html",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/warpdot-dev/composio": {
+      "title": "warpdot-dev/composio · 175⭐",
+      "url": "https://github.com/warpdot-dev/composio",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/HarimxChoi/google-surf-mcp": {
+      "title": "HarimxChoi/google-surf-mcp · 81⭐",
+      "url": "https://github.com/HarimxChoi/google-surf-mcp",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://dev.to/atomadic/why-ai-coding-agents-need-an-architecture-compiler-and-i-built-one-1a2f": {
+      "title": "Why AI coding agents need an architecture compiler (and I built one)",
+      "url": "https://dev.to/atomadic/why-ai-coding-agents-need-an-architecture-compiler-and-i-built-one-1a2f",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://dev.to/afriex/build-cross-border-payment-ai-agents-with-the-afriex-mcp-server-2l5j": {
+      "title": "Build Cross-Border Payment AI Agents with the Afriex MCP Server",
+      "url": "https://dev.to/afriex/build-cross-border-payment-ai-agents-with-the-afriex-mcp-server-2l5j",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://dev.to/codewithveek/model-context-protocol-the-standard-that-lets-ai-agents-actually-do-things-4coj": {
+      "title": "Model Context Protocol: The Standard That Lets AI Agents Actually Do Things",
+      "url": "https://dev.to/codewithveek/model-context-protocol-the-standard-that-lets-ai-agents-actually-do-things-4coj",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/github/spec-kit": {
+      "title": "github/spec-kit · 92193⭐",
+      "url": "https://github.com/github/spec-kit",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/gsd-build/get-shit-done": {
+      "title": "gsd-build/get-shit-done · 59474⭐",
+      "url": "https://github.com/gsd-build/get-shit-done",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/Fission-AI/OpenSpec": {
+      "title": "Fission-AI/OpenSpec · 44814⭐",
+      "url": "https://github.com/Fission-AI/OpenSpec",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/gsd-build/gsd-2": {
+      "title": "gsd-build/gsd-2 · 7005⭐",
+      "url": "https://github.com/gsd-build/gsd-2",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/potpie-ai/potpie": {
+      "title": "potpie-ai/potpie · 5363⭐",
+      "url": "https://github.com/potpie-ai/potpie",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/sdi2200262/agentic-project-management": {
+      "title": "sdi2200262/agentic-project-management · 2233⭐",
+      "url": "https://github.com/sdi2200262/agentic-project-management",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/maxritter/pilot-shell": {
+      "title": "maxritter/pilot-shell · 1676⭐",
+      "url": "https://github.com/maxritter/pilot-shell",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/Priivacy-ai/spec-kitty": {
+      "title": "Priivacy-ai/spec-kitty · 1185⭐",
+      "url": "https://github.com/Priivacy-ai/spec-kitty",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/zino-rs/zino": {
+      "title": "zino-rs/zino · 1120⭐",
+      "url": "https://github.com/zino-rs/zino",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/ChristopherKahler/paul": {
+      "title": "ChristopherKahler/paul · 858⭐",
+      "url": "https://github.com/ChristopherKahler/paul",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/modu-ai/moai-adk": {
+      "title": "modu-ai/moai-adk · 974⭐",
+      "url": "https://github.com/modu-ai/moai-adk",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/Linfee/spec-kit-cn": {
+      "title": "Linfee/spec-kit-cn · 625⭐",
+      "url": "https://github.com/Linfee/spec-kit-cn",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/ThibautBaissac/rails_ai_agents": {
+      "title": "ThibautBaissac/rails_ai_agents · 525⭐",
+      "url": "https://github.com/ThibautBaissac/rails_ai_agents",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/loulanyue/spec-kit-zh": {
+      "title": "loulanyue/spec-kit-zh · 237⭐",
+      "url": "https://github.com/loulanyue/spec-kit-zh",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://github.com/madebyaris/spec-kit-command-cursor": {
+      "title": "madebyaris/spec-kit-command-cursor · 177⭐",
+      "url": "https://github.com/madebyaris/spec-kit-command-cursor",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://iesna.eu/?wasm=skyglow_demo": {
+      "title": "Show HN: Browser-based light pollution simulator using real photometric data",
+      "url": "https://iesna.eu/?wasm=skyglow_demo",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    },
+    "https://mljar.com/": {
+      "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
+      "url": "https://mljar.com/",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "count": 1
+    }
+  }
+}
