@@ -1,0 +1,88 @@
+{
+  "urls": {
+    "https://github.com/aattaran/deepclaude": {
+      "title": "DeepClaude – Claude Code + DeepSeek V4 Pro agent loop，成本降…",
+      "url": "https://github.com/aattaran/deepclaude",
+      "first_seen": "2026-05-04",
+      "last_seen": "2026-05-04",
+      "count": 1
+    },
+    "https://github.com/ruvnet/ruflo": {
+      "title": "ruflo · Claude 多 Agent 编排平台，今日 Trending 第一（1,840 ★）",
+      "url": "https://github.com/ruvnet/ruflo",
+      "first_seen": "2026-05-04",
+      "last_seen": "2026-05-04",
+      "count": 1
+    },
+    "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/": {
+      "title": "Kimi K2.6 编程 Benchmark 超越 Claude / GPT-5.5 / Gemini（HN…",
+      "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+      "first_seen": "2026-05-04",
+      "last_seen": "2026-05-04",
+      "count": 1
+    },
+    "https://github.com/jeremylongshore/claude-code-plugins-plus-skills": {
+      "title": "claude-code-plugins-plus-skills · 425 插件 / 2810 技能 / 200…",
+      "url": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills",
+      "first_seen": "2026-05-04",
+      "last_seen": "2026-05-04",
+      "count": 1
+    },
+    "https://github.com/njbrake/agent-of-empires": {
+      "title": "agent-of-empires · Claude Code 多 Agent TUI 统一管理器",
+      "url": "https://github.com/njbrake/agent-of-empires",
+      "first_seen": "2026-05-04",
+      "last_seen": "2026-05-04",
+      "count": 1
+    },
+    "https://github.com/PrefectHQ/fastmcp": {
+      "title": "fastmcp · 最快 Python MCP 框架，25K ★ 今日持续更新",
+      "url": "https://github.com/PrefectHQ/fastmcp",
+      "first_seen": "2026-05-04",
+      "last_seen": "2026-05-04",
+      "count": 1
+    },
+    "https://github.com/MCPJam/inspector": {
+      "title": "MCPJam/inspector · MCP 全流程调试 + 评估开发平台",
+      "url": "https://github.com/MCPJam/inspector",
+      "first_seen": "2026-05-04",
+      "last_seen": "2026-05-04",
+      "count": 1
+    },
+    "https://dev.to/kanta13jp1/why-your-mcp-server-should-serve-oauth-protected-resource-metadata-authkit-rfc-9728-2ofe": {
+      "title": "MCP 服务器应实现 OAuth 受保护资源元数据（RFC 9728）",
+      "url": "https://dev.to/kanta13jp1/why-your-mcp-server-should-serve-oauth-protected-resource-metadata-authkit-rfc-9728-2ofe",
+      "first_seen": "2026-05-04",
+      "last_seen": "2026-05-04",
+      "count": 1
+    },
+    "https://dev.to/kanta13jp1/stopping-ai-agent-tool-calls-with-deny-by-default-server-side-scope-gate-and-ceo-approval-2fec": {
+      "title": "deny-by-default：服务端 scope 门控阻断 AI Agent 越权调用",
+      "url": "https://dev.to/kanta13jp1/stopping-ai-agent-tool-calls-with-deny-by-default-server-side-scope-gate-and-ceo-approval-2fec",
+      "first_seen": "2026-05-04",
+      "last_seen": "2026-05-04",
+      "count": 1
+    },
+    "https://github.com/steipete/macos-automator-mcp": {
+      "title": "macos-automator-mcp · AppleScript / JXA 操控 macOS 的 MCP 服务器",
+      "url": "https://github.com/steipete/macos-automator-mcp",
+      "first_seen": "2026-05-04",
+      "last_seen": "2026-05-04",
+      "count": 1
+    },
+    "https://dev.to/jtorchia/specsmaxxing-i-wrote-yaml-specs-for-my-ai-agents-heres-what-changed-and-what-didnt-3ld6": {
+      "title": "Specsmaxxing：用 YAML Spec 规范 AI Agent 行为边界的实战",
+      "url": "https://dev.to/jtorchia/specsmaxxing-i-wrote-yaml-specs-for-my-ai-agents-heres-what-changed-and-what-didnt-3ld6",
+      "first_seen": "2026-05-04",
+      "last_seen": "2026-05-04",
+      "count": 1
+    },
+    "https://dev.to/michelfaure/29-days-a-91k-line-erp-zero-developers-29mj": {
+      "title": "29 天 / 91k 行 ERP / 零开发者：AI spec 驱动大规模工程验证",
+      "url": "https://dev.to/michelfaure/29-days-a-91k-line-erp-zero-developers-29mj",
+      "first_seen": "2026-05-04",
+      "last_seen": "2026-05-04",
+      "count": 1
+    }
+  }
+}
