@@ -4,7 +4,7 @@
     "header": {
       "title": {
         "tag": "plain_text",
-        "content": "📡 AI 资讯速报 · 2026-04-16"
+        "content": "📡 AI 资讯速报 · 2026-05-05"
       },
       "template": "blue"
     },
@@ -13,7 +13,7 @@
         "tag": "div",
         "text": {
           "tag": "lark_md",
-          "content": "**🔧 Claude 生态**\n· [Claude Code v2.1.110 · /tui全屏、移动推送通知、MCP…](https://github.com/anthropics/claude-code/releases/tag/v2.1.110)\n  _Claude Code 最新版本，新增 /tui 无闪烁全屏渲染、移动端 Push 通知工具、MCP 服务器断连修复和安全加固，直接影响日常编程工作流，建议今日更新_\n· [Claude Code v2.1.109 · 扩展思维进度提示改进](https://github.com/anthropics/claude-code/releases/tag/v2.1.109)\n  _同日发布，优化了 Extended Thinking（扩展推理）的旋转进度提示动画，使用深度推理模式时体验更流畅_\n· [Claude.ai / API / Claude Code 服务大规模故障（HN…](https://claudestatus.com/)\n  _昨日 Claude 服务出现系统性异常，社区热议 242+ 分，了解故障背景有助于评估 AI 编程工具的稳定性风险和降级方案_\n· [anthropic-sdk-typescript v0.89.0 · 正式标记 …](https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.89.0)\n  _SDK 将旧版 Claude Sonnet 4 和 Opus 4 标记为 deprecated，说明 Claude 4.5/4.6 系列已成主力模型，现有项目应尽快迁移依赖_"
+          "content": "**Claude 生态**\n· [Claude Code v2.1.128 发布](https://github.com/anthropics/claude-code/releases/tag/v2.1.128)\n  _/mcp 现在显示每个服务器工具数量并标记 0 工具服务器；--plugin-dir 支持 .zip 插件包；MCP 重连不再刷屏全工具列表——三项直接影响多工具 Claude Code 工作流稳定性_\n· [anthropic-sdk-py v0.98.0 /…](https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.98.0)\n  _双端同日新增 Workload Identity Federation + 交互式 OAuth + auth profiles，企业级 Claude API 接入认证升级；streaming stop_details 传播 bug 同步修复_\n· [Anthropic 宣布成立企业 AI 服务公司](https://www.anthropic.com/news/enterprise-ai-services-company)\n  _Anthropic 亲自入场企业 AI 实施服务，直接影响国内云厂商与 Anthropic 的合作/竞争格局；面试战略题的第一手材料_"
         }
       },
       {
@@ -23,7 +23,7 @@
         "tag": "div",
         "text": {
           "tag": "lark_md",
-          "content": "**🛠️ AI 工具发现**\n· [forrestchang/andrej-karpathy-skills · 今日…](https://github.com/forrestchang/andrej-karpathy-skills)\n  _将 Andrej Karpathy 总结的 LLM 编码陷阱浓缩为单个 CLAUDE.md，可直接拖入项目提升 Claude Code 输出质量，强烈推荐收藏_\n· [thedotmack/claude-mem · Claude Code 自动记忆…](https://github.com/thedotmack/claude-mem)\n  _自动捕获 Claude 的会话操作、AI 压缩后注入未来上下文，解决大型项目历史信息丢失问题，是 Claude Code 工程化的实用扩展_\n· [obra/superpowers · Agentic 技能框架，2,055⭐](https://github.com/obra/superpowers)\n  _快速增长的 Agent 软件开发方法论框架，与 Claude Code Skills 系统理念高度契合，了解其设计思路有助于面试中阐述 Agent 架构观点_\n· [Libretto – 确定性 AI 浏览器自动化（HN 88pts）](https://github.com/saffron-health/libretto)\n  _提出「开发时 AI」理念：用 coding agent 预生成可检查的确定性脚本，而非运行时黑盒 agent，对 spec-driven 开发思路有重要参考价值_\n· [How I built a resume MCP in an hour（DEV …](https://dev.to/david_hyland_08f49962a50f/how-i-built-a-resume-mcp-in-an-hour-3o4m)\n  _一小时内构建完整 MCP 服务器的实战教程，展示了 MCP 开发的低门槛，面试时可作为 MCP 生态快速上手能力的佐证_"
+          "content": "**AI 工具发现**\n· [DeepClaude: Claude Code ×…](https://github.com/aattaran/deepclaude)\n  _用环境变量注入把 Claude Code 的 API 后端替换为 DeepSeek V4 Pro，每百万 token 降至 $0.87（原 $15），HN 650pts 验证；前端工程师降本实战参考_\n· [ruvnet/ruflo: Claude 多 agent…](https://github.com/ruvnet/ruflo)\n  _TypeScript 优先的 Claude agent swarm 编排框架，今日 +2598 stars 爆发；对前端工程师构建多 agent 工作流有直接参考，值得跟进架构设计_\n· [Uber 4 个月烧光 2026 Claude Code…](https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/)\n  _真实案例揭示 tokenmaxxing 反模式：组织将 token 消耗量当生产力指标，导致 context 无节制膨胀；面试 AI cost governance 话题的典型案例_\n· [czlonkowski/n8n-mcp: Claude…](https://github.com/czlonkowski/n8n-mcp)\n  _MCP 把 Claude Desktop 与 n8n 工作流打通，TS 实现；前端工程师可用它将 AI agent 嵌入已有 n8n 自动化流程，今日 +496 stars_\n· [browserbase/skills: Claude…](https://github.com/browserbase/skills)\n  _官方 Agent SDK 的 web browsing 封装，JS 生态实现；今日 +320 stars 反映 browser-use 需求正从 Python 向前端生态迁移_"
         }
       },
       {
@@ -33,7 +33,7 @@
         "tag": "div",
         "text": {
           "tag": "lark_md",
-          "content": "**🏢 国内 AI 动态**\n· [台积电 Q1 净利润同比增 50%，AI 需求连续四季度创纪录](https://www.smarthey.com/detail/680101801886.html)\n  _AI 芯片需求持续高速增长，直接影响国内云厂商（阿里云、腾讯云）的 GPU 算力采购成本与 AI 服务定价策略，是 AI 工程化背景的重要宏观信号_\n· [Snap 裁员 1,000 人，聚焦 AI 驱动长期价值增长](https://www.smarthey.com/detail/189101801889.html)\n  _海外 AI 赛道裁员重组趋势持续，对比国内大厂 AI 编码工具（CodeBuddy 等）投入加大，AI coding 赛道竞争格局在全球范围内加速分化_"
+          "content": "**国内 AI 动态**\n· [Kimi K2.6 编程评测超越…](https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/)\n  _Moonshot 开源 K2.6 在 LiveCodeBench 超越 Claude Opus 4.6，HN 375pts；了解国内模型编程能力基准对比，是判断 Claude Code 可替代性的关键数据点_\n· [腾讯 Claw 三剑客：CodeBuddy/WorkBudd…](https://blog.csdn.net/u014354882/article/details/159490629)\n  _腾讯一次推三款 Claw 系产品分别切入企业办公、个人助手、AI 编程场景；CodeBuddy 采用混元+DeepSeek 双模型架构，是国内最直接对标 Claude Code 的竞品_\n· [国内 AI 编程 Coding Plan 五月全量横评](https://zhuanlan.zhihu.com/p/2015468530938693485)\n  _覆盖火山方舟、阿里云百炼、腾讯、百度等七大平台的定价与能力对比，豆包 Trae 支持 Anthropic 原生协议是关键差异点；是选择国内 coding plan 的实用决策参考_"
         }
       },
       {
@@ -43,7 +43,17 @@
         "tag": "div",
         "text": {
           "tag": "lark_md",
-          "content": "**🔌 MCP 生态**\n· [MCP as Observability Interface: AI Agent…](https://ingero.io/mcp-observability-interface-ai-agents-kernel-tracepoints/)\n  _将 MCP 用于可观测性接口，让 AI Agent 接入内核追踪点（Tracepoint），是 MCP 协议在系统级工具链中的创新应用，扩展了 MCP 的使用边界_\n· [agent-dispatch：让 Claude Code Agents 互相通信…](https://dev.to/serik_ospanov_c84c8ee2e54/let-your-claude-code-agents-talk-to-each-other-introducing-agent-dispatch--3ik0)\n  _实现 Claude Code 多 Agent 之间的消息传递，是构建复杂 multi-agent 工作流的基础组件，对 agent 协作架构设计有直接参考价值_"
+          "content": "**MCP 生态**\n· [Show HN: Ableton Live…](https://github.com/bschoepke/ableton-live-mcp)\n  _MCP 协议已跨界到音乐制作软件控制，说明 MCP 的「工具连接」抽象边界正快速扩展到非编程领域；前端工程师理解 MCP 协议通用性的典型案例_\n· [MCP Server 实战：8 个真实业务场景](https://dev.to/lazydev_oh/i-spent-a-week-with-the-mcp-server-i-built-8-real-cases-for-apsity-2cc4)\n  _少见的 MCP server 落地工程实践文章，8 个真实场景覆盖数据查询/通知/权限控制；相比概念文章，对实际构建 MCP server 的工程师更有参考价值_"
+        }
+      },
+      {
+        "tag": "hr"
+      },
+      {
+        "tag": "div",
+        "text": {
+          "tag": "lark_md",
+          "content": "**Spec 驱动开发**\n· [Spec-Driven Development 方法论解析](https://dev.to/jeffreese/spec-driven-development-515)\n  _系统性介绍 SDD 工作流：先写 spec 让 AI 对齐，再执行编码；与 watch.yaml 关注方向直接对应，是 spec-driven 实践的入门参考_"
         }
       },
       {
@@ -54,7 +64,7 @@
         "elements": [
           {
             "tag": "plain_text",
-            "content": "数据来源：GitHub Releases · GitHub Trending · HN Algolia · DEV Community · Smarthey｜⚠️ 跳过：Leiphone（24h 内无更新）· Spec 驱动专栏（无新热度内容）· GitHub Search（Rate Limit 限速）｜修改关注维度：编辑仓库中的 watch.yaml"
+            "content": "数据来源：GitHub Releases · GitHub Trending · HN Algolia · Anthropic Blog · DEV Community · 知乎/CSDN｜修改关注维度：编辑 watch.yaml\n⚠️ 跳过：GitHub REST API（rate limit，无 token）、larksuite/cli（未找到相关版本）、雷峰网（内容更新至 4/30，无 24h 内新条目）、smarthey.com（未获取到匹配条目）、HN 24h 窗口（无 30pt+ 命中，扩展至 48h）"
           }
         ]
       }

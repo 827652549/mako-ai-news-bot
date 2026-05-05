@@ -1,0 +1,102 @@
+{
+  "urls": {
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.128": {
+      "title": "Claude Code v2.1.128 发布",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.128",
+      "first_seen": "2026-05-05",
+      "last_seen": "2026-05-05",
+      "count": 1
+    },
+    "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.98.0": {
+      "title": "anthropic-sdk-py v0.98.0 / sdk-ts v0.93.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.98.0",
+      "first_seen": "2026-05-05",
+      "last_seen": "2026-05-05",
+      "count": 1
+    },
+    "https://www.anthropic.com/news/enterprise-ai-services-company": {
+      "title": "Anthropic 宣布成立企业 AI 服务公司",
+      "url": "https://www.anthropic.com/news/enterprise-ai-services-company",
+      "first_seen": "2026-05-05",
+      "last_seen": "2026-05-05",
+      "count": 1
+    },
+    "https://github.com/aattaran/deepclaude": {
+      "title": "DeepClaude: Claude Code × DeepSeek V4 Pro",
+      "url": "https://github.com/aattaran/deepclaude",
+      "first_seen": "2026-05-05",
+      "last_seen": "2026-05-05",
+      "count": 1
+    },
+    "https://github.com/ruvnet/ruflo": {
+      "title": "ruvnet/ruflo: Claude 多 agent 编排平台",
+      "url": "https://github.com/ruvnet/ruflo",
+      "first_seen": "2026-05-05",
+      "last_seen": "2026-05-05",
+      "count": 1
+    },
+    "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/": {
+      "title": "Uber 4 个月烧光 2026 Claude Code 预算",
+      "url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
+      "first_seen": "2026-05-05",
+      "last_seen": "2026-05-05",
+      "count": 1
+    },
+    "https://github.com/czlonkowski/n8n-mcp": {
+      "title": "czlonkowski/n8n-mcp: Claude Desktop × n8n",
+      "url": "https://github.com/czlonkowski/n8n-mcp",
+      "first_seen": "2026-05-05",
+      "last_seen": "2026-05-05",
+      "count": 1
+    },
+    "https://github.com/browserbase/skills": {
+      "title": "browserbase/skills: Claude Agent SDK 浏览器能力",
+      "url": "https://github.com/browserbase/skills",
+      "first_seen": "2026-05-05",
+      "last_seen": "2026-05-05",
+      "count": 1
+    },
+    "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/": {
+      "title": "Kimi K2.6 编程评测超越 Claude/GPT-5.5",
+      "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+      "first_seen": "2026-05-05",
+      "last_seen": "2026-05-05",
+      "count": 1
+    },
+    "https://blog.csdn.net/u014354882/article/details/159490629": {
+      "title": "腾讯 Claw 三剑客：CodeBuddy/WorkBuddy/QClaw",
+      "url": "https://blog.csdn.net/u014354882/article/details/159490629",
+      "first_seen": "2026-05-05",
+      "last_seen": "2026-05-05",
+      "count": 1
+    },
+    "https://zhuanlan.zhihu.com/p/2015468530938693485": {
+      "title": "国内 AI 编程 Coding Plan 五月全量横评",
+      "url": "https://zhuanlan.zhihu.com/p/2015468530938693485",
+      "first_seen": "2026-05-05",
+      "last_seen": "2026-05-05",
+      "count": 1
+    },
+    "https://github.com/bschoepke/ableton-live-mcp": {
+      "title": "Show HN: Ableton Live MCP（112pts）",
+      "url": "https://github.com/bschoepke/ableton-live-mcp",
+      "first_seen": "2026-05-05",
+      "last_seen": "2026-05-05",
+      "count": 1
+    },
+    "https://dev.to/lazydev_oh/i-spent-a-week-with-the-mcp-server-i-built-8-real-cases-for-apsity-2cc4": {
+      "title": "MCP Server 实战：8 个真实业务场景",
+      "url": "https://dev.to/lazydev_oh/i-spent-a-week-with-the-mcp-server-i-built-8-real-cases-for-apsity-2cc4",
+      "first_seen": "2026-05-05",
+      "last_seen": "2026-05-05",
+      "count": 1
+    },
+    "https://dev.to/jeffreese/spec-driven-development-515": {
+      "title": "Spec-Driven Development 方法论解析",
+      "url": "https://dev.to/jeffreese/spec-driven-development-515",
+      "first_seen": "2026-05-05",
+      "last_seen": "2026-05-05",
+      "count": 1
+    }
+  }
+}
