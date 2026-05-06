@@ -1,0 +1,382 @@
+{
+  "urls": {
+    "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.94.0": {
+      "title": "anthropics/anthropic-sdk-typescript sdk-v0.94.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.94.0",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.99.0": {
+      "title": "anthropics/anthropic-sdk-python v0.99.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.99.0",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://claude.com/product/claude-code/enterprise": {
+      "title": "Claude Code Enterprise",
+      "url": "https://claude.com/product/claude-code/enterprise",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://claude.com/claude-code-security": {
+      "title": "Claude Code Security",
+      "url": "https://claude.com/claude-code-security",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://claude.com/chrome": {
+      "title": "Claude for Chrome",
+      "url": "https://claude.com/chrome",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://claude.com/claude-for-slack": {
+      "title": "Claude for Slack",
+      "url": "https://claude.com/claude-for-slack",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://claude.com/claude-for-excel": {
+      "title": "Claude for Excel",
+      "url": "https://claude.com/claude-for-excel",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://claude.com/claude-for-powerpoint": {
+      "title": "Claude for PowerPoint",
+      "url": "https://claude.com/claude-for-powerpoint",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://claude.com/claude-for-word": {
+      "title": "Claude for Word",
+      "url": "https://claude.com/claude-for-word",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://claude.com/partners/google-cloud-vertex-ai": {
+      "title": "Google Cloud’s Vertex AI",
+      "url": "https://claude.com/partners/google-cloud-vertex-ai",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://claude.com/partners": {
+      "title": "Claude partner network",
+      "url": "https://claude.com/partners",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://www.anthropic.com/engineering": {
+      "title": "Engineering at Anthropic",
+      "url": "https://www.anthropic.com/engineering",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://www.anthropic.com/product/claude-code": {
+      "title": "Inside Claude Code",
+      "url": "https://www.anthropic.com/product/claude-code",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://claude.com/partners/powered-by-claude": {
+      "title": "Powered by Claude",
+      "url": "https://claude.com/partners/powered-by-claude",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy": {
+      "title": "Responsible Scaling Policy",
+      "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://trust.anthropic.com": {
+      "title": "Security and compliance",
+      "url": "https://trust.anthropic.com/",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://github.com/Hmbown/DeepSeek-TUI": {
+      "title": "Hmbown/DeepSeek-TUI · 今日 2434⭐",
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://github.com/ruvnet/ruflo": {
+      "title": "ruvnet/ruflo · 今日 2432⭐",
+      "url": "https://github.com/ruvnet/ruflo",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://github.com/virattt/dexter": {
+      "title": "virattt/dexter · 今日 659⭐",
+      "url": "https://github.com/virattt/dexter",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://github.com/sponsors/mksglu": {
+      "title": "sponsors/mksglu · 今日 276⭐",
+      "url": "https://github.com/sponsors/mksglu",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://github.com/cocoindex-io/cocoindex": {
+      "title": "cocoindex-io/cocoindex · 今日 438⭐",
+      "url": "https://github.com/cocoindex-io/cocoindex",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://github.com/sponsors/msitarzewski": {
+      "title": "sponsors/msitarzewski · 今日 1218⭐",
+      "url": "https://github.com/sponsors/msitarzewski",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://github.com/sponsors/Arindam200": {
+      "title": "sponsors/Arindam200 · 今日 211⭐",
+      "url": "https://github.com/sponsors/Arindam200",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://github.com/browserbase/skills": {
+      "title": "browserbase/skills · 今日 311⭐",
+      "url": "https://github.com/browserbase/skills",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://github.com/forrestchang/andrej-karpathy-skills": {
+      "title": "forrestchang/andrej-karpathy-skills · 今日 2409⭐",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://github.com/AstrBotDevs/AstrBot": {
+      "title": "AstrBotDevs/AstrBot · 今日 74⭐",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://github.com/zhayujie/CowAgent": {
+      "title": "zhayujie/CowAgent · 今日 25⭐",
+      "url": "https://github.com/zhayujie/CowAgent",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://dev.to/jun0-ds/my-devils-advocate-worked-that-was-the-bug-4k3k": {
+      "title": "My devil's advocate worked. That was the bug.",
+      "url": "https://dev.to/jun0-ds/my-devils-advocate-worked-that-was-the-bug-4k3k",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://dev.to/anirseven/playwrightcli-is-not-npx-playwright-test-and-that-difference-is-costing-your-ai-agent-277f": {
+      "title": "`@playwright/cli` Is Not `npx playwright test` — And That…",
+      "url": "https://dev.to/anirseven/playwrightcli-is-not-npx-playwright-test-and-that-difference-is-costing-your-ai-agent-277f",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://dev.to/andrew-ooo/caveman-review-the-claude-code-skill-that-cuts-65-of-tokens-2boe": {
+      "title": "Caveman Review: The Claude Code Skill That Cuts 65% of…",
+      "url": "https://dev.to/andrew-ooo/caveman-review-the-claude-code-skill-that-cuts-65-of-tokens-2boe",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://dev.to/devtoolpicks/claude-opus-47-is-a-regression-why-developers-are-switching-back-to-46-1935": {
+      "title": "Claude Opus 4.7 Is a Regression: Why Developers Are…",
+      "url": "https://dev.to/devtoolpicks/claude-opus-47-is-a-regression-why-developers-are-switching-back-to-46-1935",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://dev.to/max_quimby/deepclaude-run-claude-code-on-deepseek-for-90-less-ac8": {
+      "title": "DeepClaude: Run Claude Code on DeepSeek for 90% Less",
+      "url": "https://dev.to/max_quimby/deepclaude-run-claude-code-on-deepseek-for-90-less-ac8",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://dev.to/max_quimby/deepclaude-vs-claude-code-vs-codex-pro-2026-cost-stack-1hkj": {
+      "title": "DeepClaude vs Claude Code vs Codex Pro: 2026 Cost Stack",
+      "url": "https://dev.to/max_quimby/deepclaude-vs-claude-code-vs-codex-pro-2026-cost-stack-1hkj",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://dev.to/techsifted/anthropics-mcp-has-a-security-flaw-heres-what-developers-need-to-know-25hd": {
+      "title": "Anthropic's MCP Has a Security Flaw. Here's What Developers…",
+      "url": "https://dev.to/techsifted/anthropics-mcp-has-a-security-flaw-heres-what-developers-need-to-know-25hd",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://dev.to/igorganapolsky/opening-2-workflow-hardening-sprint-slots-for-ai-coding-agents-2oi0": {
+      "title": "Opening 2 Workflow Hardening Sprint Slots for AI Coding…",
+      "url": "https://dev.to/igorganapolsky/opening-2-workflow-hardening-sprint-slots-for-ai-coding-agents-2oi0",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://dev.to/mlxio_ai/deepclaude-slashes-claude-code-costs-17x-with-deepseek-brain-3ph5": {
+      "title": "DeepClaude Slashes Claude Code Costs 17x With DeepSeek Brain",
+      "url": "https://dev.to/mlxio_ai/deepclaude-slashes-claude-code-costs-17x-with-deepseek-brain-3ph5",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://dev.to/gde/google-cloud-next-26-recap-4-live-report-from-the-two-keynotes-34nb": {
+      "title": "[Google Cloud Next '26 Recap #4] Live Report from the Two…",
+      "url": "https://dev.to/gde/google-cloud-next-26-recap-4-live-report-from-the-two-keynotes-34nb",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://dev.to/zonaibbokhari/i-built-a-form-builder-that-lives-inside-your-ai-chat-31gg": {
+      "title": "I built a form builder that lives inside your AI chat",
+      "url": "https://dev.to/zonaibbokhari/i-built-a-form-builder-that-lives-inside-your-ai-chat-31gg",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 2
+    },
+    "https://dev.to/rflpazini/claude-desktop-com-duas-contas-no-macos-como-rodar-pessoal-e-empresa-lado-a-lado-5aik": {
+      "title": "Claude Desktop com duas contas no macOS: como rodar pessoal…",
+      "url": "https://dev.to/rflpazini/claude-desktop-com-duas-contas-no-macos-como-rodar-pessoal-e-empresa-lado-a-lado-5aik",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://dev.to/incultnitollc/schema-descriptions-are-load-bearing-why-missing-parameter-descriptions-break-mcp-clients-4l42": {
+      "title": "Schema descriptions are load-bearing: why missing parameter…",
+      "url": "https://dev.to/incultnitollc/schema-descriptions-are-load-bearing-why-missing-parameter-descriptions-break-mcp-clients-4l42",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 2
+    },
+    "https://dev.to/zoetaka38/the-unit-you-pass-between-agents-is-the-architecture-purple-to-blue-with-the-implementation-diff-57cc": {
+      "title": "The unit you pass between agents is the architecture —…",
+      "url": "https://dev.to/zoetaka38/the-unit-you-pass-between-agents-is-the-architecture-purple-to-blue-with-the-implementation-diff-57cc",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://dev.to/lei_tang_a062427a571e681f/your-go-binary-wont-run-on-macos-syspolicyd-is-the-culprit-5h01": {
+      "title": "Your Go Binary Won't Run on macOS? syspolicyd Is the Culprit",
+      "url": "https://dev.to/lei_tang_a062427a571e681f/your-go-binary-wont-run-on-macos-syspolicyd-is-the-culprit-5h01",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://dev.to/joiskash/the-perfect-agent-orchestration-tool-for-your-friendly-adhd-developer-33jp": {
+      "title": "The perfect agent orchestration tool for your friendly ADHD…",
+      "url": "https://dev.to/joiskash/the-perfect-agent-orchestration-tool-for-your-friendly-adhd-developer-33jp",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://dev.to/reymondyncierto/how-i-set-up-my-claude-workflow-spec-driven-and-easy-to-follow-58d7": {
+      "title": "How I Set Up My Claude Workflow (Spec-Driven and Easy to…",
+      "url": "https://dev.to/reymondyncierto/how-i-set-up-my-claude-workflow-spec-driven-and-easy-to-follow-58d7",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://dev.to/aws-builders/claude-managed-agents-the-layer-that-disappears-the-layer-that-stays-a-view-from-business-4n0": {
+      "title": "Claude Managed Agents: The Layer That Disappears, The Layer…",
+      "url": "https://dev.to/aws-builders/claude-managed-agents-the-layer-that-disappears-the-layer-that-stays-a-view-from-business-4n0",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 2
+    },
+    "https://dev.to/bambushu/a-4-model-adversarial-review-pipeline-that-costs-030-per-audit-3bbf": {
+      "title": "A 4-model adversarial review pipeline that costs $0.30 per…",
+      "url": "https://dev.to/bambushu/a-4-model-adversarial-review-pipeline-that-costs-030-per-audit-3bbf",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    },
+    "https://dev.to/qingkuai/ai-keeps-hallucinating-my-component-syntax-heres-how-i-fixed-it-with-mcp-bn4": {
+      "title": "AI keeps hallucinating my component syntax — here's how I…",
+      "url": "https://dev.to/qingkuai/ai-keeps-hallucinating-my-component-syntax-heres-how-i-fixed-it-with-mcp-bn4",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 2
+    },
+    "https://dev.to/alexey_sokolov_10deecd763/runtime-snapshots-16-the-three-architectures-of-browser-agents-4gkc": {
+      "title": "🧩 Runtime Snapshots #16 — The Three Architectures of…",
+      "url": "https://dev.to/alexey_sokolov_10deecd763/runtime-snapshots-16-the-three-architectures-of-browser-agents-4gkc",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 2
+    },
+    "https://dev.to/rudsoncarvalho/terse-tool-catalog-ttc-cut-tool-catalog-token-usage-by-666-in-your-ai-agents-2i9n": {
+      "title": "TERSE Tool Catalog (TTC): Cut Tool Catalog Token Usage by…",
+      "url": "https://dev.to/rudsoncarvalho/terse-tool-catalog-ttc-cut-tool-catalog-token-usage-by-666-in-your-ai-agents-2i9n",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 2
+    },
+    "https://dev.to/prathyusha_kilaru/i-build-an-ai-agent-using-stackone-mcp-3dl4": {
+      "title": "I build an AI agent using StackOne MCP",
+      "url": "https://dev.to/prathyusha_kilaru/i-build-an-ai-agent-using-stackone-mcp-3dl4",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 2
+    },
+    "https://dev.to/tonythehacker/i-built-an-mcp-server-so-ai-agents-can-flash-1000-embedded-boards-5bbd": {
+      "title": "I built an MCP server so AI agents can flash 1,000+…",
+      "url": "https://dev.to/tonythehacker/i-built-an-mcp-server-so-ai-agents-can-flash-1000-embedded-boards-5bbd",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 2
+    },
+    "https://dev.to/depscope/your-ai-agent-is-burning-tokens-energy-and-security-heres-how-i-made-it-stop-4gjd": {
+      "title": "Your AI agent is burning tokens, energy, and security.…",
+      "url": "https://dev.to/depscope/your-ai-agent-is-burning-tokens-energy-and-security-heres-how-i-made-it-stop-4gjd",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 2
+    },
+    "https://dev.to/mezgoodle/the-self-healing-codebase-leveraging-agentic-workflows-to-automate-your-side-projects-1opc": {
+      "title": "The Self-Healing Codebase: Leveraging Agentic Workflows to…",
+      "url": "https://dev.to/mezgoodle/the-self-healing-codebase-leveraging-agentic-workflows-to-automate-your-side-projects-1opc",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 2
+    },
+    "https://dev.to/aoligama/spec-driven-development-slowing-down-to-ship-faster-995": {
+      "title": "Spec-Driven Development: Slowing Down to Ship Faster",
+      "url": "https://dev.to/aoligama/spec-driven-development-slowing-down-to-ship-faster-995",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-05-06",
+      "count": 1
+    }
+  }
+}
