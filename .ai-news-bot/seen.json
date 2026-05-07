@@ -1,0 +1,102 @@
+{
+  "urls": {
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.132": {
+      "title": "Claude Code v2.1.132 · SIGINT修复/MCP内存泄漏/Bedrock修复",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.132",
+      "first_seen": "2026-05-07",
+      "last_seen": "2026-05-07",
+      "count": 1
+    },
+    "https://www.anthropic.com/news/higher-limits-spacex": {
+      "title": "Anthropic: 更高使用限制与 SpaceX 算力合作",
+      "url": "https://www.anthropic.com/news/higher-limits-spacex",
+      "first_seen": "2026-05-07",
+      "last_seen": "2026-05-07",
+      "count": 1
+    },
+    "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.95.0": {
+      "title": "anthropic-sdk-typescript v0.95.0 · Managed Agents ",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.95.0",
+      "first_seen": "2026-05-07",
+      "last_seen": "2026-05-07",
+      "count": 1
+    },
+    "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.100.0": {
+      "title": "anthropic-sdk-python v0.100.0 · Managed Agents + W",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.100.0",
+      "first_seen": "2026-05-07",
+      "last_seen": "2026-05-07",
+      "count": 1
+    },
+    "https://github.com/larksuite/cli/releases/tag/v1.0.24": {
+      "title": "larksuite/cli v1.0.24",
+      "url": "https://github.com/larksuite/cli/releases/tag/v1.0.24",
+      "first_seen": "2026-05-07",
+      "last_seen": "2026-05-07",
+      "count": 1
+    },
+    "https://github.com/Hmbown/DeepSeek-TUI": {
+      "title": "DeepSeek-TUI · Rust 终端 Coding Agent（今日 +6175★）",
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "first_seen": "2026-05-07",
+      "last_seen": "2026-05-07",
+      "count": 1
+    },
+    "https://github.com/ruvnet/ruflo": {
+      "title": "ruflo · Claude 原生多 Agent 编排（今日 +2192★）",
+      "url": "https://github.com/ruvnet/ruflo",
+      "first_seen": "2026-05-07",
+      "last_seen": "2026-05-07",
+      "count": 1
+    },
+    "https://github.com/addyosmani/agent-skills": {
+      "title": "agent-skills · 生产级 AI Coding 技能库（今日 +800★）",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "first_seen": "2026-05-07",
+      "last_seen": "2026-05-07",
+      "count": 1
+    },
+    "https://blog.cloudflare.com/agents-stripe-projects/": {
+      "title": "Cloudflare Agents 可自主注册账号/购域名/部署",
+      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
+      "first_seen": "2026-05-07",
+      "last_seen": "2026-05-07",
+      "count": 1
+    },
+    "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/": {
+      "title": "Simon Willison: Vibe Coding 与 Agentic 工程的张力",
+      "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+      "first_seen": "2026-05-07",
+      "last_seen": "2026-05-07",
+      "count": 1
+    },
+    "https://www.leiphone.com/category/industrynews/YkSi35iAcrFzjzVJ.html": {
+      "title": "独家丨腾讯云成立云产品六部，王慧星担任负责人",
+      "url": "https://www.leiphone.com/category/industrynews/YkSi35iAcrFzjzVJ.html",
+      "first_seen": "2026-05-07",
+      "last_seen": "2026-05-07",
+      "count": 1
+    },
+    "https://github.com/bytedance/deer-flow": {
+      "title": "bytedance/deer-flow · 字节 SuperAgent 开源（+337★）",
+      "url": "https://github.com/bytedance/deer-flow",
+      "first_seen": "2026-05-07",
+      "last_seen": "2026-05-07",
+      "count": 1
+    },
+    "https://dev.to/sahil_kat/cut-claude-code-token-usage-98-with-purpose-built-mcps-4h0c": {
+      "title": "Cut Claude Code Token Usage 98% with Purpose-Built",
+      "url": "https://dev.to/sahil_kat/cut-claude-code-token-usage-98-with-purpose-built-mcps-4h0c",
+      "first_seen": "2026-05-07",
+      "last_seen": "2026-05-07",
+      "count": 1
+    },
+    "https://dev.to/natevoss/4-rules-i-added-to-my-claudemd-after-a-week-of-weird-cli-bugs-p6c": {
+      "title": "4 rules I added to my CLAUDE.md after a week of we",
+      "url": "https://dev.to/natevoss/4-rules-i-added-to-my-claudemd-after-a-week-of-weird-cli-bugs-p6c",
+      "first_seen": "2026-05-07",
+      "last_seen": "2026-05-07",
+      "count": 1
+    }
+  }
+}
