@@ -1,0 +1,102 @@
+{
+  "urls": {
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.133": {
+      "title": "Claude Code v2.1.133 · worktree.baseRef、effort Hooks 注入",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.133",
+      "first_seen": "2026-05-08",
+      "last_seen": "2026-05-08",
+      "count": 1
+    },
+    "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.95.1": {
+      "title": "anthropic-sdk-ts v0.95.1 · debug 日志 API Key 脱敏",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.95.1",
+      "first_seen": "2026-05-08",
+      "last_seen": "2026-05-08",
+      "count": 1
+    },
+    "https://github.com/larksuite/cli/releases/tag/v1.0.25": {
+      "title": "larksuite/cli v1.0.25 · Skills 漂移通知、统一更新流程",
+      "url": "https://github.com/larksuite/cli/releases/tag/v1.0.25",
+      "first_seen": "2026-05-08",
+      "last_seen": "2026-05-08",
+      "count": 1
+    },
+    "https://www.anthropic.com/research/natural-language-autoencoders": {
+      "title": "Natural Language Autoencoders: Claude 推理流文本化（HN 183pts）",
+      "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+      "first_seen": "2026-05-08",
+      "last_seen": "2026-05-08",
+      "count": 1
+    },
+    "https://github.com/addyosmani/agent-skills": {
+      "title": "addyosmani/agent-skills · 33k⭐ AI coding agent 工程技能集",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "first_seen": "2026-05-08",
+      "last_seen": "2026-05-08",
+      "count": 1
+    },
+    "https://deepmind.google/blog/alphaevolve-impact/": {
+      "title": "AlphaEvolve: Gemini coding agent 大规模落地（HN 240pts）",
+      "url": "https://deepmind.google/blog/alphaevolve-impact/",
+      "first_seen": "2026-05-08",
+      "last_seen": "2026-05-08",
+      "count": 1
+    },
+    "https://github.com/Hmbown/DeepSeek-TUI": {
+      "title": "DeepSeek-TUI · 5.8k⭐ 今日榜首终端编程 Agent",
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "first_seen": "2026-05-08",
+      "last_seen": "2026-05-08",
+      "count": 1
+    },
+    "https://github.com/nexu-io/open-design": {
+      "title": "nexu-io/open-design · 32k⭐ Claude Code 原型生成工具",
+      "url": "https://github.com/nexu-io/open-design",
+      "first_seen": "2026-05-08",
+      "last_seen": "2026-05-08",
+      "count": 1
+    },
+    "https://github.com/ReviewStage/stage-cli": {
+      "title": "Stage CLI · AI 生成代码 diff 可视化工具（HN 30pts）",
+      "url": "https://github.com/ReviewStage/stage-cli",
+      "first_seen": "2026-05-08",
+      "last_seen": "2026-05-08",
+      "count": 1
+    },
+    "https://ahk.cardor.dev": {
+      "title": "Agent-harness-kit · MCP multi-agent 工作流脚手架（HN 71pts）",
+      "url": "https://ahk.cardor.dev",
+      "first_seen": "2026-05-08",
+      "last_seen": "2026-05-08",
+      "count": 1
+    },
+    "https://github.com/BeehiveInnovations/pal-mcp-server": {
+      "title": "pal-mcp-server · Claude Code + GeminiCLI 多模型统一",
+      "url": "https://github.com/BeehiveInnovations/pal-mcp-server",
+      "first_seen": "2026-05-08",
+      "last_seen": "2026-05-08",
+      "count": 1
+    },
+    "https://dev.to/hadil/ai-gateway-vs-mcp-gateway-vs-agent-gateway-3imj": {
+      "title": "AI Gateway vs MCP Gateway vs Agent Gateway 架构对比",
+      "url": "https://dev.to/hadil/ai-gateway-vs-mcp-gateway-vs-agent-gateway-3imj",
+      "first_seen": "2026-05-08",
+      "last_seen": "2026-05-08",
+      "count": 1
+    },
+    "https://dev.to/fortune-ndlovu/build-your-own-mcp-server-a-repo-agnostic-file-search-tool-for-ai-assistants-o54": {
+      "title": "Build Your Own MCP Server: Repo-Agnostic 文件搜索（DEV）",
+      "url": "https://dev.to/fortune-ndlovu/build-your-own-mcp-server-a-repo-agnostic-file-search-tool-for-ai-assistants-o54",
+      "first_seen": "2026-05-08",
+      "last_seen": "2026-05-08",
+      "count": 1
+    },
+    "https://dev.to/frank_brsrk/i-open-sourced-a-4-agent-adversarial-code-review-team-any-coding-agent-can-call-it-as-an-mcp-36oe": {
+      "title": "4-agent 对抗式代码审查团队封装为 MCP Server（DEV）",
+      "url": "https://dev.to/frank_brsrk/i-open-sourced-a-4-agent-adversarial-code-review-team-any-coding-agent-can-call-it-as-an-mcp-36oe",
+      "first_seen": "2026-05-08",
+      "last_seen": "2026-05-08",
+      "count": 1
+    }
+  }
+}

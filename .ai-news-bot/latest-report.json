@@ -4,7 +4,7 @@
     "header": {
       "title": {
         "tag": "plain_text",
-        "content": "📡 AI 资讯速报 · 2026-04-16"
+        "content": "📡 AI 资讯速报 · 2026-05-08"
       },
       "template": "blue"
     },
@@ -13,7 +13,7 @@
         "tag": "div",
         "text": {
           "tag": "lark_md",
-          "content": "**🔧 Claude 生态**\n· [Claude Code v2.1.110 · /tui全屏、移动推送通知、MCP…](https://github.com/anthropics/claude-code/releases/tag/v2.1.110)\n  _Claude Code 最新版本，新增 /tui 无闪烁全屏渲染、移动端 Push 通知工具、MCP 服务器断连修复和安全加固，直接影响日常编程工作流，建议今日更新_\n· [Claude Code v2.1.109 · 扩展思维进度提示改进](https://github.com/anthropics/claude-code/releases/tag/v2.1.109)\n  _同日发布，优化了 Extended Thinking（扩展推理）的旋转进度提示动画，使用深度推理模式时体验更流畅_\n· [Claude.ai / API / Claude Code 服务大规模故障（HN…](https://claudestatus.com/)\n  _昨日 Claude 服务出现系统性异常，社区热议 242+ 分，了解故障背景有助于评估 AI 编程工具的稳定性风险和降级方案_\n· [anthropic-sdk-typescript v0.89.0 · 正式标记 …](https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.89.0)\n  _SDK 将旧版 Claude Sonnet 4 和 Opus 4 标记为 deprecated，说明 Claude 4.5/4.6 系列已成主力模型，现有项目应尽快迁移依赖_"
+          "content": "**🔧 Claude 生态**\n· [Claude Code v2.1.133 ·…](https://github.com/anthropics/claude-code/releases/tag/v2.1.133)\n  _worktree.baseRef 精细控制多任务隔离分支起点；$CLAUDE_EFFORT 注入 Hooks 可按复杂度动态调整推理成本；并行 session 401 竞态修复影响多开终端场景_\n· [anthropic-sdk-ts v0.95.1 ·…](https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.95.1)\n  _安全修复：debug 日志不再泄露 API Key 明文，使用 TS SDK 的前端项目应立即升级，防止日志系统意外记录凭据_\n· [larksuite/cli v1.0.25 ·…](https://github.com/larksuite/cli/releases/tag/v1.0.25)\n  _Skills 版本漂移通知避免多机器状态不一致，负截断长度 bug 修复，飞书 CLI + Claude Code 联合工作流用户应及时更新_\n· [Natural Language…](https://www.anthropic.com/research/natural-language-autoencoders)\n  _Anthropic 公开 Claude 内部推理的文本解码机制，理解 AI 可解释性原理，面试中阐述 AI 系统可信度时的重要研究背景_"
         }
       },
       {
@@ -23,7 +23,7 @@
         "tag": "div",
         "text": {
           "tag": "lark_md",
-          "content": "**🛠️ AI 工具发现**\n· [forrestchang/andrej-karpathy-skills · 今日…](https://github.com/forrestchang/andrej-karpathy-skills)\n  _将 Andrej Karpathy 总结的 LLM 编码陷阱浓缩为单个 CLAUDE.md，可直接拖入项目提升 Claude Code 输出质量，强烈推荐收藏_\n· [thedotmack/claude-mem · Claude Code 自动记忆…](https://github.com/thedotmack/claude-mem)\n  _自动捕获 Claude 的会话操作、AI 压缩后注入未来上下文，解决大型项目历史信息丢失问题，是 Claude Code 工程化的实用扩展_\n· [obra/superpowers · Agentic 技能框架，2,055⭐](https://github.com/obra/superpowers)\n  _快速增长的 Agent 软件开发方法论框架，与 Claude Code Skills 系统理念高度契合，了解其设计思路有助于面试中阐述 Agent 架构观点_\n· [Libretto – 确定性 AI 浏览器自动化（HN 88pts）](https://github.com/saffron-health/libretto)\n  _提出「开发时 AI」理念：用 coding agent 预生成可检查的确定性脚本，而非运行时黑盒 agent，对 spec-driven 开发思路有重要参考价值_\n· [How I built a resume MCP in an hour（DEV …](https://dev.to/david_hyland_08f49962a50f/how-i-built-a-resume-mcp-in-an-hour-3o4m)\n  _一小时内构建完整 MCP 服务器的实战教程，展示了 MCP 开发的低门槛，面试时可作为 MCP 生态快速上手能力的佐证_"
+          "content": "**🛠️ AI 工具发现**\n· [addyosmani/agent-skills ·…](https://github.com/addyosmani/agent-skills)\n  _Chrome 团队 Addy Osmani 出品，今日 3k+ stars，明确标签 claude-code，定义 agent 工程化技能标准，是 Claude Code 生态当前最具参考价值的配置集_\n· [AlphaEvolve: Gemini coding…](https://deepmind.google/blog/alphaevolve-impact/)\n  _DeepMind 发布 Gemini 驱动的 coding agent 落地报告，240pts 高热，直接竞品分析，横向对比可量化 Claude Code 与 Gemini agent 的技术代差_\n· [DeepSeek-TUI · 5.8k⭐ 今日榜首终端编程…](https://github.com/Hmbown/DeepSeek-TUI)\n  _今日 GitHub 全榜 star 数最高（5.8k），TUI 编程 agent 的开源实现，了解竞品设计助于面试中阐述 AI coding agent 架构思路_\n· [nexu-io/open-design · 32k⭐…](https://github.com/nexu-io/open-design)\n  _32k stars，19 Skills + 71 设计系统，明确支持 Claude Code 运行，前端设计稿直出 Web/移动原型，是 AI-first 前端工作流的重要工具链补充_\n· [Stage CLI · AI 生成代码 diff…](https://github.com/ReviewStage/stage-cli)\n  _专为 AI 生成代码的 diff 可视化设计，解决 AI coding 工作流中代码审查痛点，是 Claude Code 工作链中审查环节的轻量补充工具_"
         }
       },
       {
@@ -33,17 +33,7 @@
         "tag": "div",
         "text": {
           "tag": "lark_md",
-          "content": "**🏢 国内 AI 动态**\n· [台积电 Q1 净利润同比增 50%，AI 需求连续四季度创纪录](https://www.smarthey.com/detail/680101801886.html)\n  _AI 芯片需求持续高速增长，直接影响国内云厂商（阿里云、腾讯云）的 GPU 算力采购成本与 AI 服务定价策略，是 AI 工程化背景的重要宏观信号_\n· [Snap 裁员 1,000 人，聚焦 AI 驱动长期价值增长](https://www.smarthey.com/detail/189101801889.html)\n  _海外 AI 赛道裁员重组趋势持续，对比国内大厂 AI 编码工具（CodeBuddy 等）投入加大，AI coding 赛道竞争格局在全球范围内加速分化_"
-        }
-      },
-      {
-        "tag": "hr"
-      },
-      {
-        "tag": "div",
-        "text": {
-          "tag": "lark_md",
-          "content": "**🔌 MCP 生态**\n· [MCP as Observability Interface: AI Agent…](https://ingero.io/mcp-observability-interface-ai-agents-kernel-tracepoints/)\n  _将 MCP 用于可观测性接口，让 AI Agent 接入内核追踪点（Tracepoint），是 MCP 协议在系统级工具链中的创新应用，扩展了 MCP 的使用边界_\n· [agent-dispatch：让 Claude Code Agents 互相通信…](https://dev.to/serik_ospanov_c84c8ee2e54/let-your-claude-code-agents-talk-to-each-other-introducing-agent-dispatch--3ik0)\n  _实现 Claude Code 多 Agent 之间的消息传递，是构建复杂 multi-agent 工作流的基础组件，对 agent 协作架构设计有直接参考价值_"
+          "content": "**🔌 MCP 生态**\n· [Agent-harness-kit · MCP…](https://ahk.cardor.dev)\n  _71pts HN 热度，provider-agnostic 的 multi-agent MCP 脚手架，标准化 agent 工作流编排模式，面试中讲 MCP 生态工程化落地时的核心案例_\n· [pal-mcp-server · Claude Code…](https://github.com/BeehiveInnovations/pal-mcp-server)\n  _11.5k stars，将 Claude Code、Gemini CLI、Codex CLI 统一为一个 MCP 服务，实现多模型切换和成本优化，是多 LLM 混合工作流的参考架构_\n· [AI Gateway vs MCP Gateway vs…](https://dev.to/hadil/ai-gateway-vs-mcp-gateway-vs-agent-gateway-3imj)\n  _系统梳理三类 Gateway 职责边界，厘清 MCP 在 AI 工具链架构中的定位，面试中阐述 AI 基础设施层概念时的思维框架参考_\n· [Build Your Own MCP Server:…](https://dev.to/fortune-ndlovu/build-your-own-mcp-server-a-repo-agnostic-file-search-tool-for-ai-assistants-o54)\n  _仓库无关文件搜索 MCP server 实战，展示如何将现有 CLI 工具 MCP 化，是快速上手 MCP server 开发的模板案例_\n· [4-agent 对抗式代码审查团队封装为 MCP…](https://dev.to/frank_brsrk/i-open-sourced-a-4-agent-adversarial-code-review-team-any-coding-agent-can-call-it-as-an-mcp-36oe)\n  _多 agent 对抗式代码审查封装为 MCP server，任意 coding agent 均可调用，是 agent 协作代码质量保证的创新架构案例_"
         }
       },
       {
@@ -54,7 +44,7 @@
         "elements": [
           {
             "tag": "plain_text",
-            "content": "数据来源：GitHub Releases · GitHub Trending · HN Algolia · DEV Community · Smarthey｜⚠️ 跳过：Leiphone（24h 内无更新）· Spec 驱动专栏（无新热度内容）· GitHub Search（Rate Limit 限速）｜修改关注维度：编辑仓库中的 watch.yaml"
+            "content": "数据来源：GitHub Releases · GitHub Trending · HN Algolia · DEV Community｜修改关注维度：编辑 watch.yaml\n⚠️ 跳过：anthropic-sdk-python（24h 内无新版本）、国内动态（leiphone/smarthey 24h 内无匹配内容）、Spec 驱动开发（24h 内无热度内容）"
           }
         ]
       }
