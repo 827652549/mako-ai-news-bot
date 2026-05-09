@@ -1,0 +1,123 @@
+{
+  "urls": {
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.137": {
+      "title": "Claude Code v2.1.137 · v2.1.136 MCP 断连修复 + hard_deny",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.137",
+      "first_seen": "2026-05-09",
+      "last_seen": "2026-05-09",
+      "count": 1
+    },
+    "https://github.com/advisories/GHSA-vp62-r36r-9xqp": {
+      "title": "Claude Code CVE-2026-39861 · 沙箱逃逸（CVSS 7.7，HN 47pts）",
+      "url": "https://github.com/advisories/GHSA-vp62-r36r-9xqp",
+      "first_seen": "2026-05-09",
+      "last_seen": "2026-05-09",
+      "count": 1
+    },
+    "https://dev.to/pradumnasaraf/using-claude-code-with-docker-model-runner-36eo": {
+      "title": "Using Claude Code with Docker Model Runner",
+      "url": "https://dev.to/pradumnasaraf/using-claude-code-with-docker-model-runner-36eo",
+      "first_seen": "2026-05-09",
+      "last_seen": "2026-05-09",
+      "count": 1
+    },
+    "https://dev.to/bokuno_log/i-used-claude-code-codex-for-2-months-and-hit-377-billion-tokens-in-a-single-month-2gol": {
+      "title": "2 个月用 Claude Code+Codex 烧 37.7 亿 token 的实测报告",
+      "url": "https://dev.to/bokuno_log/i-used-claude-code-codex-for-2-months-and-hit-377-billion-tokens-in-a-single-month-2gol",
+      "first_seen": "2026-05-09",
+      "last_seen": "2026-05-09",
+      "count": 1
+    },
+    "https://github.com/regent-vcs/re_gent": {
+      "title": "re_gent · AI 编码 Agent 专属版本控制（HN 92pts）",
+      "url": "https://github.com/regent-vcs/re_gent",
+      "first_seen": "2026-05-09",
+      "last_seen": "2026-05-09",
+      "count": 1
+    },
+    "https://github.com/addyosmani/agent-skills": {
+      "title": "addyosmani/agent-skills · 生产级 AI 编码 Agent 技能库",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "first_seen": "2026-05-09",
+      "last_seen": "2026-05-09",
+      "count": 1
+    },
+    "https://github.com/browser-use/bux": {
+      "title": "browser-use/bux · 带浏览器的 24/7 Claude Code 持久 Agent",
+      "url": "https://github.com/browser-use/bux",
+      "first_seen": "2026-05-09",
+      "last_seen": "2026-05-09",
+      "count": 1
+    },
+    "https://github.com/awslabs/aidlc-workflows": {
+      "title": "awslabs/aidlc-workflows · AI 编码 Agent 全生命周期规则",
+      "url": "https://github.com/awslabs/aidlc-workflows",
+      "first_seen": "2026-05-09",
+      "last_seen": "2026-05-09",
+      "count": 1
+    },
+    "https://github.com/datawhalechina/hello-agents": {
+      "title": "datawhalechina/hello-agents · 从零构建智能体中文教程",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "first_seen": "2026-05-09",
+      "last_seen": "2026-05-09",
+      "count": 1
+    },
+    "https://www.smarthey.com/detail/216223703622.html": {
+      "title": "DeepSeek 启动首轮融资，目标 500 亿元人民币",
+      "url": "https://www.smarthey.com/detail/216223703622.html",
+      "first_seen": "2026-05-09",
+      "last_seen": "2026-05-09",
+      "count": 1
+    },
+    "https://www.smarthey.com/detail/654171402497.html": {
+      "title": "未来智能亿元 A+ 轮融资，传音入股推 AI Agent 硬件",
+      "url": "https://www.smarthey.com/detail/654171402497.html",
+      "first_seen": "2026-05-09",
+      "last_seen": "2026-05-09",
+      "count": 1
+    },
+    "https://www.smarthey.com/detail/582205402847.html": {
+      "title": "华境S上市：15万级全系标配华为乾崑 AI 全家桶",
+      "url": "https://www.smarthey.com/detail/582205402847.html",
+      "first_seen": "2026-05-09",
+      "last_seen": "2026-05-09",
+      "count": 1
+    },
+    "https://github.com/github/github-mcp-server": {
+      "title": "GitHub 官方 MCP Server 最新更新（29k⭐）",
+      "url": "https://github.com/github/github-mcp-server",
+      "first_seen": "2026-05-09",
+      "last_seen": "2026-05-09",
+      "count": 1
+    },
+    "https://dev.to/varshithvhegde/best-mcp-gateways-for-enterprise-teams-in-2026-5fk": {
+      "title": "2026 年企业级 MCP 网关选型指南",
+      "url": "https://dev.to/varshithvhegde/best-mcp-gateways-for-enterprise-teams-in-2026-5fk",
+      "first_seen": "2026-05-09",
+      "last_seen": "2026-05-09",
+      "count": 1
+    },
+    "https://dev.to/ardev/hmac-attested-receipts-for-ai-agent-tool-calls-verify-actio": {
+      "title": "verify-action-mcp · AI Agent 工具调用 HMAC 签名验证",
+      "url": "https://dev.to/ardev/hmac-attested-receipts-for-ai-agent-tool-calls-verify-actio",
+      "first_seen": "2026-05-09",
+      "last_seen": "2026-05-09",
+      "count": 1
+    },
+    "https://github.com/mcp-use/mcp-use": {
+      "title": "mcp-use · 全栈 MCP 框架，支持 Claude & GPT（9.9k⭐）",
+      "url": "https://github.com/mcp-use/mcp-use",
+      "first_seen": "2026-05-09",
+      "last_seen": "2026-05-09",
+      "count": 1
+    },
+    "https://dev.to/nextools/claude-code-for-api-design-how-i-stopped-shipping-endpoints-i-regret-six-months-later-4o49": {
+      "title": "用 Claude Code 做 API 设计：避免半年后后悔的接口",
+      "url": "https://dev.to/nextools/claude-code-for-api-design-how-i-stopped-shipping-endpoints-i-regret-six-months-later-4o49",
+      "first_seen": "2026-05-09",
+      "last_seen": "2026-05-09",
+      "count": 1
+    }
+  }
+}
