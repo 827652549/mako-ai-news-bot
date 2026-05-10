@@ -1,0 +1,102 @@
+{
+  "urls": {
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.138": {
+      "title": "Claude Code v2.1.138 · 内部修复",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.138",
+      "first_seen": "2026-05-10",
+      "last_seen": "2026-05-10",
+      "count": 1
+    },
+    "https://github.com/larksuite/cli/releases/tag/v1.0.27": {
+      "title": "Lark CLI v1.0.27 · channel 新增",
+      "url": "https://github.com/larksuite/cli/releases/tag/v1.0.27",
+      "first_seen": "2026-05-10",
+      "last_seen": "2026-05-10",
+      "count": 1
+    },
+    "https://github.com/decolua/9router": {
+      "title": "9router · Claude Code 40+ 免费路由",
+      "url": "https://github.com/decolua/9router",
+      "first_seen": "2026-05-10",
+      "last_seen": "2026-05-10",
+      "count": 1
+    },
+    "https://github.com/addyosmani/agent-skills": {
+      "title": "agent-skills · AI Coding 技能框架",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "first_seen": "2026-05-10",
+      "last_seen": "2026-05-10",
+      "count": 1
+    },
+    "https://github.com/rohitg00/agentmemory": {
+      "title": "agentmemory · AI Coding 持久记忆",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "first_seen": "2026-05-10",
+      "last_seen": "2026-05-10",
+      "count": 1
+    },
+    "https://github.com/anthropics/financial-services": {
+      "title": "Anthropic 金融 Agent 官方代码示例",
+      "url": "https://github.com/anthropics/financial-services",
+      "first_seen": "2026-05-10",
+      "last_seen": "2026-05-10",
+      "count": 1
+    },
+    "https://dev.to/recca0120/36-days-of-claude-code-logs-silent-model-switching-115x-efficiency-gap-1bgm": {
+      "title": "36 天 Claude Code 日志：模型切换 11.5x 差距",
+      "url": "https://dev.to/recca0120/36-days-of-claude-code-logs-silent-model-switching-115x-efficiency-gap-1bgm",
+      "first_seen": "2026-05-10",
+      "last_seen": "2026-05-10",
+      "count": 1
+    },
+    "https://github.com/bytedance/UI-TARS-desktop": {
+      "title": "UI-TARS-desktop · 字节多模态 Agent",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "first_seen": "2026-05-10",
+      "last_seen": "2026-05-10",
+      "count": 1
+    },
+    "https://github.com/datawhalechina/hello-agents": {
+      "title": "hello-agents · DataWhale 智能体教程",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "first_seen": "2026-05-10",
+      "last_seen": "2026-05-10",
+      "count": 1
+    },
+    "https://github.com/ChromeDevTools/chrome-devtools-mcp": {
+      "title": "chrome-devtools-mcp · 前端调试 MCP",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "first_seen": "2026-05-10",
+      "last_seen": "2026-05-10",
+      "count": 1
+    },
+    "https://github.com/MCPJam/inspector": {
+      "title": "MCPJam/inspector · MCP 调试评估平台",
+      "url": "https://github.com/MCPJam/inspector",
+      "first_seen": "2026-05-10",
+      "last_seen": "2026-05-10",
+      "count": 1
+    },
+    "https://github.com/mcp-use/mcp-use": {
+      "title": "mcp-use · 全栈 MCP 框架 9.9k stars",
+      "url": "https://github.com/mcp-use/mcp-use",
+      "first_seen": "2026-05-10",
+      "last_seen": "2026-05-10",
+      "count": 1
+    },
+    "https://dev.to/michelfaure/54-adrs-in-35-days-why-i-write-the-decision-before-the-first-line-of-code-11e": {
+      "title": "35 天 54 份 ADR：先写决策再写代码",
+      "url": "https://dev.to/michelfaure/54-adrs-in-35-days-why-i-write-the-decision-before-the-first-line-of-code-11e",
+      "first_seen": "2026-05-10",
+      "last_seen": "2026-05-10",
+      "count": 1
+    },
+    "https://github.com/sno-ai/mda": {
+      "title": "mda · AI Agent 文档 Markdown 规范",
+      "url": "https://github.com/sno-ai/mda",
+      "first_seen": "2026-05-10",
+      "last_seen": "2026-05-10",
+      "count": 1
+    }
+  }
+}
