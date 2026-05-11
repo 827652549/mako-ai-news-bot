@@ -1,0 +1,130 @@
+{
+  "urls": {
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.138": {
+      "title": "claude-code v2.1.138 · 最新稳定版",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.138",
+      "first_seen": "2026-05-11",
+      "last_seen": "2026-05-11",
+      "count": 1
+    },
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.136": {
+      "title": "claude-code v2.1.136 · autoMode + MCP 修复",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.136",
+      "first_seen": "2026-05-11",
+      "last_seen": "2026-05-11",
+      "count": 1
+    },
+    "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.95.0": {
+      "title": "anthropic-sdk-typescript v0.95.0 · Managed Agents",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.95.0",
+      "first_seen": "2026-05-11",
+      "last_seen": "2026-05-11",
+      "count": 1
+    },
+    "https://www.anthropic.com/news/higher-limits-spacex": {
+      "title": "Anthropic · 用量限额上调 + SpaceX 算力合作",
+      "url": "https://www.anthropic.com/news/higher-limits-spacex",
+      "first_seen": "2026-05-11",
+      "last_seen": "2026-05-11",
+      "count": 1
+    },
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.133": {
+      "title": "claude-code v2.1.133 · worktree.baseRef 设置",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.133",
+      "first_seen": "2026-05-11",
+      "last_seen": "2026-05-11",
+      "count": 1
+    },
+    "https://news.ycombinator.com/item?id=48071940": {
+      "title": "Claude Code HTML 效果异常（HN 506pts）",
+      "url": "https://news.ycombinator.com/item?id=48071940",
+      "first_seen": "2026-05-11",
+      "last_seen": "2026-05-11",
+      "count": 1
+    },
+    "https://github.com/affaan-m/everything-claude-code": {
+      "title": "affaan-m/everything-claude-code · 178k⭐ agent 套件",
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "first_seen": "2026-05-11",
+      "last_seen": "2026-05-11",
+      "count": 1
+    },
+    "https://github.com/addyosmani/agent-skills": {
+      "title": "addyosmani/agent-skills · AI coding 生产级技能库",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "first_seen": "2026-05-11",
+      "last_seen": "2026-05-11",
+      "count": 1
+    },
+    "https://github.com/decolua/9router": {
+      "title": "decolua/9router · 免费路由 40+ AI 提供商",
+      "url": "https://github.com/decolua/9router",
+      "first_seen": "2026-05-11",
+      "last_seen": "2026-05-11",
+      "count": 1
+    },
+    "https://dev.to/yezannnnnn/my-ai-agent-wiped-my-database-twice-so-i-built-a-command-firewall-4ma2": {
+      "title": "AI agent 两次清空数据库后，我造了个命令防火墙",
+      "url": "https://dev.to/yezannnnnn/my-ai-agent-wiped-my-database-twice-so-i-built-a-command-firewall-4ma2",
+      "first_seen": "2026-05-11",
+      "last_seen": "2026-05-11",
+      "count": 1
+    },
+    "https://www.leiphone.com/category/zaobao/N2sl4ulRn8N6QNST.html": {
+      "title": "豆包将新增付费订阅，主打生产力场景",
+      "url": "https://www.leiphone.com/category/zaobao/N2sl4ulRn8N6QNST.html",
+      "first_seen": "2026-05-11",
+      "last_seen": "2026-05-11",
+      "count": 1
+    },
+    "https://www.leiphone.com/category/industrynews/YkSi35iAcrFzjzVJ.html": {
+      "title": "腾讯云成立云产品六部，王慧星担任负责人",
+      "url": "https://www.leiphone.com/category/industrynews/YkSi35iAcrFzjzVJ.html",
+      "first_seen": "2026-05-11",
+      "last_seen": "2026-05-11",
+      "count": 1
+    },
+    "https://www.leiphone.com/category/industrynews/y3caNPRzm8uVpYbx.html": {
+      "title": "阿里缩减合伙人人数，AI 纳入核心业务",
+      "url": "https://www.leiphone.com/category/industrynews/y3caNPRzm8uVpYbx.html",
+      "first_seen": "2026-05-11",
+      "last_seen": "2026-05-11",
+      "count": 1
+    },
+    "https://www.leiphone.com/category/transportation/K7ZQKtmfjAKjmf9X.html": {
+      "title": "荣威联合火山引擎发布 AI 原生汽车",
+      "url": "https://www.leiphone.com/category/transportation/K7ZQKtmfjAKjmf9X.html",
+      "first_seen": "2026-05-11",
+      "last_seen": "2026-05-11",
+      "count": 1
+    },
+    "https://dev.to/francofuji/mcp-vs-rest-api-for-ai-agent-email-when-to-use-each-28jf": {
+      "title": "MCP vs REST API for AI Agent Email",
+      "url": "https://dev.to/francofuji/mcp-vs-rest-api-for-ai-agent-email-when-to-use-each-28jf",
+      "first_seen": "2026-05-11",
+      "last_seen": "2026-05-11",
+      "count": 1
+    },
+    "https://dev.to/javanmol/i-built-orag-an-organizational-rag-and-mcp-platform-in-typescript-5e84": {
+      "title": "ORAG · TypeScript 组织级 RAG + MCP 平台",
+      "url": "https://dev.to/javanmol/i-built-orag-an-organizational-rag-and-mcp-platform-in-typescript-5e84",
+      "first_seen": "2026-05-11",
+      "last_seen": "2026-05-11",
+      "count": 1
+    },
+    "https://dev.to/christianascone/bridge-the-gap-connecting-design-pm-and-code-with-mcps-3lhi": {
+      "title": "用 MCP 串联设计、PM 与代码协作",
+      "url": "https://dev.to/christianascone/bridge-the-gap-connecting-design-pm-and-code-with-mcps-3lhi",
+      "first_seen": "2026-05-11",
+      "last_seen": "2026-05-11",
+      "count": 1
+    },
+    "https://github.com/bytedance/UI-TARS-desktop": {
+      "title": "bytedance/UI-TARS-desktop · 多模态 AI Agent 栈",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "first_seen": "2026-05-11",
+      "last_seen": "2026-05-11",
+      "count": 1
+    }
+  }
+}
