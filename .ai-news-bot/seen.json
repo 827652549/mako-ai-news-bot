@@ -1,0 +1,109 @@
+{
+  "urls": {
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.139": {
+      "title": "Claude Code v2.1.139 · Agent view + /goal 命令",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.139",
+      "first_seen": "2026-05-12",
+      "last_seen": "2026-05-12",
+      "count": 1
+    },
+    "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.3.0": {
+      "title": "anthropic-sdk-typescript aws-sdk v0.3.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/aws-sdk-v0.3.0",
+      "first_seen": "2026-05-12",
+      "last_seen": "2026-05-12",
+      "count": 1
+    },
+    "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.101.0": {
+      "title": "anthropic-sdk-python v0.101.0",
+      "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.101.0",
+      "first_seen": "2026-05-12",
+      "last_seen": "2026-05-12",
+      "count": 1
+    },
+    "https://github.com/decolua/9router": {
+      "title": "9router · 无限免费 AI coding 路由器",
+      "url": "https://github.com/decolua/9router",
+      "first_seen": "2026-05-12",
+      "last_seen": "2026-05-12",
+      "count": 1
+    },
+    "https://github.com/aattaran/deepclaude": {
+      "title": "deepclaude · Claude Code × DeepSeek V4 Pro",
+      "url": "https://github.com/aattaran/deepclaude",
+      "first_seen": "2026-05-12",
+      "last_seen": "2026-05-12",
+      "count": 1
+    },
+    "https://github.com/millionco/react-doctor": {
+      "title": "react-doctor · AI 写 React 的专项 lint",
+      "url": "https://github.com/millionco/react-doctor",
+      "first_seen": "2026-05-12",
+      "last_seen": "2026-05-12",
+      "count": 1
+    },
+    "https://github.com/rohitg00/agentmemory": {
+      "title": "agentmemory · AI coding agent 持久记忆",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "first_seen": "2026-05-12",
+      "last_seen": "2026-05-12",
+      "count": 1
+    },
+    "https://dev.to/studiomeyer_io/five-mcp-servers-before-claude-code-writes-a-single-line-18f8": {
+      "title": "Five MCP Servers Before Claude Code Writes a Line",
+      "url": "https://dev.to/studiomeyer_io/five-mcp-servers-before-claude-code-writes-a-single-line-18f8",
+      "first_seen": "2026-05-12",
+      "last_seen": "2026-05-12",
+      "count": 1
+    },
+    "https://www.leiphone.com/category/industrynews/HY5vV5CioWW4KDg6.html": {
+      "title": "腾讯 AI·五问丨混元的三年战争",
+      "url": "https://www.leiphone.com/category/industrynews/HY5vV5CioWW4KDg6.html",
+      "first_seen": "2026-05-12",
+      "last_seen": "2026-05-12",
+      "count": 1
+    },
+    "https://www.leiphone.com/category/industrynews/RcXIQ9rNkYJhHTCE.html": {
+      "title": "独家丨腾讯混元3幕后：重构架构",
+      "url": "https://www.leiphone.com/category/industrynews/RcXIQ9rNkYJhHTCE.html",
+      "first_seen": "2026-05-12",
+      "last_seen": "2026-05-12",
+      "count": 1
+    },
+    "https://www.leiphone.com/category/industrynews/QhnlRFknR5wZ5zSN.html": {
+      "title": "Ling-2.6-flash · 1/10 Token 消耗降 AI 开发成本",
+      "url": "https://www.leiphone.com/category/industrynews/QhnlRFknR5wZ5zSN.html",
+      "first_seen": "2026-05-12",
+      "last_seen": "2026-05-12",
+      "count": 1
+    },
+    "https://www.leiphone.com/category/industrynews/qItAp7UT0tLEbVHm.html": {
+      "title": "双线实测 Qwen 3.6-Plus Agentic Coding 能力",
+      "url": "https://www.leiphone.com/category/industrynews/qItAp7UT0tLEbVHm.html",
+      "first_seen": "2026-05-12",
+      "last_seen": "2026-05-12",
+      "count": 1
+    },
+    "https://dev.to/mukundakatta/i-shipped-14-mcp-servers-this-week-gemma-4-changes-which-ones-matter-1klk": {
+      "title": "一周发布 14 个 MCP server 的工程经验",
+      "url": "https://dev.to/mukundakatta/i-shipped-14-mcp-servers-this-week-gemma-4-changes-which-ones-matter-1klk",
+      "first_seen": "2026-05-12",
+      "last_seen": "2026-05-12",
+      "count": 1
+    },
+    "https://dev.to/zekebuilds/your-mcp-server-knows-who-paid-does-it-know-who-they-are-28i5": {
+      "title": "MCP Server 的身份认证边界",
+      "url": "https://dev.to/zekebuilds/your-mcp-server-knows-who-paid-does-it-know-who-they-are-28i5",
+      "first_seen": "2026-05-12",
+      "last_seen": "2026-05-12",
+      "count": 1
+    },
+    "https://dev.to/ethan_thunderbit/building-an-mcp-server-lessons-from-thunderbit-mcp-opf": {
+      "title": "从 thunderbit-mcp 实战学到的 MCP 构建教训",
+      "url": "https://dev.to/ethan_thunderbit/building-an-mcp-server-lessons-from-thunderbit-mcp-opf",
+      "first_seen": "2026-05-12",
+      "last_seen": "2026-05-12",
+      "count": 1
+    }
+  }
+}
