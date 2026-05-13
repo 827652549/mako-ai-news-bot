@@ -1,0 +1,67 @@
+{
+  "urls": {
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.140": {
+      "title": "Claude Code v2.1.140 · Agent工具匹配宽松化",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.140",
+      "first_seen": "2026-05-13",
+      "last_seen": "2026-05-13",
+      "count": 1
+    },
+    "https://github.com/mattpocock/skills": {
+      "title": "mattpocock/skills · 今日+3867⭐ Claude 工程化技能集",
+      "url": "https://github.com/mattpocock/skills",
+      "first_seen": "2026-05-13",
+      "last_seen": "2026-05-13",
+      "count": 1
+    },
+    "https://github.com/rohitg00/agentmemory": {
+      "title": "agentmemory · 今日+1048⭐ · AI 编码跨会话持久记忆",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "first_seen": "2026-05-13",
+      "last_seen": "2026-05-13",
+      "count": 1
+    },
+    "https://github.com/statewright/statewright": {
+      "title": "Statewright · 状态机约束 AI Agent 可靠性 · HN 70pt",
+      "url": "https://github.com/statewright/statewright",
+      "first_seen": "2026-05-13",
+      "last_seen": "2026-05-13",
+      "count": 1
+    },
+    "https://dev.to/chalom_ellezam_5989bce65e/the-claude-code-production-checklist-15-things-that-arent-obvious-until-they-bite-you-3p7n": {
+      "title": "Claude Code 生产清单：15 个隐性踩坑总结",
+      "url": "https://dev.to/chalom_ellezam_5989bce65e/the-claude-code-production-checklist-15-things-that-arent-obvious-until-they-bite-you-3p7n",
+      "first_seen": "2026-05-13",
+      "last_seen": "2026-05-13",
+      "count": 1
+    },
+    "https://github.com/millionco/react-doctor": {
+      "title": "millionco/react-doctor · 今日+788⭐ · React 代码守门",
+      "url": "https://github.com/millionco/react-doctor",
+      "first_seen": "2026-05-13",
+      "last_seen": "2026-05-13",
+      "count": 1
+    },
+    "https://dev.to/zoetaka38/cutting-mcp-token-bloat-by-12x-what-happened-when-we-packed-31-tools-into-one-server-4149": {
+      "title": "MCP token 减少 12x：31 工具打包进单 server",
+      "url": "https://dev.to/zoetaka38/cutting-mcp-token-bloat-by-12x-what-happened-when-we-packed-31-tools-into-one-server-4149",
+      "first_seen": "2026-05-13",
+      "last_seen": "2026-05-13",
+      "count": 1
+    },
+    "https://dev.to/kcrazy/compile-time-vs-runtime-where-mcp-security-actually-lives-1g6l": {
+      "title": "MCP 安全实际在哪里：编译期 vs 运行期",
+      "url": "https://dev.to/kcrazy/compile-time-vs-runtime-where-mcp-security-actually-lives-1g6l",
+      "first_seen": "2026-05-13",
+      "last_seen": "2026-05-13",
+      "count": 1
+    },
+    "https://dev.to/gamepad64/the-capability-ceiling-how-act-sandboxes-third-party-tools-2ib": {
+      "title": "ACT 如何沙箱化第三方 MCP 工具：能力天花板",
+      "url": "https://dev.to/gamepad64/the-capability-ceiling-how-act-sandboxes-third-party-tools-2ib",
+      "first_seen": "2026-05-13",
+      "last_seen": "2026-05-13",
+      "count": 1
+    }
+  }
+}
