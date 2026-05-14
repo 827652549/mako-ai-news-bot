@@ -1,0 +1,123 @@
+{
+  "urls": {
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.141": {
+      "title": "Claude Code v2.1.141 · hooks桌面通知、Rewind摘要压缩、agents --cwd",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.141",
+      "first_seen": "2026-05-14",
+      "last_seen": "2026-05-14",
+      "count": 1
+    },
+    "https://news.ycombinator.com/item?id=48128003": {
+      "title": "Tell HN: 退订后 Claude Design 项目全部不可访问（140pts）",
+      "url": "https://news.ycombinator.com/item?id=48128003",
+      "first_seen": "2026-05-14",
+      "last_seen": "2026-05-14",
+      "count": 1
+    },
+    "https://twitter.com/i/status/2054610152817619388": {
+      "title": "New Claude Code programmatic usage restrictions（40pts）",
+      "url": "https://twitter.com/i/status/2054610152817619388",
+      "first_seen": "2026-05-14",
+      "last_seen": "2026-05-14",
+      "count": 1
+    },
+    "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.96.0": {
+      "title": "anthropic-sdk-typescript v0.96.0 · cache diagnostics beta",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.96.0",
+      "first_seen": "2026-05-14",
+      "last_seen": "2026-05-14",
+      "count": 1
+    },
+    "https://www.anthropic.com/news/claude-for-small-business": {
+      "title": "Introducing Claude for Small Business",
+      "url": "https://www.anthropic.com/news/claude-for-small-business",
+      "first_seen": "2026-05-14",
+      "last_seen": "2026-05-14",
+      "count": 1
+    },
+    "https://github.com/mattpocock/skills": {
+      "title": "mattpocock/skills · +3392⭐ 来自真实 .claude 目录的 Skills",
+      "url": "https://github.com/mattpocock/skills",
+      "first_seen": "2026-05-14",
+      "last_seen": "2026-05-14",
+      "count": 1
+    },
+    "https://github.com/obra/superpowers": {
+      "title": "obra/superpowers · +1401⭐ Agentic 技能框架与开发方法论",
+      "url": "https://github.com/obra/superpowers",
+      "first_seen": "2026-05-14",
+      "last_seen": "2026-05-14",
+      "count": 1
+    },
+    "https://github.com/rohitg00/agentmemory": {
+      "title": "rohitg00/agentmemory · +1379⭐ AI 编程 Agent 持久记忆 #1",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "first_seen": "2026-05-14",
+      "last_seen": "2026-05-14",
+      "count": 1
+    },
+    "https://dev.to/jessyt/claude-code-stops-pausing-every-turn-goal-loop-batch-background-3lkm": {
+      "title": "Claude Code 新增 /goal /loop /batch /background 四模式",
+      "url": "https://dev.to/jessyt/claude-code-stops-pausing-every-turn-goal-loop-batch-background-3lkm",
+      "first_seen": "2026-05-14",
+      "last_seen": "2026-05-14",
+      "count": 1
+    },
+    "https://dev.to/malik_chohra/how-i-wire-claude-into-my-react-native-workflow-skills-projects-cowork-4pk3": {
+      "title": "如何在 React Native 工作流中接入 Claude（Skills/Projects/Cowork）",
+      "url": "https://dev.to/malik_chohra/how-i-wire-claude-into-my-react-native-workflow-skills-projects-cowork-4pk3",
+      "first_seen": "2026-05-14",
+      "last_seen": "2026-05-14",
+      "count": 1
+    },
+    "https://www.leiphone.com/banner/homepageUrl/id/3459": {
+      "title": "双线实测 Qwen 3.6-Plus：Agentic Coding 能扛多少活",
+      "url": "https://www.leiphone.com/banner/homepageUrl/id/3459",
+      "first_seen": "2026-05-14",
+      "last_seen": "2026-05-14",
+      "count": 1
+    },
+    "https://www.leiphone.com/category/industrynews/huYBUWTVyvMCXOC1.html": {
+      "title": "度小满发布 ClawPay：百度生态首个支付 AI Skill",
+      "url": "https://www.leiphone.com/category/industrynews/huYBUWTVyvMCXOC1.html",
+      "first_seen": "2026-05-14",
+      "last_seen": "2026-05-14",
+      "count": 1
+    },
+    "https://github.com/exa-labs/exa-mcp-server": {
+      "title": "exa-labs/exa-mcp-server · 4421⭐ 实时 web 搜索 MCP",
+      "url": "https://github.com/exa-labs/exa-mcp-server",
+      "first_seen": "2026-05-14",
+      "last_seen": "2026-05-14",
+      "count": 1
+    },
+    "https://github.com/chopratejas/headroom": {
+      "title": "chopratejas/headroom · 1739⭐ 压缩工具输出降低 60% token",
+      "url": "https://github.com/chopratejas/headroom",
+      "first_seen": "2026-05-14",
+      "last_seen": "2026-05-14",
+      "count": 1
+    },
+    "https://github.com/getsentry/sentry-mcp": {
+      "title": "getsentry/sentry-mcp · Sentry 官方 MCP server",
+      "url": "https://github.com/getsentry/sentry-mcp",
+      "first_seen": "2026-05-14",
+      "last_seen": "2026-05-14",
+      "count": 1
+    },
+    "https://github.com/microsoft/mcp-dotnet-samples": {
+      "title": "microsoft/mcp-dotnet-samples · .NET MCP server 完整示例集",
+      "url": "https://github.com/microsoft/mcp-dotnet-samples",
+      "first_seen": "2026-05-14",
+      "last_seen": "2026-05-14",
+      "count": 1
+    },
+    "https://github.com/github/spec-kit": {
+      "title": "github/spec-kit · +1120⭐ GitHub 官方 Spec-Driven Dev 工具包",
+      "url": "https://github.com/github/spec-kit",
+      "first_seen": "2026-05-14",
+      "last_seen": "2026-05-14",
+      "count": 1
+    }
+  }
+}
