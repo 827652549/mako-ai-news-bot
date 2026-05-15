@@ -1,0 +1,95 @@
+{
+  "urls": {
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.142": {
+      "title": "Claude Code v2.1.142 · agents 多参数 · Fast→Opus 4.7",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.142",
+      "first_seen": "2026-05-15",
+      "last_seen": "2026-05-15",
+      "count": 1
+    },
+    "https://www.anthropic.com/news/gates-foundation-partnership": {
+      "title": "Anthropic 与盖茨基金会签署 2 亿美元合作",
+      "url": "https://www.anthropic.com/news/gates-foundation-partnership",
+      "first_seen": "2026-05-15",
+      "last_seen": "2026-05-15",
+      "count": 1
+    },
+    "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.96.0": {
+      "title": "anthropic-sdk-typescript v0.96.0 · Managed Agents ",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.96.0",
+      "first_seen": "2026-05-15",
+      "last_seen": "2026-05-15",
+      "count": 1
+    },
+    "https://github.com/mattpocock/skills": {
+      "title": "mattpocock/skills · TS 大 V 的 Claude Code 技能集",
+      "url": "https://github.com/mattpocock/skills",
+      "first_seen": "2026-05-15",
+      "last_seen": "2026-05-15",
+      "count": 1
+    },
+    "https://github.com/rohitg00/agentmemory": {
+      "title": "rohitg00/agentmemory · AI coding agent 持久记忆 #1",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "first_seen": "2026-05-15",
+      "last_seen": "2026-05-15",
+      "count": 1
+    },
+    "https://github.com/garrytan/gstack": {
+      "title": "garrytan/gstack · YC 总裁的 23 工具 Claude Code 配置",
+      "url": "https://github.com/garrytan/gstack",
+      "first_seen": "2026-05-15",
+      "last_seen": "2026-05-15",
+      "count": 1
+    },
+    "https://github.com/obra/superpowers": {
+      "title": "obra/superpowers · 覆盖全链路的 Agent 技能框架",
+      "url": "https://github.com/obra/superpowers",
+      "first_seen": "2026-05-15",
+      "last_seen": "2026-05-15",
+      "count": 1
+    },
+    "https://dev.to/muhammad_moeed/claude-code-vs-cursor-90-days-with-both-in-2026-2dha": {
+      "title": "Claude Code vs Cursor — 90 天生产对比 2026",
+      "url": "https://dev.to/muhammad_moeed/claude-code-vs-cursor-90-days-with-both-in-2026-2dha",
+      "first_seen": "2026-05-15",
+      "last_seen": "2026-05-15",
+      "count": 1
+    },
+    "https://www.leiphone.com/category/zaobao/eyVXHz0PsnnP82iT.html": {
+      "title": "马化腾：腾讯 AI 不急于抢地盘 · 下半年加码算力",
+      "url": "https://www.leiphone.com/category/zaobao/eyVXHz0PsnnP82iT.html",
+      "first_seen": "2026-05-15",
+      "last_seen": "2026-05-15",
+      "count": 1
+    },
+    "https://www.smarthey.com/detail/667150602514.html": {
+      "title": "腾讯辟谣 AI 一号人物离职 · 姚顺雨任首席 AI 科学家",
+      "url": "https://www.smarthey.com/detail/667150602514.html",
+      "first_seen": "2026-05-15",
+      "last_seen": "2026-05-15",
+      "count": 1
+    },
+    "https://www.smarthey.com/detail/617121102524.html": {
+      "title": "字节跳动等入股自变量机器人",
+      "url": "https://www.smarthey.com/detail/617121102524.html",
+      "first_seen": "2026-05-15",
+      "last_seen": "2026-05-15",
+      "count": 1
+    },
+    "https://dev.to/evanlin/workshopgemini-cli-building-with-ai-2026-hands-on-with-gemini-cli-and-official-mcp-to-launch-a-296d": {
+      "title": "Gemini CLI 官方 MCP 实战：从零搭建 Google Drive LINE Bot",
+      "url": "https://dev.to/evanlin/workshopgemini-cli-building-with-ai-2026-hands-on-with-gemini-cli-and-official-mcp-to-launch-a-296d",
+      "first_seen": "2026-05-15",
+      "last_seen": "2026-05-15",
+      "count": 1
+    },
+    "https://github.com/github/spec-kit": {
+      "title": "github/spec-kit · GitHub 官方 Spec 驱动开发工具包",
+      "url": "https://github.com/github/spec-kit",
+      "first_seen": "2026-05-15",
+      "last_seen": "2026-05-15",
+      "count": 1
+    }
+  }
+}
