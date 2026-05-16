@@ -1,0 +1,130 @@
+{
+  "urls": {
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.143": {
+      "title": "Claude Code v2.1.143 · plugin 依赖校验 + context 成本预测 + bg 修复集中版",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.143",
+      "first_seen": "2026-05-16",
+      "last_seen": "2026-05-16",
+      "count": 1
+    },
+    "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start": {
+      "title": "How Claude Code works in large codebases（HN 229 pts）",
+      "url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+      "first_seen": "2026-05-16",
+      "last_seen": "2026-05-16",
+      "count": 1
+    },
+    "https://github.com/larksuite/cli/releases/tag/v1.0.32": {
+      "title": "larksuite/cli v1.0.32 · SecretInput + wiki 快捷键",
+      "url": "https://github.com/larksuite/cli/releases/tag/v1.0.32",
+      "first_seen": "2026-05-16",
+      "last_seen": "2026-05-16",
+      "count": 1
+    },
+    "https://dev.to/recca0120/free-claude-code-route-claude-code-api-calls-to-free-alternatives-hik": {
+      "title": "Free Claude Code：把 API 请求代理到免费替代模型",
+      "url": "https://dev.to/recca0120/free-claude-code-route-claude-code-api-calls-to-free-alternatives-hik",
+      "first_seen": "2026-05-16",
+      "last_seen": "2026-05-16",
+      "count": 1
+    },
+    "https://github.com/anthropics/skills": {
+      "title": "anthropics/skills · 官方 Agent Skills 仓库今日 GitHub 趋势第 7",
+      "url": "https://github.com/anthropics/skills",
+      "first_seen": "2026-05-16",
+      "last_seen": "2026-05-16",
+      "count": 1
+    },
+    "https://github.com/DenisSergeevitch/agents-best-practices": {
+      "title": "agents-best-practices · 今日新开源的跨工具 Agent Skill 规范",
+      "url": "https://github.com/DenisSergeevitch/agents-best-practices",
+      "first_seen": "2026-05-16",
+      "last_seen": "2026-05-16",
+      "count": 1
+    },
+    "https://github.com/aattaran/deepclaude": {
+      "title": "deepclaude · Claude Code agent loop 对接 DeepSeek V4 Pro",
+      "url": "https://github.com/aattaran/deepclaude",
+      "first_seen": "2026-05-16",
+      "last_seen": "2026-05-16",
+      "count": 1
+    },
+    "https://github.com/nexu-io/html-anything": {
+      "title": "html-anything · 本地 AI agent 写 HTML 你来发布，75 Skills",
+      "url": "https://github.com/nexu-io/html-anything",
+      "first_seen": "2026-05-16",
+      "last_seen": "2026-05-16",
+      "count": 1
+    },
+    "https://github.com/stormzhang/token-tracker": {
+      "title": "token-tracker · 跨 Claude Code/Codex 的 token 用量看板",
+      "url": "https://github.com/stormzhang/token-tracker",
+      "first_seen": "2026-05-16",
+      "last_seen": "2026-05-16",
+      "count": 1
+    },
+    "https://www.leiphone.com/latest/index/id/4723": {
+      "title": "华为19级天才赵立晨离职，瞄准具身 Agentic OS",
+      "url": "https://www.leiphone.com/latest/index/id/4723",
+      "first_seen": "2026-05-16",
+      "last_seen": "2026-05-16",
+      "count": 1
+    },
+    "https://dev.to/mukundakatta/mcp-is-everywhere-now-the-next-problem-is-governance-17if": {
+      "title": "MCP Is Everywhere Now. The Next Problem Is Governance.",
+      "url": "https://dev.to/mukundakatta/mcp-is-everywhere-now-the-next-problem-is-governance-17if",
+      "first_seen": "2026-05-16",
+      "last_seen": "2026-05-16",
+      "count": 1
+    },
+    "https://dev.to/corestory/mcp-servers-for-codebase-context-how-ai-coding-agents-access-code-intelligence-3757": {
+      "title": "MCP Servers for Codebase Context: How AI Agents Access Code",
+      "url": "https://dev.to/corestory/mcp-servers-for-codebase-context-how-ai-coding-agents-access-code-intelligence-3757",
+      "first_seen": "2026-05-16",
+      "last_seen": "2026-05-16",
+      "count": 1
+    },
+    "https://dev.to/dalenguyen/securing-your-mcp-server-with-firebase-auth-a-production-walkthrough-53j7": {
+      "title": "Securing MCP Server with Firebase Auth: 生产级鉴权实践",
+      "url": "https://dev.to/dalenguyen/securing-your-mcp-server-with-firebase-auth-a-production-walkthrough-53j7",
+      "first_seen": "2026-05-16",
+      "last_seen": "2026-05-16",
+      "count": 1
+    },
+    "https://github.com/nduckmink/arkon": {
+      "title": "arkon · 企业级自托管 RAG + MCP Server 一体化方案",
+      "url": "https://github.com/nduckmink/arkon",
+      "first_seen": "2026-05-16",
+      "last_seen": "2026-05-16",
+      "count": 1
+    },
+    "https://github.com/CodeAbra/iai-mcp": {
+      "title": "iai-mcp · benchmark 最高的 AI coding 记忆系统",
+      "url": "https://github.com/CodeAbra/iai-mcp",
+      "first_seen": "2026-05-16",
+      "last_seen": "2026-05-16",
+      "count": 1
+    },
+    "https://github.com/github/spec-kit": {
+      "title": "github/spec-kit · 10 万星 Spec-Driven Development 工具包",
+      "url": "https://github.com/github/spec-kit",
+      "first_seen": "2026-05-16",
+      "last_seen": "2026-05-16",
+      "count": 1
+    },
+    "https://github.com/Fission-AI/OpenSpec": {
+      "title": "OpenSpec · 48k 星，spec 即规范的 AI coding 约束框架",
+      "url": "https://github.com/Fission-AI/OpenSpec",
+      "first_seen": "2026-05-16",
+      "last_seen": "2026-05-16",
+      "count": 1
+    },
+    "https://github.com/gsd-build/get-shit-done": {
+      "title": "gsd-build · 62k 星，meta-prompting + spec-driven 系统",
+      "url": "https://github.com/gsd-build/get-shit-done",
+      "first_seen": "2026-05-16",
+      "last_seen": "2026-05-16",
+      "count": 1
+    }
+  }
+}
