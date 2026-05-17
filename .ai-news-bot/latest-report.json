@@ -4,7 +4,7 @@
     "header": {
       "title": {
         "tag": "plain_text",
-        "content": "📡 AI 资讯速报 · 2026-04-16"
+        "content": "📡 AI 资讯速报 · 2026-05-17"
       },
       "template": "blue"
     },
@@ -13,7 +13,7 @@
         "tag": "div",
         "text": {
           "tag": "lark_md",
-          "content": "**🔧 Claude 生态**\n· [Claude Code v2.1.110 · /tui全屏、移动推送通知、MCP…](https://github.com/anthropics/claude-code/releases/tag/v2.1.110)\n  _Claude Code 最新版本，新增 /tui 无闪烁全屏渲染、移动端 Push 通知工具、MCP 服务器断连修复和安全加固，直接影响日常编程工作流，建议今日更新_\n· [Claude Code v2.1.109 · 扩展思维进度提示改进](https://github.com/anthropics/claude-code/releases/tag/v2.1.109)\n  _同日发布，优化了 Extended Thinking（扩展推理）的旋转进度提示动画，使用深度推理模式时体验更流畅_\n· [Claude.ai / API / Claude Code 服务大规模故障（HN…](https://claudestatus.com/)\n  _昨日 Claude 服务出现系统性异常，社区热议 242+ 分，了解故障背景有助于评估 AI 编程工具的稳定性风险和降级方案_\n· [anthropic-sdk-typescript v0.89.0 · 正式标记 …](https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.89.0)\n  _SDK 将旧版 Claude Sonnet 4 和 Opus 4 标记为 deprecated，说明 Claude 4.5/4.6 系列已成主力模型，现有项目应尽快迁移依赖_"
+          "content": "**Claude 生态**\n· [claude-code v2.1.143 ·…](https://github.com/anthropics/claude-code/releases/tag/v2.1.143)\n  _Claude Code 新版本，插件系统（Added plugin dependency enforcement: `cl…）直接影响日常工作流_\n· [cli v1.0.32 · v1.0.32](https://github.com/larksuite/cli/releases/tag/v1.0.32)\n  _Claude 生态官方更新，直接影响 AI 工具链选型决策_\n· [PwC is deploying Claude to…](https://www.anthropic.com/news/pwc-expanded-partnership)\n  _Anthropic 官方动态，关注模型能力演进与 API 策略变化方向_\n· [Anthropic forms $200 million…](https://www.anthropic.com/news/gates-foundation-partnership)\n  _Anthropic 官方动态，关注模型能力演进与 API 策略变化方向_\n· [Introducing Claude for Small…](https://www.anthropic.com/news/claude-for-small-business)\n  _Anthropic 官方动态，关注模型能力演进与 API 策略变化方向_"
         }
       },
       {
@@ -23,7 +23,7 @@
         "tag": "div",
         "text": {
           "tag": "lark_md",
-          "content": "**🛠️ AI 工具发现**\n· [forrestchang/andrej-karpathy-skills · 今日…](https://github.com/forrestchang/andrej-karpathy-skills)\n  _将 Andrej Karpathy 总结的 LLM 编码陷阱浓缩为单个 CLAUDE.md，可直接拖入项目提升 Claude Code 输出质量，强烈推荐收藏_\n· [thedotmack/claude-mem · Claude Code 自动记忆…](https://github.com/thedotmack/claude-mem)\n  _自动捕获 Claude 的会话操作、AI 压缩后注入未来上下文，解决大型项目历史信息丢失问题，是 Claude Code 工程化的实用扩展_\n· [obra/superpowers · Agentic 技能框架，2,055⭐](https://github.com/obra/superpowers)\n  _快速增长的 Agent 软件开发方法论框架，与 Claude Code Skills 系统理念高度契合，了解其设计思路有助于面试中阐述 Agent 架构观点_\n· [Libretto – 确定性 AI 浏览器自动化（HN 88pts）](https://github.com/saffron-health/libretto)\n  _提出「开发时 AI」理念：用 coding agent 预生成可检查的确定性脚本，而非运行时黑盒 agent，对 spec-driven 开发思路有重要参考价值_\n· [How I built a resume MCP in an hour（DEV …](https://dev.to/david_hyland_08f49962a50f/how-i-built-a-resume-mcp-in-an-hour-3o4m)\n  _一小时内构建完整 MCP 服务器的实战教程，展示了 MCP 开发的低门槛，面试时可作为 MCP 生态快速上手能力的佐证_"
+          "content": "**AI 工具发现**\n· [K-Dense-AI/scientific-agent…](https://github.com/K-Dense-AI/scientific-agent-skills)\n  _GitHub 今日 673⭐ 快速增长，AI 编码工具新趋势信号_\n· [obra/superpowers · 1305⭐ today](https://github.com/obra/superpowers)\n  _GitHub 今日 1305⭐ 快速增长，AI 编码工具新趋势信号_\n· [colbymchenry/codegraph · 416⭐…](https://github.com/colbymchenry/codegraph)\n  _GitHub 今日 416⭐ 快速增长，AI 编码工具新趋势信号_\n· [getsentry/XcodeBuildMCP · 35⭐…](https://github.com/getsentry/XcodeBuildMCP)\n  _GitHub 今日 35⭐ 快速增长，AI 编码工具新趋势信号_\n· [anomalyco/opencode · 473⭐…](https://github.com/anomalyco/opencode)\n  _GitHub 今日 473⭐ 快速增长，AI 编码工具新趋势信号_"
         }
       },
       {
@@ -33,7 +33,7 @@
         "tag": "div",
         "text": {
           "tag": "lark_md",
-          "content": "**🏢 国内 AI 动态**\n· [台积电 Q1 净利润同比增 50%，AI 需求连续四季度创纪录](https://www.smarthey.com/detail/680101801886.html)\n  _AI 芯片需求持续高速增长，直接影响国内云厂商（阿里云、腾讯云）的 GPU 算力采购成本与 AI 服务定价策略，是 AI 工程化背景的重要宏观信号_\n· [Snap 裁员 1,000 人，聚焦 AI 驱动长期价值增长](https://www.smarthey.com/detail/189101801889.html)\n  _海外 AI 赛道裁员重组趋势持续，对比国内大厂 AI 编码工具（CodeBuddy 等）投入加大，AI coding 赛道竞争格局在全球范围内加速分化_"
+          "content": "**国内 AI 动态**\n· [对话销售易总裁邓永富：借力腾讯，能否在SaaS大洗牌中「攒足…](https://www.leiphone.com/category/CorporateServices/VtqqTCKnnWrini0F.html \"对话销售易总裁邓永富：借力腾讯，能否在SaaS大洗牌中「攒足」筹码？ | SaaS+Agent十人谈\")\n  _国内大厂 AI 产品动态，掌握国内 AI coding 工具竞争格局_"
         }
       },
       {
@@ -43,7 +43,17 @@
         "tag": "div",
         "text": {
           "tag": "lark_md",
-          "content": "**🔌 MCP 生态**\n· [MCP as Observability Interface: AI Agent…](https://ingero.io/mcp-observability-interface-ai-agents-kernel-tracepoints/)\n  _将 MCP 用于可观测性接口，让 AI Agent 接入内核追踪点（Tracepoint），是 MCP 协议在系统级工具链中的创新应用，扩展了 MCP 的使用边界_\n· [agent-dispatch：让 Claude Code Agents 互相通信…](https://dev.to/serik_ospanov_c84c8ee2e54/let-your-claude-code-agents-talk-to-each-other-introducing-agent-dispatch--3ik0)\n  _实现 Claude Code 多 Agent 之间的消息传递，是构建复杂 multi-agent 工作流的基础组件，对 agent 协作架构设计有直接参考价值_"
+          "content": "**MCP 生态**\n· [WenyuChiou/awesome-agentic-ai…](https://github.com/WenyuChiou/awesome-agentic-ai-zh)\n  _MCP 生态扩张信号，Model Context Protocol 是当前 AI 工程化核心协议_\n· [CodeAbra/iai-mcp · 120⭐](https://github.com/CodeAbra/iai-mcp)\n  _MCP 生态扩张信号，Model Context Protocol 是当前 AI 工程化核心协议_\n· [PlaceNL2026/okx-agent-trade…](https://github.com/PlaceNL2026/okx-agent-trade-kit)\n  _MCP 生态扩张信号，Model Context Protocol 是当前 AI 工程化核心协议_\n· [TehreemArbab/JazzCashMCP · 64⭐](https://github.com/TehreemArbab/JazzCashMCP)\n  _MCP Server 实现案例，了解协议扩展边界和工具集成模式_\n· [rahilp/second-brain…](https://github.com/rahilp/second-brain-cloudflare)\n  _MCP 生态扩张信号，Model Context Protocol 是当前 AI 工程化核心协议_"
+        }
+      },
+      {
+        "tag": "hr"
+      },
+      {
+        "tag": "div",
+        "text": {
+          "tag": "lark_md",
+          "content": "**Spec 驱动开发**\n· [github/spec-kit · 100962⭐](https://github.com/github/spec-kit)\n  _Spec 驱动开发工具/方法论，结合 Claude Code 是前沿工程实践方向_\n· [Fission-AI/OpenSpec · 48497⭐](https://github.com/Fission-AI/OpenSpec)\n  _Spec 驱动开发工具/方法论，结合 Claude Code 是前沿工程实践方向_\n· [gsd-build/gsd-2 · 7550⭐](https://github.com/gsd-build/gsd-2)\n  _Spec 驱动开发工具/方法论，结合 Claude Code 是前沿工程实践方向_\n· [potpie-ai/potpie · 5381⭐](https://github.com/potpie-ai/potpie)\n  _Spec 驱动开发工具/方法论，结合 Claude Code 是前沿工程实践方向_\n· [buildermethods/agent-os ·…](https://github.com/buildermethods/agent-os)\n  _Spec 驱动开发工具/方法论，结合 Claude Code 是前沿工程实践方向_"
         }
       },
       {
@@ -54,7 +64,7 @@
         "elements": [
           {
             "tag": "plain_text",
-            "content": "数据来源：GitHub Releases · GitHub Trending · HN Algolia · DEV Community · Smarthey｜⚠️ 跳过：Leiphone（24h 内无更新）· Spec 驱动专栏（无新热度内容）· GitHub Search（Rate Limit 限速）｜修改关注维度：编辑仓库中的 watch.yaml"
+            "content": "数据来源：GitHub · HN · 雷峰网 · DEV Community｜修改关注维度：编辑 watch.yaml\n⚠️ 跳过：Web/https://claude.ai/blog(no keyword match)、Web/https://www.smarthey.com/(no keyword match)"
           }
         ]
       }

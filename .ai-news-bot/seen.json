@@ -1,0 +1,879 @@
+{
+  "urls": {
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.143": {
+      "title": "claude-code v2.1.143 · v2.1.143",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.143",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/larksuite/cli/releases/tag/v1.0.32": {
+      "title": "cli v1.0.32 · v1.0.32",
+      "url": "https://github.com/larksuite/cli/releases/tag/v1.0.32",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://www.anthropic.com/news/pwc-expanded-partnership": {
+      "title": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
+      "url": "https://www.anthropic.com/news/pwc-expanded-partnership",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://www.anthropic.com/news/gates-foundation-partnership": {
+      "title": "Anthropic forms $200 million partnership with the Gates Foundation",
+      "url": "https://www.anthropic.com/news/gates-foundation-partnership",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://www.anthropic.com/news/claude-for-small-business": {
+      "title": "Introducing Claude for Small Business",
+      "url": "https://www.anthropic.com/news/claude-for-small-business",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://www.anthropic.com/news/higher-limits-spacex": {
+      "title": "Higher usage limits for Claude and a compute deal with SpaceX",
+      "url": "https://www.anthropic.com/news/higher-limits-spacex",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://www.anthropic.com/news/finance-agents": {
+      "title": "Agents for financial services",
+      "url": "https://www.anthropic.com/news/finance-agents",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://www.anthropic.com/news/enterprise-ai-services-company": {
+      "title": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
+      "url": "https://www.anthropic.com/news/enterprise-ai-services-company",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://www.anthropic.com/news/claude-for-creative-work": {
+      "title": "Claude for Creative Work",
+      "url": "https://www.anthropic.com/news/claude-for-creative-work",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand": {
+      "title": "Anthropic names Theo Hourmouzis General Manager of Australia & New Zealand and officially opens Sydney office",
+      "url": "https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://www.anthropic.com/news/election-safeguards-update": {
+      "title": "An update on our election safeguards",
+      "url": "https://www.anthropic.com/news/election-safeguards-update",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://www.anthropic.com/news/anthropic-nec": {
+      "title": "Anthropic and NEC collaborate to build Japan’s largest AI engineering workforce",
+      "url": "https://www.anthropic.com/news/anthropic-nec",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy": {
+      "title": "Responsible Scaling Policy",
+      "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/K-Dense-AI/scientific-agent-skills": {
+      "title": "K-Dense-AI/scientific-agent-skills · 673⭐ today",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/obra/superpowers": {
+      "title": "obra/superpowers · 1305⭐ today",
+      "url": "https://github.com/obra/superpowers",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/colbymchenry/codegraph": {
+      "title": "colbymchenry/codegraph · 416⭐ today",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/getsentry/XcodeBuildMCP": {
+      "title": "getsentry/XcodeBuildMCP · 35⭐ today",
+      "url": "https://github.com/getsentry/XcodeBuildMCP",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/anomalyco/opencode": {
+      "title": "anomalyco/opencode · 473⭐ today",
+      "url": "https://github.com/anomalyco/opencode",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/tech-leads-club/agent-skills": {
+      "title": "tech-leads-club/agent-skills · 44⭐ today",
+      "url": "https://github.com/tech-leads-club/agent-skills",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/czlonkowski/n8n-mcp": {
+      "title": "czlonkowski/n8n-mcp · 205⭐ today",
+      "url": "https://github.com/czlonkowski/n8n-mcp",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/coreyhaines31/marketingskills": {
+      "title": "coreyhaines31/marketingskills · 206⭐ today",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/gsd-build/get-shit-done": {
+      "title": "gsd-build/get-shit-done · 161⭐ today",
+      "url": "https://github.com/gsd-build/get-shit-done",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/atlassian/atlassian-mcp-server": {
+      "title": "atlassian/atlassian-mcp-server · 5⭐ today",
+      "url": "https://github.com/atlassian/atlassian-mcp-server",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/ykdojo/claude-code-tips": {
+      "title": "ykdojo/claude-code-tips · 29⭐ today",
+      "url": "https://github.com/ykdojo/claude-code-tips",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/adobe/skills": {
+      "title": "adobe/skills · 2⭐ today",
+      "url": "https://github.com/adobe/skills",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/anthropics/skills": {
+      "title": "anthropics/skills · 900⭐ today",
+      "url": "https://github.com/anthropics/skills",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/awslabs/agent-plugins": {
+      "title": "awslabs/agent-plugins · 5⭐ today",
+      "url": "https://github.com/awslabs/agent-plugins",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/PurpleAILAB/Decepticon": {
+      "title": "PurpleAILAB/Decepticon · 39⭐ today",
+      "url": "https://github.com/PurpleAILAB/Decepticon",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/HKUDS/CLI-Anything": {
+      "title": "HKUDS/CLI-Anything · 333⭐ today",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/dograh-hq/dograh": {
+      "title": "dograh-hq/dograh · 287⭐ today",
+      "url": "https://github.com/dograh-hq/dograh",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization": {
+      "title": "NVIDIA-AI-Blueprints/video-search-and-summarization · 235⭐ today",
+      "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/BigBodyCobain/Shadowbroker": {
+      "title": "BigBodyCobain/Shadowbroker · 165⭐ today",
+      "url": "https://github.com/BigBodyCobain/Shadowbroker",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/luongnv89/claude-howto": {
+      "title": "luongnv89/claude-howto · 165⭐ today",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/nexu-io/html-anything": {
+      "title": "nexu-io/html-anything · 2453⭐",
+      "url": "https://github.com/nexu-io/html-anything",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/HermannBjorgvin/Clawdmeter": {
+      "title": "HermannBjorgvin/Clawdmeter · 1086⭐",
+      "url": "https://github.com/HermannBjorgvin/Clawdmeter",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/alvinunreal/openpets": {
+      "title": "alvinunreal/openpets · 710⭐",
+      "url": "https://github.com/alvinunreal/openpets",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/DenisSergeevitch/agents-best-practices": {
+      "title": "DenisSergeevitch/agents-best-practices · 578⭐",
+      "url": "https://github.com/DenisSergeevitch/agents-best-practices",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/alchaincyf/huashu-md-html": {
+      "title": "alchaincyf/huashu-md-html · 552⭐",
+      "url": "https://github.com/alchaincyf/huashu-md-html",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/BharathKumarSuresh/claude-design-system-hooks": {
+      "title": "BharathKumarSuresh/claude-design-system-hooks · 420⭐",
+      "url": "https://github.com/BharathKumarSuresh/claude-design-system-hooks",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/2508965-ship-it/harmonist-orchestral": {
+      "title": "2508965-ship-it/harmonist-orchestral · 420⭐",
+      "url": "https://github.com/2508965-ship-it/harmonist-orchestral",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/mikesheehan54/Claude-Code-Design-AI": {
+      "title": "mikesheehan54/Claude-Code-Design-AI · 379⭐",
+      "url": "https://github.com/mikesheehan54/Claude-Code-Design-AI",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/louisedesadeleer/clipify": {
+      "title": "louisedesadeleer/clipify · 338⭐",
+      "url": "https://github.com/louisedesadeleer/clipify",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/KevRojo/Dulus": {
+      "title": "KevRojo/Dulus · 275⭐",
+      "url": "https://github.com/KevRojo/Dulus",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/microsoft/playwright-mcp": {
+      "title": "microsoft/playwright-mcp · 32599⭐",
+      "url": "https://github.com/microsoft/playwright-mcp",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/github/github-mcp-server": {
+      "title": "github/github-mcp-server · 29893⭐",
+      "url": "https://github.com/github/github-mcp-server",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/PrefectHQ/fastmcp": {
+      "title": "PrefectHQ/fastmcp · 25184⭐",
+      "url": "https://github.com/PrefectHQ/fastmcp",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/activepieces/activepieces": {
+      "title": "activepieces/activepieces · 22225⭐",
+      "url": "https://github.com/activepieces/activepieces",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/googleapis/mcp-toolbox": {
+      "title": "googleapis/mcp-toolbox · 15246⭐",
+      "url": "https://github.com/googleapis/mcp-toolbox",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/casdoor/casdoor": {
+      "title": "casdoor/casdoor · 13615⭐",
+      "url": "https://github.com/casdoor/casdoor",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/mcp-use/mcp-use": {
+      "title": "mcp-use/mcp-use · 9962⭐",
+      "url": "https://github.com/mcp-use/mcp-use",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/modelcontextprotocol/inspector": {
+      "title": "modelcontextprotocol/inspector · 9782⭐",
+      "url": "https://github.com/modelcontextprotocol/inspector",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/awslabs/mcp": {
+      "title": "awslabs/mcp · 9069⭐",
+      "url": "https://github.com/awslabs/mcp",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/kreuzberg-dev/kreuzberg": {
+      "title": "kreuzberg-dev/kreuzberg · 8321⭐",
+      "url": "https://github.com/kreuzberg-dev/kreuzberg",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/stormzhang/token-tracker": {
+      "title": "stormzhang/token-tracker · 220⭐",
+      "url": "https://github.com/stormzhang/token-tracker",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/keerthanapranesh/Claude-Code-Swarm-Toolkit": {
+      "title": "keerthanapranesh/Claude-Code-Swarm-Toolkit · 185⭐",
+      "url": "https://github.com/keerthanapranesh/Claude-Code-Swarm-Toolkit",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/Callous-0923/agent-study": {
+      "title": "Callous-0923/agent-study · 168⭐",
+      "url": "https://github.com/Callous-0923/agent-study",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/mertkayacs/reevesagents": {
+      "title": "mertkayacs/reevesagents · 114⭐",
+      "url": "https://github.com/mertkayacs/reevesagents",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://dev.to/jucelinux/the-ten-principles-locality-contracts-quarantine-1bpk": {
+      "title": "The ten principles: locality, contracts, quarantine",
+      "url": "https://dev.to/jucelinux/the-ten-principles-locality-contracts-quarantine-1bpk",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://dev.to/ohugonnot/claudemd-for-mobile-redesign-the-context-that-changes-everything-1fpk": {
+      "title": "CLAUDE.md for mobile redesign: the context that changes everything",
+      "url": "https://dev.to/ohugonnot/claudemd-for-mobile-redesign-the-context-that-changes-everything-1fpk",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://dev.to/recca0120/code-quest-a-claude-code-web-ui-that-runs-in-interactive-mode-just-in-time-for-the-june-15-4m0i": {
+      "title": "Code Quest: A Claude Code Web UI That Runs in Interactive Mode — Just in Time for the June 15 Billing Change",
+      "url": "https://dev.to/recca0120/code-quest-a-claude-code-web-ui-that-runs-in-interactive-mode-just-in-time-for-the-june-15-4m0i",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://dev.to/great_cto/ai-dropped-my-per-feature-ship-time-from-3-days-to-3-hours-heres-the-actual-stack-2d91": {
+      "title": "AI dropped my per-feature ship time from 3 days to 3 hours. Here's the actual stack.",
+      "url": "https://dev.to/great_cto/ai-dropped-my-per-feature-ship-time-from-3-days-to-3-hours-heres-the-actual-stack-2d91",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://dev.to/jucelinux/what-to-unlearn-the-most-expensive-patterns-from-the-human-era-5af7": {
+      "title": "What to unlearn: the most expensive patterns from the human era",
+      "url": "https://dev.to/jucelinux/what-to-unlearn-the-most-expensive-patterns-from-the-human-era-5af7",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://dev.to/jucelinux/the-central-artifact-specmd-and-the-field-tests-first-never-had-4a62": {
+      "title": "The central artifact: spec.md and the field tests-first never had",
+      "url": "https://dev.to/jucelinux/the-central-artifact-specmd-and-the-field-tests-first-never-had-4a62",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://dev.to/jucelinux/the-five-step-loop-spec-plan-implement-verify-consolidate-4o8o": {
+      "title": "The five-step loop: spec, plan, implement, verify, consolidate",
+      "url": "https://dev.to/jucelinux/the-five-step-loop-spec-plan-implement-verify-consolidate-4o8o",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://dev.to/speedy_devv/cut-claude-code-token-costs-4lil": {
+      "title": "Cut Claude Code Token Costs",
+      "url": "https://dev.to/speedy_devv/cut-claude-code-token-costs-4lil",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://dev.to/futurmix/how-to-use-claude-code-with-any-api-provider-custom-base-url-guide-mcg": {
+      "title": "How to Use Claude Code with Any API Provider (Custom Base URL Guide)",
+      "url": "https://dev.to/futurmix/how-to-use-claude-code-with-any-api-provider-custom-base-url-guide-mcg",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://dev.to/devtoolpicks/best-claude-code-alternatives-for-indie-hackers-in-2026-5fc4": {
+      "title": "Best Claude Code Alternatives for Indie Hackers in 2026",
+      "url": "https://dev.to/devtoolpicks/best-claude-code-alternatives-for-indie-hackers-in-2026-5fc4",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://dev.to/kkk_dev_1b0a00f5047cb4de6/why-every-claude-code-built-site-looks-the-same-and-the-image-layer-that-breaks-it-37jp": {
+      "title": "Why every Claude Code-built site looks the same — and the image layer that breaks it",
+      "url": "https://dev.to/kkk_dev_1b0a00f5047cb4de6/why-every-claude-code-built-site-looks-the-same-and-the-image-layer-that-breaks-it-37jp",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://dev.to/kkk_dev_1b0a00f5047cb4de6/why-ai-coding-tools-over-engineer-your-mvp-and-the-one-fix-p11": {
+      "title": "Why AI Coding Tools Over-engineer Your MVP — And the One Fix",
+      "url": "https://dev.to/kkk_dev_1b0a00f5047cb4de6/why-ai-coding-tools-over-engineer-your-mvp-and-the-one-fix-p11",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://dev.to/jgravelle/saving-the-world-from-ai-with-ai-4fc2": {
+      "title": "Saving the World From AI... with AI!",
+      "url": "https://dev.to/jgravelle/saving-the-world-from-ai-with-ai-4fc2",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://dev.to/nghiahsgs/i-gave-claude-code-a-real-ubuntu-computer-and-open-sourced-the-engine-4f3l": {
+      "title": "⭐ I gave Claude Code a real Ubuntu computer (and open-sourced the engine)",
+      "url": "https://dev.to/nghiahsgs/i-gave-claude-code-a-real-ubuntu-computer-and-open-sourced-the-engine-4f3l",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://dev.to/vola-trebla/stop-copy-pasting-zod-schemas-to-chatgpt-build-a-mock-forge-instead-1ah9": {
+      "title": "Stop Copy-Pasting Zod Schemas to ChatGPT. Build a Mock Forge Instead.",
+      "url": "https://dev.to/vola-trebla/stop-copy-pasting-zod-schemas-to-chatgpt-build-a-mock-forge-instead-1ah9",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://dev.to/vola-trebla/your-ci-is-always-broken-your-ai-agent-has-no-idea-what-to-do-about-it-p2j": {
+      "title": "Your CI Is Always Broken. Your AI Agent Has No Idea What to Do About It.",
+      "url": "https://dev.to/vola-trebla/your-ci-is-always-broken-your-ai-agent-has-no-idea-what-to-do-about-it-p2j",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://dev.to/vola-trebla/your-ai-agent-just-broke-your-react-performance-it-has-no-idea-4ghn": {
+      "title": "Your AI Agent Just Broke Your React Performance. It Has No Idea",
+      "url": "https://dev.to/vola-trebla/your-ai-agent-just-broke-your-react-performance-it-has-no-idea-4ghn",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://dev.to/vola-trebla/your-ai-agent-can-read-the-dom-it-cant-see-the-screen-1ic3": {
+      "title": "Your AI Agent Can Read the DOM. It Can't See the Screen.",
+      "url": "https://dev.to/vola-trebla/your-ai-agent-can-read-the-dom-it-cant-see-the-screen-1ic3",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://dev.to/supertrained/mcp-threat-model-template-for-agent-tools-jol": {
+      "title": "MCP Threat Model Template for Agent Tools",
+      "url": "https://dev.to/supertrained/mcp-threat-model-template-for-agent-tools-jol",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://dev.to/kao273183/im-a-qa-engineer-after-claude-wrote-todo-in-my-100th-test-i-built-an-mcp-server-3c4l": {
+      "title": "I'm a QA engineer. After Claude wrote # TODO in my 100th test, I built an MCP server.",
+      "url": "https://dev.to/kao273183/im-a-qa-engineer-after-claude-wrote-todo-in-my-100th-test-i-built-an-mcp-server-3c4l",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://dev.to/megberts/which-gemma-4-variant-should-power-your-mcp-agent-4gkn": {
+      "title": "Which Gemma 4 Variant Should Power Your MCP Agent?",
+      "url": "https://dev.to/megberts/which-gemma-4-variant-should-power-your-mcp-agent-4gkn",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://dev.to/prodevel/i-got-tired-of-re-explaining-my-projects-to-claude-so-i-built-context-window-1fd": {
+      "title": "I got tired of re-explaining my projects to Claude — so I built context-window",
+      "url": "https://dev.to/prodevel/i-got-tired-of-re-explaining-my-projects-to-claude-so-i-built-context-window-1fd",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://www.leiphone.com/category/CorporateServices/VtqqTCKnnWrini0F.html \"对话销售易总裁邓永富：借力腾讯，能否在SaaS大洗牌中「攒足」筹码？ | SaaS+Agent十人谈\"": {
+      "title": "对话销售易总裁邓永富：借力腾讯，能否在SaaS大洗牌中「攒足」筹码？ | SaaS+Agent十人谈",
+      "url": "https://www.leiphone.com/category/CorporateServices/VtqqTCKnnWrini0F.html \"对话销售易总裁邓永富：借力腾讯，能否在SaaS大洗牌中「攒足」筹码？ | SaaS+Agent十人谈\"",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/WenyuChiou/awesome-agentic-ai-zh": {
+      "title": "WenyuChiou/awesome-agentic-ai-zh · 1463⭐",
+      "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/CodeAbra/iai-mcp": {
+      "title": "CodeAbra/iai-mcp · 120⭐",
+      "url": "https://github.com/CodeAbra/iai-mcp",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/PlaceNL2026/okx-agent-trade-kit": {
+      "title": "PlaceNL2026/okx-agent-trade-kit · 89⭐",
+      "url": "https://github.com/PlaceNL2026/okx-agent-trade-kit",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/TehreemArbab/JazzCashMCP": {
+      "title": "TehreemArbab/JazzCashMCP · 64⭐",
+      "url": "https://github.com/TehreemArbab/JazzCashMCP",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/rahilp/second-brain-cloudflare": {
+      "title": "rahilp/second-brain-cloudflare · 63⭐",
+      "url": "https://github.com/rahilp/second-brain-cloudflare",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/1Utkarsh1/mcp-stdio-guard": {
+      "title": "1Utkarsh1/mcp-stdio-guard · 60⭐",
+      "url": "https://github.com/1Utkarsh1/mcp-stdio-guard",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://openclawapi.org/en": {
+      "title": "OpenClaw API",
+      "url": "https://openclawapi.org/en",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://openclawapi.org/en/blog/2026-05-09-genericagent-im-integration": {
+      "title": "GenericAgent 部署与接入：在全平台构建微信/QQ/飞书机器人",
+      "url": "https://openclawapi.org/en/blog/2026-05-09-genericagent-im-integration",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://openclawapi.org/en/blog/2026-05-08-open-design-quickstart": {
+      "title": "Open Design for Beginners: The Right Way to Use the Open-Source Claude Design",
+      "url": "https://openclawapi.org/en/blog/2026-05-08-open-design-quickstart",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://openclawapi.org/en/blog/2026-05-05-ruflo-self-evolving-multiagent-engine": {
+      "title": "Ruflo for Beginners: a Multi-Agent Collaboration Engine That Self-Improves",
+      "url": "https://openclawapi.org/en/blog/2026-05-05-ruflo-self-evolving-multiagent-engine",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://openclawapi.org/en/blog/2026-05-02-mattpocock-skills-tdd": {
+      "title": "mattpocock Skills Getting Started Guide: Teach AI TDD and Structured Debugging",
+      "url": "https://openclawapi.org/en/blog/2026-05-02-mattpocock-skills-tdd",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://openclawapi.org/en/blog/2026-04-26-openmythos-getting-started": {
+      "title": "April 26, 2026 ## Getting Started with OpenMythos: An Open-Source Implementation of the Claude Mythos Recurrent Reasoning Architecture",
+      "url": "https://openclawapi.org/en/blog/2026-04-26-openmythos-getting-started",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://openclawapi.org/en/blog/2026-04-22-fincept-terminal-getting-started": {
+      "title": "April 22, 2026 ## Fincept Terminal Getting Started: An All-in-One Open-Source Quant Trading Platform",
+      "url": "https://openclawapi.org/en/blog/2026-04-22-fincept-terminal-getting-started",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://openclawapi.org/en/blog/2026-04-21-claude-context-ai-codebase-understanding": {
+      "title": "April 21, 2026 ## Claude Context: Getting Started—Help AI Truly Understand Your Entire Codebase",
+      "url": "https://openclawapi.org/en/blog/2026-04-21-claude-context-ai-codebase-understanding",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://openclawapi.org/en/blog/2026-04-12-caveman-ai-token-compress": {
+      "title": "April 12, 2026 ## Caveman for beginners: cut AI fluff, compress 75% of tokens, and get more accurate results",
+      "url": "https://openclawapi.org/en/blog/2026-04-12-caveman-ai-token-compress",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://openclawapi.org/en/blog/2026-04-12-graphify-knowledge-graph": {
+      "title": "April 12, 2026 ## Graphify in Practice: Turn Any Codebase into a Queryable Knowledge Graph",
+      "url": "https://openclawapi.org/en/blog/2026-04-12-graphify-knowledge-graph",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://openclawapi.org/en/blog/2026-04-11-multica-ru-men": {
+      "title": "April 11, 2026 ## Getting Started with Multica: Open-Source Claude Managed Agents, an AI Employee Management System with a Task Board, Autonomous Task Pickup, and Skills You Can Build Up",
+      "url": "https://openclawapi.org/en/blog/2026-04-11-multica-ru-men",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://openclawapi.org/en/blog/2026-04-11-archon-ru-men": {
+      "title": "April 11, 2026 ## Archon for Beginners: Git Worktrees for Isolation + DAG Workflows, Taming Uncertainty in AI Coding",
+      "url": "https://openclawapi.org/en/blog/2026-04-11-archon-ru-men",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://openclawapi.org/en/blog/2026-04-11-openspec-ru-men": {
+      "title": "April 11, 2026 ## OpenSpec for Beginners: Keeping Your AI Collaboration Framework Within Clear Boundaries Using Specification Docs",
+      "url": "https://openclawapi.org/en/blog/2026-04-11-openspec-ru-men",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://openclawapi.org/en/blog/2026-04-10-deeptutor-ru-men": {
+      "title": "April 10, 2026 ## DeepTutor for Beginners: Practical Deployment of an Agent-Native Personalized Learning Assistant",
+      "url": "https://openclawapi.org/en/blog/2026-04-10-deeptutor-ru-men",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://openclawapi.org/en/blog/2026-04-10-karpathy-guidelines-ru-men": {
+      "title": "April 10, 2026 ## Getting Started with karpathy-guidelines: Andrej Karpathy’s Recommended Programming Standards for Large Language Models",
+      "url": "https://openclawapi.org/en/blog/2026-04-10-karpathy-guidelines-ru-men",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://openclawapi.org/en/blog/2026-04-08-mempalace-deployment": {
+      "title": "April 8, 2026 ## MemPalace Deployment & Hands-On: Build an AI Memory System You’ll Never Forget",
+      "url": "https://openclawapi.org/en/blog/2026-04-08-mempalace-deployment",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://openclawapi.org/en/blog/2026-04-04-magiclaw-getting-started": {
+      "title": "April 4, 2026 ## MagiClaw for Beginners: An AI research agent team in Feishu that makes collaboration feel natural",
+      "url": "https://openclawapi.org/en/blog/2026-04-04-magiclaw-getting-started",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://openclawapi.org/en/blog/2026-04-04-thebotcompany-getting-started": {
+      "title": "April 4, 2026 ## TheBotCompany Quick Start: A New AI Team Paradigm with Zero Manual Intervention",
+      "url": "https://openclawapi.org/en/blog/2026-04-04-thebotcompany-getting-started",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://openclawapi.org/en/blog/2026-04-04-oh-my-paper-complete-guide": {
+      "title": "April 4, 2026 ## Oh My Paper Complete Guide: From Literature Research to Paper Publication—All Managed in One Terminal",
+      "url": "https://openclawapi.org/en/blog/2026-04-04-oh-my-paper-complete-guide",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://openclawapi.org/en/blog/2026-04-01-hermes-agent-full-platform-deploy": {
+      "title": "April 1, 2026 ## Hermes Agent in Practice: Set Up an AI Assistant Across Telegram / Lark / WeCom on All Platforms",
+      "url": "https://openclawapi.org/en/blog/2026-04-01-hermes-agent-full-platform-deploy",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://openclawapi.org/en/blog/2026-04-01-claude-code-money-saving-tips": {
+      "title": "April 1, 2026 ## Hidden money-saving tactics in Claude Code’s source code—cut your API bill in half",
+      "url": "https://openclawapi.org/en/blog/2026-04-01-claude-code-money-saving-tips",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://dev.to/htekdev/your-phone-as-an-ai-tool-the-mcp-pattern-that-changes-everything-3dga": {
+      "title": "Your Phone as an AI Tool: The MCP Pattern That Changes Everything",
+      "url": "https://dev.to/htekdev/your-phone-as-an-ai-tool-the-mcp-pattern-that-changes-everything-3dga",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/github/spec-kit": {
+      "title": "github/spec-kit · 100962⭐",
+      "url": "https://github.com/github/spec-kit",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/Fission-AI/OpenSpec": {
+      "title": "Fission-AI/OpenSpec · 48497⭐",
+      "url": "https://github.com/Fission-AI/OpenSpec",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/gsd-build/gsd-2": {
+      "title": "gsd-build/gsd-2 · 7550⭐",
+      "url": "https://github.com/gsd-build/gsd-2",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/potpie-ai/potpie": {
+      "title": "potpie-ai/potpie · 5381⭐",
+      "url": "https://github.com/potpie-ai/potpie",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/buildermethods/agent-os": {
+      "title": "buildermethods/agent-os · 4551⭐",
+      "url": "https://github.com/buildermethods/agent-os",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/Pimzino/spec-workflow-mcp": {
+      "title": "Pimzino/spec-workflow-mcp · 4180⭐",
+      "url": "https://github.com/Pimzino/spec-workflow-mcp",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/sdi2200262/agentic-project-management": {
+      "title": "sdi2200262/agentic-project-management · 2259⭐",
+      "url": "https://github.com/sdi2200262/agentic-project-management",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/maxritter/pilot-shell": {
+      "title": "maxritter/pilot-shell · 1721⭐",
+      "url": "https://github.com/maxritter/pilot-shell",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/Priivacy-ai/spec-kitty": {
+      "title": "Priivacy-ai/spec-kitty · 1233⭐",
+      "url": "https://github.com/Priivacy-ai/spec-kitty",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/hawk86104/three-vue-tres": {
+      "title": "hawk86104/three-vue-tres · 2246⭐",
+      "url": "https://github.com/hawk86104/three-vue-tres",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/modu-ai/moai-adk": {
+      "title": "modu-ai/moai-adk · 1012⭐",
+      "url": "https://github.com/modu-ai/moai-adk",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/ThibautBaissac/rails_ai_agents": {
+      "title": "ThibautBaissac/rails_ai_agents · 554⭐",
+      "url": "https://github.com/ThibautBaissac/rails_ai_agents",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/ForceInjection/OpenSpec-practise": {
+      "title": "ForceInjection/OpenSpec-practise · 320⭐",
+      "url": "https://github.com/ForceInjection/OpenSpec-practise",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/loulanyue/spec-kit-zh": {
+      "title": "loulanyue/spec-kit-zh · 273⭐",
+      "url": "https://github.com/loulanyue/spec-kit-zh",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/LessUp/awesome-cursorrules-zh": {
+      "title": "LessUp/awesome-cursorrules-zh · 182⭐",
+      "url": "https://github.com/LessUp/awesome-cursorrules-zh",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://github.com/rihebty/flow-kit": {
+      "title": "rihebty/flow-kit · 167⭐",
+      "url": "https://github.com/rihebty/flow-kit",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    },
+    "https://news.ycombinator.com/item?id=48164173": {
+      "title": "Ask HN: When did computers stop being fun?",
+      "url": "https://news.ycombinator.com/item?id=48164173",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "count": 1
+    }
+  }
+}
