@@ -716,50 +716,50 @@ def build_card(results: dict, topic_labels: dict,
 
 
 def git_push_report():
-    branch = f"report/{TODAY}"
-    cmds = [
+    """
+    Commit the report files to the current dev branch, then force-push the HEAD
+    to report/YYYY-MM-DD so GitHub Actions triggers the Feishu notification.
+    This avoids branch-checkout conflicts and keeps seen.json on the dev branch
+    so it persists across daily runs.
+    """
+    report_branch = f"report/{TODAY}"
+    for cmd in [
         ["git", "config", "user.email", "routine-bot@ai-news"],
         ["git", "config", "user.name",  "AI News Routine"],
-    ]
-    for cmd in cmds:
+    ]:
         subprocess.run(cmd, check=True, cwd=REPO_DIR)
 
-    # Create branch (force if already exists for re-runs on same day)
-    result = subprocess.run(
-        ["git", "checkout", "-b", branch],
-        cwd=REPO_DIR, capture_output=True, text=True
-    )
-    if result.returncode != 0:
-        # Branch exists — just check it out
-        subprocess.run(
-            ["git", "checkout", branch], check=True, cwd=REPO_DIR
-        )
-
-    subprocess.run(
-        ["git", "add", REPORT_JSON, SEEN_JSON], check=True, cwd=REPO_DIR
-    )
+    subprocess.run(["git", "add", REPORT_JSON, SEEN_JSON], check=True, cwd=REPO_DIR)
     subprocess.run(
         ["git", "commit", "--allow-empty", "-m", f"chore: daily report {TODAY}"],
-        check=True, cwd=REPO_DIR
+        check=True, cwd=REPO_DIR,
     )
 
-    for attempt, wait in enumerate([0, 2, 4, 8, 16], start=1):
-        if wait:
-            import time; time.sleep(wait)
-        # Force-push report branches: daily reruns should overwrite same-day output
-        push = subprocess.run(
-            ["git", "push", "-u", "--force", "origin", branch],
-            cwd=REPO_DIR, capture_output=True, text=True
-        )
-        if push.returncode == 0:
-            print(f"✓ Pushed to origin/{branch}")
-            return
-        print(f"Push attempt {attempt} failed: {push.stderr.strip()}", file=sys.stderr)
-
-    print("All push attempts failed — report content:", file=sys.stderr)
-    with open(REPORT_JSON) as f:
-        print(f.read(), file=sys.stderr)
-    sys.exit(1)
+    # Push current HEAD to both: the report branch (triggers GitHub Actions)
+    # and the dev branch (keeps seen.json for next run).
+    targets = [
+        f"HEAD:refs/heads/{report_branch}",   # report branch → triggers notify-feishu.yml
+        "HEAD",                                # dev branch → persists seen.json
+    ]
+    for target in targets:
+        for attempt, wait in enumerate([0, 2, 4, 8, 16], start=1):
+            if wait:
+                import time; time.sleep(wait)
+            push = subprocess.run(
+                ["git", "push", "--force", "-u", "origin", target],
+                cwd=REPO_DIR, capture_output=True, text=True,
+            )
+            if push.returncode == 0:
+                label = report_branch if "report" in target else "dev branch"
+                print(f"✓ Pushed to origin/{label}")
+                break
+            print(f"  attempt {attempt} failed ({target}): {push.stderr.strip()[:120]}",
+                  file=sys.stderr)
+        else:
+            print(f"All push attempts failed for {target} — report content:", file=sys.stderr)
+            with open(REPORT_JSON) as f:
+                print(f.read(), file=sys.stderr)
+            sys.exit(1)
 
 
 # ═══════════════════════════════════════════════════════════════════
