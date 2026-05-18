@@ -13,7 +13,7 @@
         "tag": "div",
         "text": {
           "tag": "lark_md",
-          "content": "**🔧 Claude 生态**\n· [Skip to main content](https://www.anthropic.com/news#main-content)\n  _Anthropic 官方公告，可能涉及模型能力、API 变更或产品策略，影响 Claude Code 工具链规划_\n· [Skip to footer](https://www.anthropic.com/news#footer)\n  _Anthropic 官方公告，可能涉及模型能力、API 变更或产品策略，影响 Claude Code 工具链规划_\n· [Economic Futures](https://www.anthropic.com/economic-futures)\n  _与 AI 工程化工具链相关，值得关注_\n· [Image 1: Introducing Claude…](https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F96ea2509a90e527642c822303e56296a07bcfce4-1920x1080.png&w=3840&q=75)\n  _与 AI 工程化工具链相关，值得关注_\n· [Introducing Claude Opus 4.7…](https://www.anthropic.com/news/claude-opus-4-7)\n  _Anthropic 官方公告，可能涉及模型能力、API 变更或产品策略，影响 Claude Code 工具链规划_"
+          "content": "**🔧 Claude 生态**\n· [Introducing Claude Opus 4.7…](https://www.anthropic.com/news/claude-opus-4-7)\n  _Anthropic 官方公告，可能涉及模型能力、API 变更或产品策略，影响 Claude Code 工具链规划_\n· [Product Apr 17, 2026 ####…](https://www.anthropic.com/news/claude-design-anthropic-labs)\n  _Anthropic 官方公告，可能涉及模型能力、API 变更或产品策略，影响 Claude Code 工具链规划_\n· [Announcements Feb 4, 2026…](https://www.anthropic.com/news/claude-is-a-space-to-think)\n  _Anthropic 官方公告，可能涉及模型能力、API 变更或产品策略，影响 Claude Code 工具链规划_\n· [May 14, 2026 Announcements…](https://www.anthropic.com/news/pwc-expanded-partnership)\n  _Anthropic 官方公告，可能涉及模型能力、API 变更或产品策略，影响 Claude Code 工具链规划_\n· [May 14, 2026 Announcements…](https://www.anthropic.com/news/gates-foundation-partnership)\n  _Anthropic 官方公告，可能涉及模型能力、API 变更或产品策略，影响 Claude Code 工具链规划_"
         }
       },
       {
@@ -23,7 +23,17 @@
         "tag": "div",
         "text": {
           "tag": "lark_md",
-          "content": "**🛠️ AI 工具发现**\n· [Show HN: Semble – Code search…](https://github.com/MinishLab/semble)\n  _HN 社区热议 151pts，工程师圈验证度高，可作为面试聊 AI 工程化趋势的佐证_"
+          "content": "**🛠️ AI 工具发现**\n· [github/spec-kit · 💫 Toolkit…](https://github.com/github/spec-kit)\n  _Spec 驱动开发实践，是 AI 编程向可验证、可审查方向演进的核心方法论，面试中高频考点_\n· [gsd-build/get-shit-done · A…](https://github.com/gsd-build/get-shit-done)\n  _快速增长 GitHub 项目（⭐62742），在 AI 工具链方向有参考价值_\n· [Fission-AI/OpenSpec ·…](https://github.com/Fission-AI/OpenSpec)\n  _Spec 驱动开发实践，是 AI 编程向可验证、可审查方向演进的核心方法论，面试中高频考点_\n· [microsoft/playwright-mcp ·…](https://github.com/microsoft/playwright-mcp)\n  _MCP 协议相关工具，直接影响 Claude Code 工具扩展与 agent 工作流设计_\n· [github/github-mcp-server ·…](https://github.com/github/github-mcp-server)\n  _MCP 协议相关工具，直接影响 Claude Code 工具扩展与 agent 工作流设计_"
+        }
+      },
+      {
+        "tag": "hr"
+      },
+      {
+        "tag": "div",
+        "text": {
+          "tag": "lark_md",
+          "content": "**🏢 国内 AI 动态**\n· [对话销售易总裁邓永富：借力腾讯，能否在SaaS大洗牌中「攒足…](https://www.leiphone.com/category/CorporateServices/VtqqTCKnnWrini0F.html \"对话销售易总裁邓永富：借力腾讯，能否在SaaS大洗牌中「攒足」筹码？ | SaaS+Agent十人谈\")\n  _国内 AI 生态动态，跟踪大厂产品演进与 Claude 的竞争差异_\n· [百度 Create 2026](https://www.leiphone.com/tag/%E7%99%BE%E5%BA%A6+Create+2026 \"百度 Create 2026\")\n  _国内 AI 产品动态：百度 相关，与国内云厂商 AI coding 工具竞争格局直接相关_\n· [BMJ独家牵手氢离子，阿里健康开启国际顶刊合作起点](https://www.leiphone.com/category/healthai/62noVKCB2zxjcx5D.html \"BMJ独家牵手氢离子，阿里健康开启国际顶刊合作起点\")\n  _国内 AI 生态动态，跟踪大厂产品演进与 Claude 的竞争差异_\n· [马斯克、库克随特朗普访华，黄仁勋虽迟但到；SK海力士中国员工…](https://www.leiphone.com/category/zaobao/rod6WpUrAa8maOpv.html \"马斯克、库克随特朗普访华，黄仁勋虽迟但到；SK海力士中国员工无法做管理层，奖金不到韩国人的5%；390万元起！宇树发布载人变形机甲\")\n  _国内 AI 生态动态，跟踪大厂产品演进与 Claude 的竞争差异_\n· [隐私又少一点？「微信状态可看访客记录」冲上热搜…](https://www.leiphone.com/category/zaobao/a6K3KTE1WDwptUvv.html \"隐私又少一点？「微信状态可看访客记录」冲上热搜，腾讯客服回应；快手计划分拆可灵AI，估值超1300亿、明年IPO上市；贾跃亭出任FF全球CEO\")\n  _国内 AI 生态动态，跟踪大厂产品演进与 Claude 的竞争差异_"
         }
       },
       {

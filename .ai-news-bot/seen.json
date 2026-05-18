@@ -1,5 +1,40 @@
 {
   "urls": {
+    "https://www.anthropic.com/news/claude-opus-4-7": {
+      "title": "Introducing Claude Opus 4.7 Product Apr 16, 2026 Our latest Opus model brings st",
+      "url": "https://www.anthropic.com/news/claude-opus-4-7",
+      "first_seen": "2026-05-18",
+      "last_seen": "2026-05-18",
+      "count": 1
+    },
+    "https://www.anthropic.com/news/claude-design-anthropic-labs": {
+      "title": "Product Apr 17, 2026 #### Introducing Claude Design by Anthropic Labs Today, we’",
+      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "first_seen": "2026-05-18",
+      "last_seen": "2026-05-18",
+      "count": 1
+    },
+    "https://www.anthropic.com/news/claude-is-a-space-to-think": {
+      "title": "Announcements Feb 4, 2026 #### Claude is a space to think We’ve made a choice: C",
+      "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+      "first_seen": "2026-05-18",
+      "last_seen": "2026-05-18",
+      "count": 1
+    },
+    "https://www.anthropic.com/news/pwc-expanded-partnership": {
+      "title": "May 14, 2026 Announcements PwC is deploying Claude to build technology, execute ",
+      "url": "https://www.anthropic.com/news/pwc-expanded-partnership",
+      "first_seen": "2026-05-18",
+      "last_seen": "2026-05-18",
+      "count": 1
+    },
+    "https://www.anthropic.com/news/gates-foundation-partnership": {
+      "title": "May 14, 2026 Announcements Anthropic forms $200 million partnership with the Gat",
+      "url": "https://www.anthropic.com/news/gates-foundation-partnership",
+      "first_seen": "2026-05-18",
+      "last_seen": "2026-05-18",
+      "count": 1
+    },
     "https://github.com/HKUDS/CLI-Anything": {
       "title": "HKUDS/CLI-Anything · \"CLI-Anything: Making ALL Software Agent-Native\" -",
       "url": "https://github.com/HKUDS/CLI-Anything",
@@ -145,35 +180,35 @@
       "url": "https://github.com/microsoft/playwright-mcp",
       "first_seen": "2026-05-18",
       "last_seen": "2026-05-18",
-      "count": 2
+      "count": 1
     },
     "https://github.com/github/github-mcp-server": {
       "title": "github/github-mcp-server · GitHub's official MCP Server",
       "url": "https://github.com/github/github-mcp-server",
       "first_seen": "2026-05-18",
       "last_seen": "2026-05-18",
-      "count": 2
+      "count": 1
     },
     "https://github.com/PrefectHQ/fastmcp": {
       "title": "PrefectHQ/fastmcp · 🚀 The fast, Pythonic way to build MCP servers and ",
       "url": "https://github.com/PrefectHQ/fastmcp",
       "first_seen": "2026-05-18",
       "last_seen": "2026-05-18",
-      "count": 2
+      "count": 1
     },
     "https://github.com/activepieces/activepieces": {
       "title": "activepieces/activepieces · AI Agents & MCPs & AI Workflow Automation • (~400 ",
       "url": "https://github.com/activepieces/activepieces",
       "first_seen": "2026-05-18",
       "last_seen": "2026-05-18",
-      "count": 2
+      "count": 1
     },
     "https://github.com/googleapis/mcp-toolbox": {
       "title": "googleapis/mcp-toolbox · MCP Toolbox for Databases is an open source MCP se",
       "url": "https://github.com/googleapis/mcp-toolbox",
       "first_seen": "2026-05-18",
       "last_seen": "2026-05-18",
-      "count": 2
+      "count": 1
     },
     "https://github.com/casdoor/casdoor": {
       "title": "casdoor/casdoor · An open-source Agent-first Identity and Access Man",
@@ -187,21 +222,21 @@
       "url": "https://github.com/mcp-use/mcp-use",
       "first_seen": "2026-05-18",
       "last_seen": "2026-05-18",
-      "count": 2
+      "count": 1
     },
     "https://github.com/modelcontextprotocol/inspector": {
       "title": "modelcontextprotocol/inspector · Visual testing tool for MCP servers",
       "url": "https://github.com/modelcontextprotocol/inspector",
       "first_seen": "2026-05-18",
       "last_seen": "2026-05-18",
-      "count": 3
+      "count": 1
     },
     "https://github.com/awslabs/mcp": {
       "title": "awslabs/mcp · Open source MCP Servers for AWS",
       "url": "https://github.com/awslabs/mcp",
       "first_seen": "2026-05-18",
       "last_seen": "2026-05-18",
-      "count": 2
+      "count": 1
     },
     "https://github.com/kreuzberg-dev/kreuzberg": {
       "title": "kreuzberg-dev/kreuzberg · A polyglot document intelligence framework with a ",
@@ -229,7 +264,7 @@
       "url": "https://github.com/Callous-0923/agent-study",
       "first_seen": "2026-05-18",
       "last_seen": "2026-05-18",
-      "count": 2
+      "count": 1
     },
     "https://github.com/keerthanapranesh/Claude-Code-Swarm-Toolkit": {
       "title": "keerthanapranesh/Claude-Code-Swarm-Toolkit · 🚀 ZeroClaw Master 2026 — Ultimate C",
@@ -243,21 +278,21 @@
       "url": "https://github.com/PlaceNL2026/okx-agent-trade-kit",
       "first_seen": "2026-05-18",
       "last_seen": "2026-05-18",
-      "count": 2
+      "count": 1
     },
     "https://github.com/dex-original/okx-agent-trade-kit": {
       "title": "dex-original/okx-agent-trade-kit · okx trading bot okx agent mcp cli cryptocurre",
       "url": "https://github.com/dex-original/okx-agent-trade-kit",
       "first_seen": "2026-05-18",
       "last_seen": "2026-05-18",
-      "count": 2
+      "count": 1
     },
     "https://github.com/CodeAbra/iai-mcp": {
       "title": "CodeAbra/iai-mcp · The best-benchmarked open-source memory system for",
       "url": "https://github.com/CodeAbra/iai-mcp",
       "first_seen": "2026-05-18",
       "last_seen": "2026-05-18",
-      "count": 2
+      "count": 1
     },
     "https://github.com/rahilp/second-brain-cloudflare": {
       "title": "rahilp/second-brain-cloudflare · One memory layer, every AI tool. Store anything",
@@ -271,21 +306,21 @@
       "url": "https://github.com/TehreemArbab/JazzCashMCP",
       "first_seen": "2026-05-18",
       "last_seen": "2026-05-18",
-      "count": 2
+      "count": 1
     },
     "https://github.com/1Utkarsh1/mcp-stdio-guard": {
       "title": "1Utkarsh1/mcp-stdio-guard · Catch stdout pollution and handshake failures in M",
       "url": "https://github.com/1Utkarsh1/mcp-stdio-guard",
       "first_seen": "2026-05-18",
       "last_seen": "2026-05-18",
-      "count": 2
+      "count": 1
     },
     "https://github.com/github/spec-kit": {
       "title": "github/spec-kit · 💫 Toolkit to help you get started with Spec-Driven",
       "url": "https://github.com/github/spec-kit",
       "first_seen": "2026-05-18",
       "last_seen": "2026-05-18",
-      "count": 2
+      "count": 1
     },
     "https://github.com/gsd-build/get-shit-done": {
       "title": "gsd-build/get-shit-done · A light-weight and powerful meta-prompting, contex",
@@ -299,7 +334,7 @@
       "url": "https://github.com/Fission-AI/OpenSpec",
       "first_seen": "2026-05-18",
       "last_seen": "2026-05-18",
-      "count": 2
+      "count": 1
     },
     "https://github.com/gsd-build/gsd-2": {
       "title": "gsd-build/gsd-2 · A powerful meta-prompting, context engineering and",
@@ -313,7 +348,7 @@
       "url": "https://github.com/potpie-ai/potpie",
       "first_seen": "2026-05-18",
       "last_seen": "2026-05-18",
-      "count": 2
+      "count": 1
     },
     "https://github.com/buildermethods/agent-os": {
       "title": "buildermethods/agent-os · Agent OS is a system for injecting your codebase s",
@@ -327,42 +362,42 @@
       "url": "https://github.com/Pimzino/spec-workflow-mcp",
       "first_seen": "2026-05-18",
       "last_seen": "2026-05-18",
-      "count": 3
+      "count": 1
     },
     "https://github.com/maxritter/pilot-shell": {
       "title": "maxritter/pilot-shell · How real engineers run Claude Code: spec-driven pl",
       "url": "https://github.com/maxritter/pilot-shell",
       "first_seen": "2026-05-18",
       "last_seen": "2026-05-18",
-      "count": 2
+      "count": 1
     },
     "https://github.com/Priivacy-ai/spec-kitty": {
       "title": "Priivacy-ai/spec-kitty · Spec-Driven Development for serious software devel",
       "url": "https://github.com/Priivacy-ai/spec-kitty",
       "first_seen": "2026-05-18",
       "last_seen": "2026-05-18",
-      "count": 2
+      "count": 1
     },
     "https://github.com/modu-ai/moai-adk": {
       "title": "modu-ai/moai-adk · SPEC-First Agentic Development Kit for Claude Code",
       "url": "https://github.com/modu-ai/moai-adk",
       "first_seen": "2026-05-18",
       "last_seen": "2026-05-18",
-      "count": 2
+      "count": 1
     },
     "https://github.com/ThibautBaissac/rails_ai_agents": {
       "title": "ThibautBaissac/rails_ai_agents · Specialized AI skills, agents, rules and hooks ",
       "url": "https://github.com/ThibautBaissac/rails_ai_agents",
       "first_seen": "2026-05-18",
       "last_seen": "2026-05-18",
-      "count": 2
+      "count": 1
     },
     "https://github.com/ForceInjection/OpenSpec-practise": {
       "title": "ForceInjection/OpenSpec-practise · OpenSpec Practical Guide",
       "url": "https://github.com/ForceInjection/OpenSpec-practise",
       "first_seen": "2026-05-18",
       "last_seen": "2026-05-18",
-      "count": 2
+      "count": 1
     },
     "https://github.com/LessUp/awesome-cursorrules-zh": {
       "title": "LessUp/awesome-cursorrules-zh · cursorrules 规则精选集合 | 132+ 规则 · 32 领域",
@@ -376,7 +411,14 @@
       "url": "https://github.com/rihebty/flow-kit",
       "first_seen": "2026-05-18",
       "last_seen": "2026-05-18",
-      "count": 2
+      "count": 1
+    },
+    "https://github.com/MinishLab/semble": {
+      "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+      "url": "https://github.com/MinishLab/semble",
+      "first_seen": "2026-05-18",
+      "last_seen": "2026-05-18",
+      "count": 1
     },
     "https://www.leiphone.com/category/CorporateServices/VtqqTCKnnWrini0F.html \"对话销售易总裁邓永富：借力腾讯，能否在SaaS大洗牌中「攒足」筹码？ | SaaS+Agent十人谈\"": {
       "title": "对话销售易总裁邓永富：借力腾讯，能否在SaaS大洗牌中「攒足」筹码？ | SaaS+Agent十人谈",
@@ -416,48 +458,6 @@
     "https://www.leiphone.com/category/industrynews/9bcdHqAkFcRwKyZp.html \"在国内做了20年女装后，这个团队靠「轻出海」把增长拓向东南亚\"": {
       "title": "在国内做了20年女装后，这个团队靠「轻出海」把增长拓向东南亚",
       "url": "https://www.leiphone.com/category/industrynews/9bcdHqAkFcRwKyZp.html \"在国内做了20年女装后，这个团队靠「轻出海」把增长拓向东南亚\"",
-      "first_seen": "2026-05-18",
-      "last_seen": "2026-05-18",
-      "count": 1
-    },
-    "https://www.anthropic.com/news#main-content": {
-      "title": "Skip to main content",
-      "url": "https://www.anthropic.com/news#main-content",
-      "first_seen": "2026-05-18",
-      "last_seen": "2026-05-18",
-      "count": 1
-    },
-    "https://www.anthropic.com/news#footer": {
-      "title": "Skip to footer",
-      "url": "https://www.anthropic.com/news#footer",
-      "first_seen": "2026-05-18",
-      "last_seen": "2026-05-18",
-      "count": 1
-    },
-    "https://www.anthropic.com/economic-futures": {
-      "title": "Economic Futures",
-      "url": "https://www.anthropic.com/economic-futures",
-      "first_seen": "2026-05-18",
-      "last_seen": "2026-05-18",
-      "count": 1
-    },
-    "https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F96ea2509a90e527642c822303e56296a07bcfce4-1920x1080.png&w=3840&q=75": {
-      "title": "Image 1: Introducing Claude Opus 4.7",
-      "url": "https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F96ea2509a90e527642c822303e56296a07bcfce4-1920x1080.png&w=3840&q=75",
-      "first_seen": "2026-05-18",
-      "last_seen": "2026-05-18",
-      "count": 1
-    },
-    "https://www.anthropic.com/news/claude-opus-4-7": {
-      "title": "Introducing Claude Opus 4.7 Product Apr 16, 2026 Our latest Opus model brings st",
-      "url": "https://www.anthropic.com/news/claude-opus-4-7",
-      "first_seen": "2026-05-18",
-      "last_seen": "2026-05-18",
-      "count": 1
-    },
-    "https://github.com/MinishLab/semble": {
-      "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
-      "url": "https://github.com/MinishLab/semble",
       "first_seen": "2026-05-18",
       "last_seen": "2026-05-18",
       "count": 1
