@@ -419,6 +419,62 @@
       "first_seen": "2026-05-18",
       "last_seen": "2026-05-18",
       "count": 1
+    },
+    "https://www.anthropic.com/news#main-content": {
+      "title": "Skip to main content",
+      "url": "https://www.anthropic.com/news#main-content",
+      "first_seen": "2026-05-18",
+      "last_seen": "2026-05-18",
+      "count": 1
+    },
+    "https://www.anthropic.com/news#footer": {
+      "title": "Skip to footer",
+      "url": "https://www.anthropic.com/news#footer",
+      "first_seen": "2026-05-18",
+      "last_seen": "2026-05-18",
+      "count": 1
+    },
+    "https://www.anthropic.com/economic-futures": {
+      "title": "Economic Futures",
+      "url": "https://www.anthropic.com/economic-futures",
+      "first_seen": "2026-05-18",
+      "last_seen": "2026-05-18",
+      "count": 1
+    },
+    "https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F96ea2509a90e527642c822303e56296a07bcfce4-1920x1080.png&w=3840&q=75": {
+      "title": "Image 1: Introducing Claude Opus 4.7",
+      "url": "https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F96ea2509a90e527642c822303e56296a07bcfce4-1920x1080.png&w=3840&q=75",
+      "first_seen": "2026-05-18",
+      "last_seen": "2026-05-18",
+      "count": 1
+    },
+    "https://www.anthropic.com/news/claude-opus-4-7": {
+      "title": "Introducing Claude Opus 4.7 Product Apr 16, 2026 Our latest Opus model brings st",
+      "url": "https://www.anthropic.com/news/claude-opus-4-7",
+      "first_seen": "2026-05-18",
+      "last_seen": "2026-05-18",
+      "count": 1
+    },
+    "https://github.com/MinishLab/semble": {
+      "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+      "url": "https://github.com/MinishLab/semble",
+      "first_seen": "2026-05-18",
+      "last_seen": "2026-05-18",
+      "count": 1
+    },
+    "https://github.com/nkzw-tech/codiff/releases": {
+      "title": "Show HN: Codiff, a local diff review tool",
+      "url": "https://github.com/nkzw-tech/codiff/releases",
+      "first_seen": "2026-05-18",
+      "last_seen": "2026-05-18",
+      "count": 1
+    },
+    "https://addyosmani.com/blog/dont-outsource-learning/": {
+      "title": "Don’t Outsource the Learning",
+      "url": "https://addyosmani.com/blog/dont-outsource-learning/",
+      "first_seen": "2026-05-18",
+      "last_seen": "2026-05-18",
+      "count": 1
     }
   }
 }
