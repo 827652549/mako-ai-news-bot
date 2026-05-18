@@ -1,36 +1,8 @@
 {
   "urls": {
-    "https://www.anthropic.com/news/claude-opus-4-7": {
-      "title": "Introducing Claude Opus 4.7 Product Apr 16, 2026 Our latest Opus model brings st",
-      "url": "https://www.anthropic.com/news/claude-opus-4-7",
-      "first_seen": "2026-05-18",
-      "last_seen": "2026-05-18",
-      "count": 1
-    },
-    "https://www.anthropic.com/news/claude-design-anthropic-labs": {
-      "title": "Product Apr 17, 2026 #### Introducing Claude Design by Anthropic Labs Today, we’",
-      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-      "first_seen": "2026-05-18",
-      "last_seen": "2026-05-18",
-      "count": 1
-    },
-    "https://www.anthropic.com/news/claude-is-a-space-to-think": {
-      "title": "Announcements Feb 4, 2026 #### Claude is a space to think We’ve made a choice: C",
-      "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
-      "first_seen": "2026-05-18",
-      "last_seen": "2026-05-18",
-      "count": 1
-    },
-    "https://www.anthropic.com/news/pwc-expanded-partnership": {
-      "title": "May 14, 2026 Announcements PwC is deploying Claude to build technology, execute ",
-      "url": "https://www.anthropic.com/news/pwc-expanded-partnership",
-      "first_seen": "2026-05-18",
-      "last_seen": "2026-05-18",
-      "count": 1
-    },
-    "https://www.anthropic.com/news/gates-foundation-partnership": {
-      "title": "May 14, 2026 Announcements Anthropic forms $200 million partnership with the Gat",
-      "url": "https://www.anthropic.com/news/gates-foundation-partnership",
+    "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy": {
+      "title": "Responsible Scaling Policy",
+      "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
       "first_seen": "2026-05-18",
       "last_seen": "2026-05-18",
       "count": 1
@@ -175,6 +147,90 @@
       "last_seen": "2026-05-18",
       "count": 1
     },
+    "https://github.com/BerriAI/litellm-agent-platform": {
+      "title": "BerriAI/litellm-agent-platform · Self-hosted platform for running coding agents ",
+      "url": "https://github.com/BerriAI/litellm-agent-platform",
+      "first_seen": "2026-05-18",
+      "last_seen": "2026-05-18",
+      "count": 1
+    },
+    "https://github.com/stormzhang/token-tracker": {
+      "title": "stormzhang/token-tracker · Track token usage across local AI agents (Claude C",
+      "url": "https://github.com/stormzhang/token-tracker",
+      "first_seen": "2026-05-18",
+      "last_seen": "2026-05-18",
+      "count": 1
+    },
+    "https://github.com/Callous-0923/agent-study": {
+      "title": "Callous-0923/agent-study · 36章AI Agent全栈课程：从ReAct循环到Claude Code逆向、MCP/A2A协议、R",
+      "url": "https://github.com/Callous-0923/agent-study",
+      "first_seen": "2026-05-18",
+      "last_seen": "2026-05-18",
+      "count": 1
+    },
+    "https://github.com/keerthanapranesh/Claude-Code-Swarm-Toolkit": {
+      "title": "keerthanapranesh/Claude-Code-Swarm-Toolkit · 🚀 ZeroClaw Master 2026 — Ultimate C",
+      "url": "https://github.com/keerthanapranesh/Claude-Code-Swarm-Toolkit",
+      "first_seen": "2026-05-18",
+      "last_seen": "2026-05-18",
+      "count": 1
+    },
+    "https://github.com/PlaceNL2026/okx-agent-trade-kit": {
+      "title": "PlaceNL2026/okx-agent-trade-kit · OKX trading MCP CLI cryptocurrency spot future",
+      "url": "https://github.com/PlaceNL2026/okx-agent-trade-kit",
+      "first_seen": "2026-05-18",
+      "last_seen": "2026-05-18",
+      "count": 1
+    },
+    "https://github.com/MinishLab/semble": {
+      "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+      "url": "https://github.com/MinishLab/semble",
+      "first_seen": "2026-05-18",
+      "last_seen": "2026-05-18",
+      "count": 1
+    },
+    "https://www.leiphone.com/category/CorporateServices/VtqqTCKnnWrini0F.html \"对话销售易总裁邓永富：借力腾讯，能否在SaaS大洗牌中「攒足」筹码？ | SaaS+Agent十人谈\"": {
+      "title": "对话销售易总裁邓永富：借力腾讯，能否在SaaS大洗牌中「攒足」筹码？ | SaaS+Agent十人谈",
+      "url": "https://www.leiphone.com/category/CorporateServices/VtqqTCKnnWrini0F.html \"对话销售易总裁邓永富：借力腾讯，能否在SaaS大洗牌中「攒足」筹码？ | SaaS+Agent十人谈\"",
+      "first_seen": "2026-05-18",
+      "last_seen": "2026-05-18",
+      "count": 1
+    },
+    "https://www.leiphone.com/tag/%E7%99%BE%E5%BA%A6+Create+2026 \"百度 Create 2026\"": {
+      "title": "百度 Create 2026",
+      "url": "https://www.leiphone.com/tag/%E7%99%BE%E5%BA%A6+Create+2026 \"百度 Create 2026\"",
+      "first_seen": "2026-05-18",
+      "last_seen": "2026-05-18",
+      "count": 1
+    },
+    "https://www.leiphone.com/category/healthai/62noVKCB2zxjcx5D.html \"BMJ独家牵手氢离子，阿里健康开启国际顶刊合作起点\"": {
+      "title": "BMJ独家牵手氢离子，阿里健康开启国际顶刊合作起点",
+      "url": "https://www.leiphone.com/category/healthai/62noVKCB2zxjcx5D.html \"BMJ独家牵手氢离子，阿里健康开启国际顶刊合作起点\"",
+      "first_seen": "2026-05-18",
+      "last_seen": "2026-05-18",
+      "count": 1
+    },
+    "https://www.leiphone.com/category/zaobao/rod6WpUrAa8maOpv.html \"马斯克、库克随特朗普访华，黄仁勋虽迟但到；SK海力士中国员工无法做管理层，奖金不到韩国人的5%；390万元起！宇树发布载人变形机甲\"": {
+      "title": "马斯克、库克随特朗普访华，黄仁勋虽迟但到；SK海力士中国员工无法做管理层，奖金不到韩国人的5%；390万元起！宇树发布载人变形机甲",
+      "url": "https://www.leiphone.com/category/zaobao/rod6WpUrAa8maOpv.html \"马斯克、库克随特朗普访华，黄仁勋虽迟但到；SK海力士中国员工无法做管理层，奖金不到韩国人的5%；390万元起！宇树发布载人变形机甲\"",
+      "first_seen": "2026-05-18",
+      "last_seen": "2026-05-18",
+      "count": 1
+    },
+    "https://www.leiphone.com/category/zaobao/a6K3KTE1WDwptUvv.html \"隐私又少一点？「微信状态可看访客记录」冲上热搜，腾讯客服回应；快手计划分拆可灵AI，估值超1300亿、明年IPO上市；贾跃亭出任FF全球CEO\"": {
+      "title": "隐私又少一点？「微信状态可看访客记录」冲上热搜，腾讯客服回应；快手计划分拆可灵AI，估值超1300亿、明年IPO上市；贾跃亭出任FF全球CEO",
+      "url": "https://www.leiphone.com/category/zaobao/a6K3KTE1WDwptUvv.html \"隐私又少一点？「微信状态可看访客记录」冲上热搜，腾讯客服回应；快手计划分拆可灵AI，估值超1300亿、明年IPO上市；贾跃亭出任FF全球CEO\"",
+      "first_seen": "2026-05-18",
+      "last_seen": "2026-05-18",
+      "count": 1
+    },
+    "https://www.leiphone.com/category/industrynews/9bcdHqAkFcRwKyZp.html \"在国内做了20年女装后，这个团队靠「轻出海」把增长拓向东南亚\"": {
+      "title": "在国内做了20年女装后，这个团队靠「轻出海」把增长拓向东南亚",
+      "url": "https://www.leiphone.com/category/industrynews/9bcdHqAkFcRwKyZp.html \"在国内做了20年女装后，这个团队靠「轻出海」把增长拓向东南亚\"",
+      "first_seen": "2026-05-18",
+      "last_seen": "2026-05-18",
+      "count": 1
+    },
     "https://github.com/microsoft/playwright-mcp": {
       "title": "microsoft/playwright-mcp · Playwright MCP server",
       "url": "https://github.com/microsoft/playwright-mcp",
@@ -241,41 +297,6 @@
     "https://github.com/kreuzberg-dev/kreuzberg": {
       "title": "kreuzberg-dev/kreuzberg · A polyglot document intelligence framework with a ",
       "url": "https://github.com/kreuzberg-dev/kreuzberg",
-      "first_seen": "2026-05-18",
-      "last_seen": "2026-05-18",
-      "count": 1
-    },
-    "https://github.com/BerriAI/litellm-agent-platform": {
-      "title": "BerriAI/litellm-agent-platform · Self-hosted platform for running coding agents ",
-      "url": "https://github.com/BerriAI/litellm-agent-platform",
-      "first_seen": "2026-05-18",
-      "last_seen": "2026-05-18",
-      "count": 1
-    },
-    "https://github.com/stormzhang/token-tracker": {
-      "title": "stormzhang/token-tracker · Track token usage across local AI agents (Claude C",
-      "url": "https://github.com/stormzhang/token-tracker",
-      "first_seen": "2026-05-18",
-      "last_seen": "2026-05-18",
-      "count": 1
-    },
-    "https://github.com/Callous-0923/agent-study": {
-      "title": "Callous-0923/agent-study · 36章AI Agent全栈课程：从ReAct循环到Claude Code逆向、MCP/A2A协议、R",
-      "url": "https://github.com/Callous-0923/agent-study",
-      "first_seen": "2026-05-18",
-      "last_seen": "2026-05-18",
-      "count": 1
-    },
-    "https://github.com/keerthanapranesh/Claude-Code-Swarm-Toolkit": {
-      "title": "keerthanapranesh/Claude-Code-Swarm-Toolkit · 🚀 ZeroClaw Master 2026 — Ultimate C",
-      "url": "https://github.com/keerthanapranesh/Claude-Code-Swarm-Toolkit",
-      "first_seen": "2026-05-18",
-      "last_seen": "2026-05-18",
-      "count": 1
-    },
-    "https://github.com/PlaceNL2026/okx-agent-trade-kit": {
-      "title": "PlaceNL2026/okx-agent-trade-kit · OKX trading MCP CLI cryptocurrency spot future",
-      "url": "https://github.com/PlaceNL2026/okx-agent-trade-kit",
       "first_seen": "2026-05-18",
       "last_seen": "2026-05-18",
       "count": 1
@@ -409,55 +430,6 @@
     "https://github.com/rihebty/flow-kit": {
       "title": "rihebty/flow-kit · 一套融合了bmad、spec-kit、OpenSpec、GSD、claude-task-master",
       "url": "https://github.com/rihebty/flow-kit",
-      "first_seen": "2026-05-18",
-      "last_seen": "2026-05-18",
-      "count": 1
-    },
-    "https://github.com/MinishLab/semble": {
-      "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
-      "url": "https://github.com/MinishLab/semble",
-      "first_seen": "2026-05-18",
-      "last_seen": "2026-05-18",
-      "count": 1
-    },
-    "https://www.leiphone.com/category/CorporateServices/VtqqTCKnnWrini0F.html \"对话销售易总裁邓永富：借力腾讯，能否在SaaS大洗牌中「攒足」筹码？ | SaaS+Agent十人谈\"": {
-      "title": "对话销售易总裁邓永富：借力腾讯，能否在SaaS大洗牌中「攒足」筹码？ | SaaS+Agent十人谈",
-      "url": "https://www.leiphone.com/category/CorporateServices/VtqqTCKnnWrini0F.html \"对话销售易总裁邓永富：借力腾讯，能否在SaaS大洗牌中「攒足」筹码？ | SaaS+Agent十人谈\"",
-      "first_seen": "2026-05-18",
-      "last_seen": "2026-05-18",
-      "count": 1
-    },
-    "https://www.leiphone.com/tag/%E7%99%BE%E5%BA%A6+Create+2026 \"百度 Create 2026\"": {
-      "title": "百度 Create 2026",
-      "url": "https://www.leiphone.com/tag/%E7%99%BE%E5%BA%A6+Create+2026 \"百度 Create 2026\"",
-      "first_seen": "2026-05-18",
-      "last_seen": "2026-05-18",
-      "count": 1
-    },
-    "https://www.leiphone.com/category/healthai/62noVKCB2zxjcx5D.html \"BMJ独家牵手氢离子，阿里健康开启国际顶刊合作起点\"": {
-      "title": "BMJ独家牵手氢离子，阿里健康开启国际顶刊合作起点",
-      "url": "https://www.leiphone.com/category/healthai/62noVKCB2zxjcx5D.html \"BMJ独家牵手氢离子，阿里健康开启国际顶刊合作起点\"",
-      "first_seen": "2026-05-18",
-      "last_seen": "2026-05-18",
-      "count": 1
-    },
-    "https://www.leiphone.com/category/zaobao/rod6WpUrAa8maOpv.html \"马斯克、库克随特朗普访华，黄仁勋虽迟但到；SK海力士中国员工无法做管理层，奖金不到韩国人的5%；390万元起！宇树发布载人变形机甲\"": {
-      "title": "马斯克、库克随特朗普访华，黄仁勋虽迟但到；SK海力士中国员工无法做管理层，奖金不到韩国人的5%；390万元起！宇树发布载人变形机甲",
-      "url": "https://www.leiphone.com/category/zaobao/rod6WpUrAa8maOpv.html \"马斯克、库克随特朗普访华，黄仁勋虽迟但到；SK海力士中国员工无法做管理层，奖金不到韩国人的5%；390万元起！宇树发布载人变形机甲\"",
-      "first_seen": "2026-05-18",
-      "last_seen": "2026-05-18",
-      "count": 1
-    },
-    "https://www.leiphone.com/category/zaobao/a6K3KTE1WDwptUvv.html \"隐私又少一点？「微信状态可看访客记录」冲上热搜，腾讯客服回应；快手计划分拆可灵AI，估值超1300亿、明年IPO上市；贾跃亭出任FF全球CEO\"": {
-      "title": "隐私又少一点？「微信状态可看访客记录」冲上热搜，腾讯客服回应；快手计划分拆可灵AI，估值超1300亿、明年IPO上市；贾跃亭出任FF全球CEO",
-      "url": "https://www.leiphone.com/category/zaobao/a6K3KTE1WDwptUvv.html \"隐私又少一点？「微信状态可看访客记录」冲上热搜，腾讯客服回应；快手计划分拆可灵AI，估值超1300亿、明年IPO上市；贾跃亭出任FF全球CEO\"",
-      "first_seen": "2026-05-18",
-      "last_seen": "2026-05-18",
-      "count": 1
-    },
-    "https://www.leiphone.com/category/industrynews/9bcdHqAkFcRwKyZp.html \"在国内做了20年女装后，这个团队靠「轻出海」把增长拓向东南亚\"": {
-      "title": "在国内做了20年女装后，这个团队靠「轻出海」把增长拓向东南亚",
-      "url": "https://www.leiphone.com/category/industrynews/9bcdHqAkFcRwKyZp.html \"在国内做了20年女装后，这个团队靠「轻出海」把增长拓向东南亚\"",
       "first_seen": "2026-05-18",
       "last_seen": "2026-05-18",
       "count": 1

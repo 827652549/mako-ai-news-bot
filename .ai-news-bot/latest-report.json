@@ -13,7 +13,7 @@
         "tag": "div",
         "text": {
           "tag": "lark_md",
-          "content": "**🔧 Claude 生态**\n· [Introducing Claude Opus 4.7…](https://www.anthropic.com/news/claude-opus-4-7)\n  _Anthropic 官方公告，可能涉及模型能力、API 变更或产品策略，影响 Claude Code 工具链规划_\n· [Product Apr 17, 2026 ####…](https://www.anthropic.com/news/claude-design-anthropic-labs)\n  _Anthropic 官方公告，可能涉及模型能力、API 变更或产品策略，影响 Claude Code 工具链规划_\n· [Announcements Feb 4, 2026…](https://www.anthropic.com/news/claude-is-a-space-to-think)\n  _Anthropic 官方公告，可能涉及模型能力、API 变更或产品策略，影响 Claude Code 工具链规划_\n· [May 14, 2026 Announcements…](https://www.anthropic.com/news/pwc-expanded-partnership)\n  _Anthropic 官方公告，可能涉及模型能力、API 变更或产品策略，影响 Claude Code 工具链规划_\n· [May 14, 2026 Announcements…](https://www.anthropic.com/news/gates-foundation-partnership)\n  _Anthropic 官方公告，可能涉及模型能力、API 变更或产品策略，影响 Claude Code 工具链规划_"
+          "content": "**🔧 Claude 生态**\n· [Responsible Scaling Policy](https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy)\n  _Anthropic 官方公告，可能涉及模型能力、API 变更或产品策略，影响 Claude Code 工具链规划_"
         }
       },
       {
@@ -23,7 +23,7 @@
         "tag": "div",
         "text": {
           "tag": "lark_md",
-          "content": "**🛠️ AI 工具发现**\n· [github/spec-kit · 💫 Toolkit…](https://github.com/github/spec-kit)\n  _Spec 驱动开发实践，是 AI 编程向可验证、可审查方向演进的核心方法论，面试中高频考点_\n· [gsd-build/get-shit-done · A…](https://github.com/gsd-build/get-shit-done)\n  _快速增长 GitHub 项目（⭐62742），在 AI 工具链方向有参考价值_\n· [Fission-AI/OpenSpec ·…](https://github.com/Fission-AI/OpenSpec)\n  _Spec 驱动开发实践，是 AI 编程向可验证、可审查方向演进的核心方法论，面试中高频考点_\n· [microsoft/playwright-mcp ·…](https://github.com/microsoft/playwright-mcp)\n  _MCP 协议相关工具，直接影响 Claude Code 工具扩展与 agent 工作流设计_\n· [github/github-mcp-server ·…](https://github.com/github/github-mcp-server)\n  _MCP 协议相关工具，直接影响 Claude Code 工具扩展与 agent 工作流设计_"
+          "content": "**🛠️ AI 工具发现**\n· [nexu-io/html-anything · ✨ The…](https://github.com/nexu-io/html-anything)\n  _快速增长 GitHub 项目（⭐2793），在 AI 工具链方向有参考价值_\n· [HermannBjorgvin/Clawdmeter ·…](https://github.com/HermannBjorgvin/Clawdmeter)\n  _Claude Code 生态更新，dmeter · ESP32 desk dashboard that shows，影响前端 AI 辅助编程效率_\n· [colbymchenry/codegraph ·…](https://github.com/colbymchenry/codegraph)\n  _Claude Code 生态更新，ph · Pre-indexed code knowledge graph fo，影响前端 AI 辅助编程效率_\n· [K-Dense-AI/scientific-agent…](https://github.com/K-Dense-AI/scientific-agent-skills)\n  _快速增长 GitHub 项目（⭐762），在 AI 工具链方向有参考价值_\n· [DenisSergeevitch/agents-best…](https://github.com/DenisSergeevitch/agents-best-practices)\n  _快速增长 GitHub 项目（⭐720），在 AI 工具链方向有参考价值_"
         }
       },
       {
@@ -43,7 +43,17 @@
         "tag": "div",
         "text": {
           "tag": "lark_md",
-          "content": "**📐 Spec 驱动开发**\n· [Don’t Outsource the Learning](https://addyosmani.com/blog/dont-outsource-learning/)\n  _HN 社区热议 50pts，工程师圈验证度高，可作为面试聊 AI 工程化趋势的佐证_\n· [Show HN: Codiff, a local diff…](https://github.com/nkzw-tech/codiff/releases)\n  _HN 社区热议 27pts，工程师圈验证度高，可作为面试聊 AI 工程化趋势的佐证_"
+          "content": "**🔌 MCP 生态**\n· [microsoft/playwright-mcp ·…](https://github.com/microsoft/playwright-mcp)\n  _MCP 协议相关工具，直接影响 Claude Code 工具扩展与 agent 工作流设计_\n· [github/github-mcp-server ·…](https://github.com/github/github-mcp-server)\n  _MCP 协议相关工具，直接影响 Claude Code 工具扩展与 agent 工作流设计_\n· [PrefectHQ/fastmcp · 🚀 The…](https://github.com/PrefectHQ/fastmcp)\n  _MCP 协议相关工具，直接影响 Claude Code 工具扩展与 agent 工作流设计_\n· [activepieces/activepieces ·…](https://github.com/activepieces/activepieces)\n  _MCP 协议相关内容，直接影响 Claude Code 工具扩展与 agent 工作流设计_\n· [googleapis/mcp-toolbox · MCP…](https://github.com/googleapis/mcp-toolbox)\n  _MCP 协议相关工具，直接影响 Claude Code 工具扩展与 agent 工作流设计_"
+        }
+      },
+      {
+        "tag": "hr"
+      },
+      {
+        "tag": "div",
+        "text": {
+          "tag": "lark_md",
+          "content": "**📐 Spec 驱动开发**\n· [github/spec-kit · 💫 Toolkit…](https://github.com/github/spec-kit)\n  _Spec 驱动开发实践，是 AI 编程向可验证、可审查方向演进的核心方法论，面试中高频考点_\n· [gsd-build/get-shit-done · A…](https://github.com/gsd-build/get-shit-done)\n  _快速增长 GitHub 项目（⭐62742），在 AI 工具链方向有参考价值_\n· [Fission-AI/OpenSpec ·…](https://github.com/Fission-AI/OpenSpec)\n  _Spec 驱动开发实践，是 AI 编程向可验证、可审查方向演进的核心方法论，面试中高频考点_\n· [gsd-build/gsd-2 · A powerful…](https://github.com/gsd-build/gsd-2)\n  _快速增长 GitHub 项目（⭐7568），在 AI 工具链方向有参考价值_\n· [potpie-ai/potpie ·…](https://github.com/potpie-ai/potpie)\n  _Spec 驱动开发实践，是 AI 编程向可验证、可审查方向演进的核心方法论，面试中高频考点_"
         }
       },
       {
