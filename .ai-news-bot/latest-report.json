@@ -1,63 +1,379 @@
 {
-  "msg_type": "interactive",
-  "card": {
-    "header": {
-      "title": {
-        "tag": "plain_text",
-        "content": "📡 AI 资讯速报 · 2026-04-16"
-      },
-      "template": "blue"
+  "report_date": "2026-05-19",
+  "generated_at": "2026-05-19T00:00:00Z",
+  "lookback_hours": 24,
+  "sources_checked": [
+    "anthropic.com/news",
+    "github.com/anthropics/claude-code/releases",
+    "github.com/anthropics/anthropic-sdk-python",
+    "github.com/anthropics/anthropic-sdk-typescript",
+    "github.com/larksuite/cli (no releases found - skipped)",
+    "github.com trending",
+    "hn.algolia.com (claude code, MCP server, AI coding, spec driven, model context protocol, claude agent SDK, stainless)",
+    "dev.to (claudecode, mcp tags)",
+    "leiphone.com (via Jina)",
+    "smarthey.com",
+    "WebSearch (anthropic news, china AI, github trending)"
+  ],
+  "skipped_sources": [
+    "larksuite/cli - no releases in last 24h",
+    "github.com/trending direct page (rate limited, used WebSearch instead)",
+    "anthropic-sdk-python/typescript GitHub API (403, used WebSearch instead)",
+    "openclawapi.org/en/blog (domain not confirmed accessible)",
+    "claude.ai/blog (redirected, covered by anthropic.com/news)"
+  ],
+  "topics": [
+    {
+      "id": "claude_ecosystem",
+      "label": "🔧 Claude 生态",
+      "priority": "high",
+      "items": [
+        {
+          "title_raw": "Anthropic acquires Stainless",
+          "title": "Anthropic acquires Stainless",
+          "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+          "source": "Anthropic Blog",
+          "date": "2026-05-18",
+          "why": "收购 Stainless（$300M）意味着 Anthropic 将掌控 SDK 生成工具链，影响 Claude/OpenAI 开发者 API 接入方式",
+          "tags": [
+            "claude_ecosystem"
+          ],
+          "points": 351
+        },
+        {
+          "title_raw": "Claude Code v2.1.144 released",
+          "title": "Claude Code v2.1.144 released",
+          "url": "https://github.com/anthropics/claude-code/releases",
+          "source": "GitHub Releases",
+          "date": "2026-05-19",
+          "why": "新增 /resume 支持后台 session、修复 startup 挂起 75s 问题，直接影响本地开发流畅度",
+          "tags": [
+            "claude_ecosystem"
+          ],
+          "points": null
+        },
+        {
+          "title_raw": "Code with Claude 2026: Routines & Agent SDK",
+          "title": "Code with Claude 2026:…",
+          "url": "https://code.claude.com/docs/en/routines",
+          "source": "Anthropic Docs",
+          "date": "2026-05-06",
+          "why": "Routines 允许定时/事件触发 Claude Code 自动运行，Pro 每日 5 次免费，是面试高频 agent infra 话题",
+          "tags": [
+            "claude_ecosystem"
+          ],
+          "points": 720
+        },
+        {
+          "title_raw": "Introducing Claude for Small Business",
+          "title": "Introducing Claude for Small…",
+          "url": "https://www.anthropic.com/news/claude-for-small-business",
+          "source": "Anthropic Blog",
+          "date": "2026-05-13",
+          "why": "Claude 新增中小企业套餐，定价策略变化影响团队采购决策与竞品对比",
+          "tags": [
+            "claude_ecosystem"
+          ],
+          "points": null
+        },
+        {
+          "title_raw": "Why CLAUDE.md Stops Scaling",
+          "title": "Why CLAUDE.md Stops Scaling",
+          "url": "https://dev.to/mnemehq/why-claudemd-stops-scaling-58ol",
+          "source": "DEV Community",
+          "date": "2026-05-18",
+          "why": "分析 CLAUDE.md 规模化瓶颈，对维护多人协作 claude 项目的工程师有直接参考价值",
+          "tags": [
+            "claude_ecosystem"
+          ],
+          "points": null
+        }
+      ]
     },
-    "elements": [
-      {
-        "tag": "div",
-        "text": {
-          "tag": "lark_md",
-          "content": "**🔧 Claude 生态**\n· [Claude Code v2.1.110 · /tui全屏、移动推送通知、MCP…](https://github.com/anthropics/claude-code/releases/tag/v2.1.110)\n  _Claude Code 最新版本，新增 /tui 无闪烁全屏渲染、移动端 Push 通知工具、MCP 服务器断连修复和安全加固，直接影响日常编程工作流，建议今日更新_\n· [Claude Code v2.1.109 · 扩展思维进度提示改进](https://github.com/anthropics/claude-code/releases/tag/v2.1.109)\n  _同日发布，优化了 Extended Thinking（扩展推理）的旋转进度提示动画，使用深度推理模式时体验更流畅_\n· [Claude.ai / API / Claude Code 服务大规模故障（HN…](https://claudestatus.com/)\n  _昨日 Claude 服务出现系统性异常，社区热议 242+ 分，了解故障背景有助于评估 AI 编程工具的稳定性风险和降级方案_\n· [anthropic-sdk-typescript v0.89.0 · 正式标记 …](https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.89.0)\n  _SDK 将旧版 Claude Sonnet 4 和 Opus 4 标记为 deprecated，说明 Claude 4.5/4.6 系列已成主力模型，现有项目应尽快迁移依赖_"
+    {
+      "id": "ai_tools_discovery",
+      "label": "🛠️ AI 工具发现",
+      "priority": "high",
+      "items": [
+        {
+          "title_raw": "5 Tips to Cut Claude Code Token Usage by 30%",
+          "title": "5 Tips to Cut Claude Code…",
+          "url": "https://dev.to/llm_link_top/5-tips-to-cut-claude-code-token-usage-by-30-1o15",
+          "source": "DEV Community",
+          "date": "2026-05-18",
+          "why": "直接可操作的 token 优化技巧，降低 Claude Code 日常使用成本",
+          "tags": [
+            "ai_tools_discovery"
+          ],
+          "points": null
+        },
+        {
+          "title_raw": "Stop Claude Code from Lobotomizing Itself Mid-Task",
+          "title": "Stop Claude Code from…",
+          "url": "https://dev.to/ianlpaterson/stop-claude-code-from-lobotomizing-itself-mid-task-15fl",
+          "source": "DEV Community",
+          "date": "2026-05-18",
+          "why": "解决长任务中 Claude Code 丢失上下文的问题，提升复杂工程任务稳定性",
+          "tags": [
+            "ai_tools_discovery"
+          ],
+          "points": null
+        },
+        {
+          "title_raw": "Make Claude Code disagree with you: 14-rule counterpart toolkit",
+          "title": "Make Claude Code disagree…",
+          "url": "https://dev.to/michelfaure/make-claude-code-disagree-with-you-a-14-rule-counterpart-toolkit-install-in-1-command-11pe",
+          "source": "DEV Community",
+          "date": "2026-05-18",
+          "why": "14 条规则让 Claude Code 主动批评你的代码，减少 AI sycophancy，提升代码质量",
+          "tags": [
+            "ai_tools_discovery"
+          ],
+          "points": null
+        },
+        {
+          "title_raw": "qwen-code: Open-source AI agent in your terminal",
+          "title": "qwen-code: Open-source…",
+          "url": "https://github.com/QwenLM/qwen-code",
+          "source": "GitHub",
+          "date": "2026-04-15",
+          "why": "阿里开源的 Claude Code 替代品，支持 OpenAI 兼容 API，国内可用且免费，值得对比评估",
+          "tags": [
+            "ai_tools_discovery"
+          ],
+          "points": null
+        },
+        {
+          "title_raw": "OpenClaw: 247k-star open-source AI agent platform",
+          "title": "OpenClaw: 247k★ open-source…",
+          "url": "https://github.com/topics/openclaw",
+          "source": "GitHub",
+          "date": "2026-01-31",
+          "why": "史上增长最快开源 AI agent（247k stars），多平台消息+工具调用，了解 agent 生态必看",
+          "tags": [
+            "ai_tools_discovery"
+          ],
+          "points": null
         }
-      },
-      {
-        "tag": "hr"
-      },
-      {
-        "tag": "div",
-        "text": {
-          "tag": "lark_md",
-          "content": "**🛠️ AI 工具发现**\n· [forrestchang/andrej-karpathy-skills · 今日…](https://github.com/forrestchang/andrej-karpathy-skills)\n  _将 Andrej Karpathy 总结的 LLM 编码陷阱浓缩为单个 CLAUDE.md，可直接拖入项目提升 Claude Code 输出质量，强烈推荐收藏_\n· [thedotmack/claude-mem · Claude Code 自动记忆…](https://github.com/thedotmack/claude-mem)\n  _自动捕获 Claude 的会话操作、AI 压缩后注入未来上下文，解决大型项目历史信息丢失问题，是 Claude Code 工程化的实用扩展_\n· [obra/superpowers · Agentic 技能框架，2,055⭐](https://github.com/obra/superpowers)\n  _快速增长的 Agent 软件开发方法论框架，与 Claude Code Skills 系统理念高度契合，了解其设计思路有助于面试中阐述 Agent 架构观点_\n· [Libretto – 确定性 AI 浏览器自动化（HN 88pts）](https://github.com/saffron-health/libretto)\n  _提出「开发时 AI」理念：用 coding agent 预生成可检查的确定性脚本，而非运行时黑盒 agent，对 spec-driven 开发思路有重要参考价值_\n· [How I built a resume MCP in an hour（DEV …](https://dev.to/david_hyland_08f49962a50f/how-i-built-a-resume-mcp-in-an-hour-3o4m)\n  _一小时内构建完整 MCP 服务器的实战教程，展示了 MCP 开发的低门槛，面试时可作为 MCP 生态快速上手能力的佐证_"
+      ]
+    },
+    {
+      "id": "china_ai_trends",
+      "label": "🏢 国内 AI 动态",
+      "priority": "medium",
+      "items": [
+        {
+          "title_raw": "豆包推出付费订阅：68/200/500元三档",
+          "title": "豆包推出付费订阅：68/200/500 元三档",
+          "url": "https://36kr.com/p/3802970281041408",
+          "source": "36氪",
+          "date": "2026-05-08",
+          "why": "国内最大 AI 应用（3.45 亿月活）开启收费，标志中国大模型免费时代结束",
+          "tags": [
+            "china_ai_trends"
+          ],
+          "points": null
+        },
+        {
+          "title_raw": "腾讯云 CodeBuddy 计费调整：5 月起 316 元/人/月",
+          "title": "腾讯 CodeBuddy 计费调整 5 月起…",
+          "url": "https://cloud.tencent.com/announce/detail/2270",
+          "source": "腾讯云公告",
+          "date": "2026-04-28",
+          "why": "企业版双倍涨价至 316 元，新增 CloudAgent 平台能力，影响团队工具采购判断",
+          "tags": [
+            "china_ai_trends"
+          ],
+          "points": null
+        },
+        {
+          "title_raw": "Qwen3.6-Plus 发布：百万 Token Agentic Coding 旗舰",
+          "title": "Qwen3.6-Plus：百万 Token Agentic…",
+          "url": "https://qwen.ai/blog?id=qwen3.6",
+          "source": "Qwen Blog",
+          "date": "2026-04-02",
+          "why": "阿里 Agentic Coding 旗舰模型，仓库级代码修复能力可与 Claude 对标，国内替代选项",
+          "tags": [
+            "china_ai_trends"
+          ],
+          "points": null
+        },
+        {
+          "title_raw": "字节 Kimi 同步开启付费，中国 AI 应用商业化转型",
+          "title": "字节 Kimi 开启付费，AI 商业化转型",
+          "url": "https://www.ofweek.com/ai/2026-05/ART-201718-8120-30686896.html",
+          "source": "OFweek AI",
+          "date": "2026-05-14",
+          "why": "豆包+Kimi 同周收费，中国大模型行业集体商业化，影响开发者工具选型成本",
+          "tags": [
+            "china_ai_trends"
+          ],
+          "points": null
+        },
+        {
+          "title_raw": "阿里云 Qwen3-Coder-Next：编程专项模型",
+          "title": "阿里 Qwen3-Coder-Next 编程专项…",
+          "url": "https://github.com/QwenLM/Qwen3-Coder",
+          "source": "GitHub",
+          "date": "2026-04-20",
+          "why": "专门为代码任务优化的 Qwen 变体，Coding Plan 已集成，对比 Claude Code 的性价比参考",
+          "tags": [
+            "china_ai_trends"
+          ],
+          "points": null
         }
-      },
-      {
-        "tag": "hr"
-      },
-      {
-        "tag": "div",
-        "text": {
-          "tag": "lark_md",
-          "content": "**🏢 国内 AI 动态**\n· [台积电 Q1 净利润同比增 50%，AI 需求连续四季度创纪录](https://www.smarthey.com/detail/680101801886.html)\n  _AI 芯片需求持续高速增长，直接影响国内云厂商（阿里云、腾讯云）的 GPU 算力采购成本与 AI 服务定价策略，是 AI 工程化背景的重要宏观信号_\n· [Snap 裁员 1,000 人，聚焦 AI 驱动长期价值增长](https://www.smarthey.com/detail/189101801889.html)\n  _海外 AI 赛道裁员重组趋势持续，对比国内大厂 AI 编码工具（CodeBuddy 等）投入加大，AI coding 赛道竞争格局在全球范围内加速分化_"
+      ]
+    },
+    {
+      "id": "mcp_ecosystem",
+      "label": "🔌 MCP 生态",
+      "priority": "medium",
+      "items": [
+        {
+          "title_raw": "GitHub MCP: Secret scanning now GA",
+          "title": "GitHub MCP Secret Scanning 正式…",
+          "url": "https://github.blog/changelog/2026-05-05-secret-scanning-with-github-mcp-server-is-now-generally-available/",
+          "source": "GitHub Changelog",
+          "date": "2026-05-05",
+          "why": "AI coding agent 提交前自动扫描密钥泄露，企业合规必备，Claude Code 原生支持",
+          "tags": [
+            "mcp_ecosystem"
+          ],
+          "points": null
+        },
+        {
+          "title_raw": "Build MCP Servers that don't suck...tokens",
+          "title": "构建省 Token 的 MCP Server 实战",
+          "url": "https://dev.to/scottlepp/build-mcp-servers-that-dont-sucktokens-im2",
+          "source": "DEV Community",
+          "date": "2026-05-19",
+          "why": "MCP Server 设计的 token 效率优化实战，减少 AI agent 工具调用成本的具体方法",
+          "tags": [
+            "mcp_ecosystem"
+          ],
+          "points": 1
+        },
+        {
+          "title_raw": "Rediscovering DDD, one MCP server at a time",
+          "title": "用 MCP Server 重新发现领域驱动设计",
+          "url": "https://dev.to/aws/rediscovering-domain-driven-design-one-mcp-server-at-a-time-1i79",
+          "source": "DEV Community (AWS)",
+          "date": "2026-05-18",
+          "why": "AWS 视角将 MCP 与 DDD 结合，高级工程师面试 system design 话题的新角度",
+          "tags": [
+            "mcp_ecosystem"
+          ],
+          "points": 19
+        },
+        {
+          "title_raw": "MCP server reduces Claude context by 98%",
+          "title": "MCP Server 减少 Claude 上下文消耗 98%",
+          "url": "https://mksg.lu/blog/context-mode",
+          "source": "HN / blog",
+          "date": "2026-02-28",
+          "why": "极致 context 压缩方案，对重度 Claude Code 用户节约 token 费用效果显著（HN 570分）",
+          "tags": [
+            "mcp_ecosystem"
+          ],
+          "points": 570
+        },
+        {
+          "title_raw": "ChromeDevTools/chrome-devtools-mcp 35k stars",
+          "title": "Chrome DevTools MCP 官方仓 35k★",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "source": "GitHub",
+          "date": "2026-02-18",
+          "why": "Google Chrome 官方 MCP，让 AI agent 直接调试浏览器，前端工程师必知工具",
+          "tags": [
+            "mcp_ecosystem"
+          ],
+          "points": null
         }
-      },
-      {
-        "tag": "hr"
-      },
-      {
-        "tag": "div",
-        "text": {
-          "tag": "lark_md",
-          "content": "**🔌 MCP 生态**\n· [MCP as Observability Interface: AI Agent…](https://ingero.io/mcp-observability-interface-ai-agents-kernel-tracepoints/)\n  _将 MCP 用于可观测性接口，让 AI Agent 接入内核追踪点（Tracepoint），是 MCP 协议在系统级工具链中的创新应用，扩展了 MCP 的使用边界_\n· [agent-dispatch：让 Claude Code Agents 互相通信…](https://dev.to/serik_ospanov_c84c8ee2e54/let-your-claude-code-agents-talk-to-each-other-introducing-agent-dispatch--3ik0)\n  _实现 Claude Code 多 Agent 之间的消息传递，是构建复杂 multi-agent 工作流的基础组件，对 agent 协作架构设计有直接参考价值_"
+      ]
+    },
+    {
+      "id": "spec_driven_dev",
+      "label": "📐 Spec 驱动开发",
+      "priority": "medium",
+      "items": [
+        {
+          "title_raw": "Get Shit Done: Meta-prompting & spec-driven dev system (HN 473)",
+          "title": "GSD：Meta-prompting Spec 驱动系统",
+          "url": "https://github.com/gsd-build/get-shit-done",
+          "source": "HN / GitHub",
+          "date": "2026-03-17",
+          "why": "HN 473 分的 spec 驱动工作流框架，结合 Claude Code Routines 可大幅提升自动化程度",
+          "tags": [
+            "spec_driven_dev"
+          ],
+          "points": 473
+        },
+        {
+          "title_raw": "Verified Spec-Driven Development (VSDD) — HN 211",
+          "title": "VSDD：可验证 Spec 驱动开发",
+          "url": "https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00",
+          "source": "HN / GitHub Gist",
+          "date": "2026-02-28",
+          "why": "VSDD 引入形式化验证层，解决 AI 生成代码难以测试的核心痛点，高级工程师必读",
+          "tags": [
+            "spec_driven_dev"
+          ],
+          "points": 211
+        },
+        {
+          "title_raw": "Understanding SDD: Kiro, Spec-Kit, and Tessl — Martin Fowler",
+          "title": "Martin Fowler 解析…",
+          "url": "https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html",
+          "source": "martinfowler.com",
+          "date": "2025-10-16",
+          "why": "Fowler 对比三大 SDD 工具，面试讲解 AI 辅助架构设计的权威参考",
+          "tags": [
+            "spec_driven_dev"
+          ],
+          "points": 128
+        },
+        {
+          "title_raw": "Spec-Driven Development: The Waterfall Strikes Back",
+          "title": "SDD：瀑布模型的反攻？",
+          "url": "https://marmelab.com/blog/2025/11/12/spec-driven-development-waterfall-strikes-back.html",
+          "source": "marmelab blog / HN",
+          "date": "2025-11-15",
+          "why": "批判性视角：SDD 与传统瀑布的本质区别在哪，辩证思考 AI 驱动开发的局限",
+          "tags": [
+            "spec_driven_dev"
+          ],
+          "points": 225
+        },
+        {
+          "title_raw": "github/spec-kit: Toolkit for spec-driven development",
+          "title": "github/spec-kit：SDD 入门工具集",
+          "url": "https://github.com/github/spec-kit",
+          "source": "GitHub",
+          "date": "2025-11-03",
+          "why": "GitHub 官方 SDD 工具集，与 Claude Code 结合使用的起点，适合团队建立 spec 工作流",
+          "tags": [
+            "spec_driven_dev"
+          ],
+          "points": 84
         }
-      },
-      {
-        "tag": "hr"
-      },
-      {
-        "tag": "note",
-        "elements": [
-          {
-            "tag": "plain_text",
-            "content": "数据来源：GitHub Releases · GitHub Trending · HN Algolia · DEV Community · Smarthey｜⚠️ 跳过：Leiphone（24h 内无更新）· Spec 驱动专栏（无新热度内容）· GitHub Search（Rate Limit 限速）｜修改关注维度：编辑仓库中的 watch.yaml"
-          }
-        ]
-      }
+      ]
+    }
+  ],
+  "hot_ongoing": [
+    {
+      "title": "Claude Code Source Leak 风波",
+      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+      "why": "3月底泄露事件持续发酵，揭示 fake tools / frustration regexes 等实现细节",
+      "seen_count": 3
+    }
+  ],
+  "meta": {
+    "total_items": 25,
+    "topics_count": 5,
+    "filter_excluded": [
+      "财报 (Baidu/JD Q1 reports filtered)",
+      "裁员",
+      "股价"
     ]
   }
 }
