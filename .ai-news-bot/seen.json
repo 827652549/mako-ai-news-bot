@@ -1,134 +1,179 @@
 {
   "urls": {
     "https://www.anthropic.com/news/anthropic-acquires-stainless": {
-      "last_seen": "2026-05-19T00:00:00Z",
-      "count": 1,
-      "title": "Anthropic acquires Stainless"
+      "title": "Anthropic acquires Stainless",
+      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "first_seen": "2026-05-19",
+      "last_seen": "2026-05-19",
+      "count": 1
     },
     "https://github.com/anthropics/claude-code/releases": {
-      "last_seen": "2026-05-19T00:00:00Z",
-      "count": 1,
-      "title": "Claude Code v2.1.144 released"
+      "title": "Claude Code v2.1.144 released",
+      "url": "https://github.com/anthropics/claude-code/releases",
+      "first_seen": "2026-05-19",
+      "last_seen": "2026-05-19",
+      "count": 1
     },
     "https://code.claude.com/docs/en/routines": {
-      "last_seen": "2026-05-19T00:00:00Z",
-      "count": 1,
-      "title": "Code with Claude 2026: Routines & Agent SDK"
+      "title": "Code with Claude 2026:…",
+      "url": "https://code.claude.com/docs/en/routines",
+      "first_seen": "2026-05-19",
+      "last_seen": "2026-05-19",
+      "count": 1
     },
     "https://www.anthropic.com/news/claude-for-small-business": {
-      "last_seen": "2026-05-19T00:00:00Z",
-      "count": 1,
-      "title": "Introducing Claude for Small Business"
+      "title": "Introducing Claude for Small…",
+      "url": "https://www.anthropic.com/news/claude-for-small-business",
+      "first_seen": "2026-05-19",
+      "last_seen": "2026-05-19",
+      "count": 1
     },
     "https://dev.to/mnemehq/why-claudemd-stops-scaling-58ol": {
-      "last_seen": "2026-05-19T00:00:00Z",
-      "count": 1,
-      "title": "Why CLAUDE.md Stops Scaling"
+      "title": "Why CLAUDE.md Stops Scaling",
+      "url": "https://dev.to/mnemehq/why-claudemd-stops-scaling-58ol",
+      "first_seen": "2026-05-19",
+      "last_seen": "2026-05-19",
+      "count": 1
     },
     "https://dev.to/llm_link_top/5-tips-to-cut-claude-code-token-usage-by-30-1o15": {
-      "last_seen": "2026-05-19T00:00:00Z",
-      "count": 1,
-      "title": "5 Tips to Cut Claude Code Token Usage by 30%"
+      "title": "5 Tips to Cut Claude Code…",
+      "url": "https://dev.to/llm_link_top/5-tips-to-cut-claude-code-token-usage-by-30-1o15",
+      "first_seen": "2026-05-19",
+      "last_seen": "2026-05-19",
+      "count": 1
     },
     "https://dev.to/ianlpaterson/stop-claude-code-from-lobotomizing-itself-mid-task-15fl": {
-      "last_seen": "2026-05-19T00:00:00Z",
-      "count": 1,
-      "title": "Stop Claude Code from Lobotomizing Itself Mid-Task"
+      "title": "Stop Claude Code Lobotomizing…",
+      "url": "https://dev.to/ianlpaterson/stop-claude-code-from-lobotomizing-itself-mid-task-15fl",
+      "first_seen": "2026-05-19",
+      "last_seen": "2026-05-19",
+      "count": 1
     },
     "https://dev.to/michelfaure/make-claude-code-disagree-with-you-a-14-rule-counterpart-toolkit-install-in-1-command-11pe": {
-      "last_seen": "2026-05-19T00:00:00Z",
-      "count": 1,
-      "title": "Make Claude Code disagree with you: 14-rule counterpart toolkit"
+      "title": "Make Claude Code disagree:…",
+      "url": "https://dev.to/michelfaure/make-claude-code-disagree-with-you-a-14-rule-counterpart-toolkit-install-in-1-command-11pe",
+      "first_seen": "2026-05-19",
+      "last_seen": "2026-05-19",
+      "count": 1
     },
     "https://github.com/QwenLM/qwen-code": {
-      "last_seen": "2026-05-19T00:00:00Z",
-      "count": 1,
-      "title": "qwen-code: Open-source AI agent in your terminal"
-    },
-    "https://github.com/topics/openclaw": {
-      "last_seen": "2026-05-19T00:00:00Z",
-      "count": 1,
-      "title": "OpenClaw: 247k-star open-source AI agent platform"
-    },
-    "https://36kr.com/p/3802970281041408": {
-      "last_seen": "2026-05-19T00:00:00Z",
-      "count": 1,
-      "title": "豆包推出付费订阅：68/200/500元三档"
-    },
-    "https://cloud.tencent.com/announce/detail/2270": {
-      "last_seen": "2026-05-19T00:00:00Z",
-      "count": 1,
-      "title": "腾讯云 CodeBuddy 计费调整：5 月起 316 元/人/月"
-    },
-    "https://qwen.ai/blog?id=qwen3.6": {
-      "last_seen": "2026-05-19T00:00:00Z",
-      "count": 1,
-      "title": "Qwen3.6-Plus 发布：百万 Token Agentic Coding 旗舰"
-    },
-    "https://www.ofweek.com/ai/2026-05/ART-201718-8120-30686896.html": {
-      "last_seen": "2026-05-19T00:00:00Z",
-      "count": 1,
-      "title": "字节 Kimi 同步开启付费，中国 AI 应用商业化转型"
-    },
-    "https://github.com/QwenLM/Qwen3-Coder": {
-      "last_seen": "2026-05-19T00:00:00Z",
-      "count": 1,
-      "title": "阿里云 Qwen3-Coder-Next：编程专项模型"
-    },
-    "https://github.blog/changelog/2026-05-05-secret-scanning-with-github-mcp-server-is-now-generally-available/": {
-      "last_seen": "2026-05-19T00:00:00Z",
-      "count": 1,
-      "title": "GitHub MCP: Secret scanning now GA"
-    },
-    "https://dev.to/scottlepp/build-mcp-servers-that-dont-sucktokens-im2": {
-      "last_seen": "2026-05-19T00:00:00Z",
-      "count": 1,
-      "title": "Build MCP Servers that don't suck...tokens"
-    },
-    "https://dev.to/aws/rediscovering-domain-driven-design-one-mcp-server-at-a-time-1i79": {
-      "last_seen": "2026-05-19T00:00:00Z",
-      "count": 1,
-      "title": "Rediscovering DDD, one MCP server at a time"
-    },
-    "https://mksg.lu/blog/context-mode": {
-      "last_seen": "2026-05-19T00:00:00Z",
-      "count": 1,
-      "title": "MCP server reduces Claude context by 98%"
+      "title": "qwen-code: Open-source AI…",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "first_seen": "2026-05-19",
+      "last_seen": "2026-05-19",
+      "count": 1
     },
     "https://github.com/ChromeDevTools/chrome-devtools-mcp": {
-      "last_seen": "2026-05-19T00:00:00Z",
-      "count": 1,
-      "title": "ChromeDevTools/chrome-devtools-mcp 35k stars"
+      "title": "Chrome DevTools MCP 官方仓 35k★",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "first_seen": "2026-05-19",
+      "last_seen": "2026-05-19",
+      "count": 1
+    },
+    "https://36kr.com/p/3802970281041408": {
+      "title": "豆包推出付费订阅：68/200/500 元三档",
+      "url": "https://36kr.com/p/3802970281041408",
+      "first_seen": "2026-05-19",
+      "last_seen": "2026-05-19",
+      "count": 1
+    },
+    "https://cloud.tencent.com/announce/detail/2270": {
+      "title": "腾讯 CodeBuddy 5 月起 316 元/人/月",
+      "url": "https://cloud.tencent.com/announce/detail/2270",
+      "first_seen": "2026-05-19",
+      "last_seen": "2026-05-19",
+      "count": 1
+    },
+    "https://qwen.ai/blog?id=qwen3.6": {
+      "title": "Qwen3.6-Plus：百万 Token Agentic…",
+      "url": "https://qwen.ai/blog?id=qwen3.6",
+      "first_seen": "2026-05-19",
+      "last_seen": "2026-05-19",
+      "count": 1
+    },
+    "https://www.ofweek.com/ai/2026-05/ART-201718-8120-30686896.html": {
+      "title": "字节 Kimi 开启付费，AI 商业化转型",
+      "url": "https://www.ofweek.com/ai/2026-05/ART-201718-8120-30686896.html",
+      "first_seen": "2026-05-19",
+      "last_seen": "2026-05-19",
+      "count": 1
+    },
+    "https://github.com/QwenLM/Qwen3-Coder": {
+      "title": "阿里 Qwen3-Coder-Next 编程专项模型",
+      "url": "https://github.com/QwenLM/Qwen3-Coder",
+      "first_seen": "2026-05-19",
+      "last_seen": "2026-05-19",
+      "count": 1
+    },
+    "https://github.blog/changelog/2026-05-05-secret-scanning-with-github-mcp-server-is-now-generally-available/": {
+      "title": "GitHub MCP Secret Scanning 正式…",
+      "url": "https://github.blog/changelog/2026-05-05-secret-scanning-with-github-mcp-server-is-now-generally-available/",
+      "first_seen": "2026-05-19",
+      "last_seen": "2026-05-19",
+      "count": 1
+    },
+    "https://dev.to/scottlepp/build-mcp-servers-that-dont-sucktokens-im2": {
+      "title": "Build MCP Servers that don't…",
+      "url": "https://dev.to/scottlepp/build-mcp-servers-that-dont-sucktokens-im2",
+      "first_seen": "2026-05-19",
+      "last_seen": "2026-05-19",
+      "count": 1
+    },
+    "https://dev.to/aws/rediscovering-domain-driven-design-one-mcp-server-at-a-time-1i79": {
+      "title": "用 MCP Server 重新发现领域驱动设计",
+      "url": "https://dev.to/aws/rediscovering-domain-driven-design-one-mcp-server-at-a-time-1i79",
+      "first_seen": "2026-05-19",
+      "last_seen": "2026-05-19",
+      "count": 1
+    },
+    "https://mksg.lu/blog/context-mode": {
+      "title": "MCP Server 减少 Claude 上下文消耗 98%",
+      "url": "https://mksg.lu/blog/context-mode",
+      "first_seen": "2026-05-19",
+      "last_seen": "2026-05-19",
+      "count": 1
     },
     "https://github.com/gsd-build/get-shit-done": {
-      "last_seen": "2026-05-19T00:00:00Z",
-      "count": 1,
-      "title": "Get Shit Done: Meta-prompting & spec-driven dev system (HN 473)"
+      "title": "GSD：Meta-prompting Spec…",
+      "url": "https://github.com/gsd-build/get-shit-done",
+      "first_seen": "2026-05-19",
+      "last_seen": "2026-05-19",
+      "count": 1
     },
     "https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00": {
-      "last_seen": "2026-05-19T00:00:00Z",
-      "count": 1,
-      "title": "Verified Spec-Driven Development (VSDD) — HN 211"
+      "title": "VSDD：可验证 Spec 驱动开发（HN 211）",
+      "url": "https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00",
+      "first_seen": "2026-05-19",
+      "last_seen": "2026-05-19",
+      "count": 1
     },
     "https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html": {
-      "last_seen": "2026-05-19T00:00:00Z",
-      "count": 1,
-      "title": "Understanding SDD: Kiro, Spec-Kit, and Tessl — Martin Fowler"
+      "title": "Martin Fowler 解析三大 SDD 工具",
+      "url": "https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html",
+      "first_seen": "2026-05-19",
+      "last_seen": "2026-05-19",
+      "count": 1
     },
     "https://marmelab.com/blog/2025/11/12/spec-driven-development-waterfall-strikes-back.html": {
-      "last_seen": "2026-05-19T00:00:00Z",
-      "count": 1,
-      "title": "Spec-Driven Development: The Waterfall Strikes Back"
+      "title": "SDD：瀑布模型的反攻？（HN 225）",
+      "url": "https://marmelab.com/blog/2025/11/12/spec-driven-development-waterfall-strikes-back.html",
+      "first_seen": "2026-05-19",
+      "last_seen": "2026-05-19",
+      "count": 1
     },
     "https://github.com/github/spec-kit": {
-      "last_seen": "2026-05-19T00:00:00Z",
-      "count": 1,
-      "title": "github/spec-kit: Toolkit for spec-driven development"
+      "title": "github/spec-kit：SDD 入门工具集",
+      "url": "https://github.com/github/spec-kit",
+      "first_seen": "2026-05-19",
+      "last_seen": "2026-05-19",
+      "count": 1
     },
     "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/": {
-      "last_seen": "2026-05-19T00:00:00Z",
-      "count": 3,
-      "title": "Claude Code Source Leak 风波"
+      "title": "Claude Code Source Leak 风波",
+      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+      "first_seen": "2026-04-15",
+      "last_seen": "2026-05-19",
+      "count": 3
     }
   }
 }
