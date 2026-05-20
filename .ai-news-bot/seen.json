@@ -1,0 +1,123 @@
+{
+  "urls": {
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.145": {
+      "title": "Claude Code v2.1.145 · agents --json / Plugin 浏览器 / 安全修复",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.145",
+      "first_seen": "2026-05-20",
+      "last_seen": "2026-05-20",
+      "count": 1
+    },
+    "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.97.1": {
+      "title": "anthropic-sdk-typescript v0.97.1 · CMA 沙箱 / Node 26 适配",
+      "url": "https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.97.1",
+      "first_seen": "2026-05-20",
+      "last_seen": "2026-05-20",
+      "count": 1
+    },
+    "https://dev.to/sattyamjjain/anthropic-bought-stainless-heres-how-im-hardening-multi-vendor-mcp-servers-this-week-33pc": {
+      "title": "Anthropic 以 $3 亿收购 Stainless，掌控 MCP SDK 供应链",
+      "url": "https://dev.to/sattyamjjain/anthropic-bought-stainless-heres-how-im-hardening-multi-vendor-mcp-servers-this-week-33pc",
+      "first_seen": "2026-05-20",
+      "last_seen": "2026-05-20",
+      "count": 1
+    },
+    "https://dev.to/muhammad_moeed/how-anthropics-own-teams-use-claude-code-23no": {
+      "title": "Anthropic 内部报告：自家团队如何使用 Claude Code",
+      "url": "https://dev.to/muhammad_moeed/how-anthropics-own-teams-use-claude-code-23no",
+      "first_seen": "2026-05-20",
+      "last_seen": "2026-05-20",
+      "count": 1
+    },
+    "https://github.com/anthropics/claude-plugins-official": {
+      "title": "anthropics/claude-plugins-official · 官方插件目录上线",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "first_seen": "2026-05-20",
+      "last_seen": "2026-05-20",
+      "count": 1
+    },
+    "https://www.smarthey.com/detail/724074202198.html": {
+      "title": "SpaceX 拟 7 月收购 AI 编程公司 Cursor，分手费百亿",
+      "url": "https://www.smarthey.com/detail/724074202198.html",
+      "first_seen": "2026-05-20",
+      "last_seen": "2026-05-20",
+      "count": 1
+    },
+    "https://github.com/Imbad0202/academic-research-skills": {
+      "title": "academic-research-skills · Claude Code 学术研究技能包",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "first_seen": "2026-05-20",
+      "last_seen": "2026-05-20",
+      "count": 1
+    },
+    "https://github.com/colbymchenry/codegraph": {
+      "title": "codegraph · Claude Code 代码知识图谱，100% 本地",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "first_seen": "2026-05-20",
+      "last_seen": "2026-05-20",
+      "count": 1
+    },
+    "https://github.com/antoinezambelli/forge": {
+      "title": "Show HN: Forge · 护栏让 8B 模型 agent 成功率 53%→99%",
+      "url": "https://github.com/antoinezambelli/forge",
+      "first_seen": "2026-05-20",
+      "last_seen": "2026-05-20",
+      "count": 1
+    },
+    "https://github.com/obra/superpowers": {
+      "title": "obra/superpowers · Agentic 开发方法论框架",
+      "url": "https://github.com/obra/superpowers",
+      "first_seen": "2026-05-20",
+      "last_seen": "2026-05-20",
+      "count": 1
+    },
+    "https://www.smarthey.com/detail/827084302383.html": {
+      "title": "腾讯云中东副总裁离职，曾主导阿里云迪拜数据中心",
+      "url": "https://www.smarthey.com/detail/827084302383.html",
+      "first_seen": "2026-05-20",
+      "last_seen": "2026-05-20",
+      "count": 1
+    },
+    "https://www.smarthey.com/detail/199084901729.html": {
+      "title": "贝塔无限融资，清华系携华为、字节 AI 经验进军具身智能",
+      "url": "https://www.smarthey.com/detail/199084901729.html",
+      "first_seen": "2026-05-20",
+      "last_seen": "2026-05-20",
+      "count": 1
+    },
+    "https://dev.to/zoharbabin/from-nodejs-to-go-rebuilding-an-mcp-server-for-production-oil": {
+      "title": "Node.js→Go 重写 MCP 服务器：生产化实践",
+      "url": "https://dev.to/zoharbabin/from-nodejs-to-go-rebuilding-an-mcp-server-for-production-oil",
+      "first_seen": "2026-05-20",
+      "last_seen": "2026-05-20",
+      "count": 1
+    },
+    "https://dev.to/vighriday/i-built-a-workflow-aware-verification-layer-for-ai-coding-agents-open-source-mcp-native-10df": {
+      "title": "MCP 原生 AI coding agent 验证层（开源）",
+      "url": "https://dev.to/vighriday/i-built-a-workflow-aware-verification-layer-for-ai-coding-agents-open-source-mcp-native-10df",
+      "first_seen": "2026-05-20",
+      "last_seen": "2026-05-20",
+      "count": 1
+    },
+    "https://dev.to/auth0/what-ai-tools-mcp-servers-and-skills-actually-do-7ep": {
+      "title": "Auth0：AI 工具、MCP 服务器和技能实际做什么",
+      "url": "https://dev.to/auth0/what-ai-tools-mcp-servers-and-skills-actually-do-7ep",
+      "first_seen": "2026-05-20",
+      "last_seen": "2026-05-20",
+      "count": 1
+    },
+    "https://dev.to/marras0914/putting-my-own-mcp-server-behind-my-own-mcp-gateway-3o0n": {
+      "title": "自建 MCP gateway 管理 27 个工具",
+      "url": "https://dev.to/marras0914/putting-my-own-mcp-server-behind-my-own-mcp-gateway-3o0n",
+      "first_seen": "2026-05-20",
+      "last_seen": "2026-05-20",
+      "count": 1
+    },
+    "https://dev.to/kenimo49/i-refused-to-write-specs-until-claude-code-generated-wrong-code-three-times-35hp": {
+      "title": "Claude Code 连错三次后，我改变了对 Spec 的看法",
+      "url": "https://dev.to/kenimo49/i-refused-to-write-specs-until-claude-code-generated-wrong-code-three-times-35hp",
+      "first_seen": "2026-05-20",
+      "last_seen": "2026-05-20",
+      "count": 1
+    }
+  }
+}

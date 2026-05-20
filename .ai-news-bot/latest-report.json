@@ -4,7 +4,7 @@
     "header": {
       "title": {
         "tag": "plain_text",
-        "content": "📡 AI 资讯速报 · 2026-04-16"
+        "content": "📡 AI 资讯速报 · 2026-05-20"
       },
       "template": "blue"
     },
@@ -13,7 +13,7 @@
         "tag": "div",
         "text": {
           "tag": "lark_md",
-          "content": "**🔧 Claude 生态**\n· [Claude Code v2.1.110 · /tui全屏、移动推送通知、MCP…](https://github.com/anthropics/claude-code/releases/tag/v2.1.110)\n  _Claude Code 最新版本，新增 /tui 无闪烁全屏渲染、移动端 Push 通知工具、MCP 服务器断连修复和安全加固，直接影响日常编程工作流，建议今日更新_\n· [Claude Code v2.1.109 · 扩展思维进度提示改进](https://github.com/anthropics/claude-code/releases/tag/v2.1.109)\n  _同日发布，优化了 Extended Thinking（扩展推理）的旋转进度提示动画，使用深度推理模式时体验更流畅_\n· [Claude.ai / API / Claude Code 服务大规模故障（HN…](https://claudestatus.com/)\n  _昨日 Claude 服务出现系统性异常，社区热议 242+ 分，了解故障背景有助于评估 AI 编程工具的稳定性风险和降级方案_\n· [anthropic-sdk-typescript v0.89.0 · 正式标记 …](https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.89.0)\n  _SDK 将旧版 Claude Sonnet 4 和 Opus 4 标记为 deprecated，说明 Claude 4.5/4.6 系列已成主力模型，现有项目应尽快迁移依赖_"
+          "content": "**🔧 Claude 生态**\n· [Claude Code v2.1.145 · agents…](https://github.com/anthropics/claude-code/releases/tag/v2.1.145)\n  _修复 Bash 环境变量权限绕过漏洞，新增 claude agents --json 实现 session 脚本化，Plugin 浏览器完善命令/技能/钩子展示，功能与安全密度均为近期最高版本_\n· [anthropic-sdk-typescript…](https://github.com/anthropics/anthropic-sdk-typescript/releases/tag/sdk-v0.97.1)\n  _v0.97.0 引入 CMA 自托管沙箱降低多租户风险并兼容 Node 26，v0.97.1 修复 SessionToolRunner 工具调用竞争，前端项目升级 Node 时需同步更新 SDK_\n· [Anthropic 以 $3 亿收购…](https://dev.to/sattyamjjain/anthropic-bought-stainless-heres-how-im-hardening-multi-vendor-mcp-servers-this-week-33pc)\n  _Stainless 为 OpenAI/Google/Cloudflare 生成官方 SDK，收购后 Anthropic 控制 MCP 供应链生产侧，应立即固定 MCP 依赖版本并审计来源_\n· [Anthropic 内部报告：自家团队如何使用…](https://dev.to/muhammad_moeed/how-anthropics-own-teams-use-claude-code-23no)\n  _摘要 Anthropic 官方内部工作流报告，可直接对标个人 Claude Code 使用习惯，提取可复用的工程实践_\n· [anthropics/claude-plugins…](https://github.com/anthropics/claude-plugins-official)\n  _Anthropic 官方维护高质量 Claude Code 插件目录，今日 171 新增 star，标志 Claude Code 插件生态进入官方规范化阶段_"
         }
       },
       {
@@ -23,7 +23,7 @@
         "tag": "div",
         "text": {
           "tag": "lark_md",
-          "content": "**🛠️ AI 工具发现**\n· [forrestchang/andrej-karpathy-skills · 今日…](https://github.com/forrestchang/andrej-karpathy-skills)\n  _将 Andrej Karpathy 总结的 LLM 编码陷阱浓缩为单个 CLAUDE.md，可直接拖入项目提升 Claude Code 输出质量，强烈推荐收藏_\n· [thedotmack/claude-mem · Claude Code 自动记忆…](https://github.com/thedotmack/claude-mem)\n  _自动捕获 Claude 的会话操作、AI 压缩后注入未来上下文，解决大型项目历史信息丢失问题，是 Claude Code 工程化的实用扩展_\n· [obra/superpowers · Agentic 技能框架，2,055⭐](https://github.com/obra/superpowers)\n  _快速增长的 Agent 软件开发方法论框架，与 Claude Code Skills 系统理念高度契合，了解其设计思路有助于面试中阐述 Agent 架构观点_\n· [Libretto – 确定性 AI 浏览器自动化（HN 88pts）](https://github.com/saffron-health/libretto)\n  _提出「开发时 AI」理念：用 coding agent 预生成可检查的确定性脚本，而非运行时黑盒 agent，对 spec-driven 开发思路有重要参考价值_\n· [How I built a resume MCP in an hour（DEV …](https://dev.to/david_hyland_08f49962a50f/how-i-built-a-resume-mcp-in-an-hour-3o4m)\n  _一小时内构建完整 MCP 服务器的实战教程，展示了 MCP 开发的低门槛，面试时可作为 MCP 生态快速上手能力的佐证_"
+          "content": "**🛠️ AI 工具发现**\n· [SpaceX 拟 7 月收购 AI 编程公司…](https://www.smarthey.com/detail/724074202198.html)\n  _若收购落地，Cursor 将成 SpaceX 旗下工具，直接改变 AI coding IDE 市场格局，Claude Code vs Cursor 竞争态势将加速分化_\n· [academic-research-skills ·…](https://github.com/Imbad0202/academic-research-skills)\n  _为 Claude Code 提供 research→write→review→revise→finalize 完整流水线，今日 3164 新增 star，Claude Code Skills 生态进入爆发期的信号_\n· [codegraph · Claude Code…](https://github.com/colbymchenry/codegraph)\n  _预构建代码知识图谱减少 Claude 的 token 消耗，全本地化避免代码外泄，是大型前端项目与 Claude Code 集成的重要降本方案_\n· [Show HN: Forge · 护栏让 8B 模型…](https://github.com/antoinezambelli/forge)\n  _通过 rescue parsing、重试微调等护栏将本地 8B 模型 agent 任务成功率大幅提升，支持 Anthropic 后端，为降低 Claude API 成本提供本地替代路线（HN 249pts）_\n· [obra/superpowers · Agentic…](https://github.com/obra/superpowers)\n  _快速增长的 agent 软件开发方法论，与 Claude Code Skills 系统设计理念互补，是面试中阐述多 agent 架构设计观点的参考素材_"
         }
       },
       {
@@ -33,7 +33,7 @@
         "tag": "div",
         "text": {
           "tag": "lark_md",
-          "content": "**🏢 国内 AI 动态**\n· [台积电 Q1 净利润同比增 50%，AI 需求连续四季度创纪录](https://www.smarthey.com/detail/680101801886.html)\n  _AI 芯片需求持续高速增长，直接影响国内云厂商（阿里云、腾讯云）的 GPU 算力采购成本与 AI 服务定价策略，是 AI 工程化背景的重要宏观信号_\n· [Snap 裁员 1,000 人，聚焦 AI 驱动长期价值增长](https://www.smarthey.com/detail/189101801889.html)\n  _海外 AI 赛道裁员重组趋势持续，对比国内大厂 AI 编码工具（CodeBuddy 等）投入加大，AI coding 赛道竞争格局在全球范围内加速分化_"
+          "content": "**🏢 国内 AI 动态**\n· [腾讯云中东副总裁离职，曾主导阿里云迪拜数据中心](https://www.smarthey.com/detail/827084302383.html)\n  _腾讯云与阿里云之间的核心管理层流动，折射出两家云厂商在中东出海布局的竞争态势，是云厂商国际化战略的风向标_\n· [贝塔无限融资，清华系携华为、字节 AI 经验进军具身智能](https://www.smarthey.com/detail/199084901729.html)\n  _华为/字节 AI 工程师批量转型创业具身智能，是国内大厂 AI 人才流向初创公司的趋势信号_"
         }
       },
       {
@@ -43,7 +43,17 @@
         "tag": "div",
         "text": {
           "tag": "lark_md",
-          "content": "**🔌 MCP 生态**\n· [MCP as Observability Interface: AI Agent…](https://ingero.io/mcp-observability-interface-ai-agents-kernel-tracepoints/)\n  _将 MCP 用于可观测性接口，让 AI Agent 接入内核追踪点（Tracepoint），是 MCP 协议在系统级工具链中的创新应用，扩展了 MCP 的使用边界_\n· [agent-dispatch：让 Claude Code Agents 互相通信…](https://dev.to/serik_ospanov_c84c8ee2e54/let-your-claude-code-agents-talk-to-each-other-introducing-agent-dispatch--3ik0)\n  _实现 Claude Code 多 Agent 之间的消息传递，是构建复杂 multi-agent 工作流的基础组件，对 agent 协作架构设计有直接参考价值_"
+          "content": "**🔌 MCP 生态**\n· [Node.js→Go 重写 MCP 服务器：生产化实践](https://dev.to/zoharbabin/from-nodejs-to-go-rebuilding-an-mcp-server-for-production-oil)\n  _揭示 TS/JS MCP 服务器的生产性能瓶颈与 Go 迁移收益，对前端背景转型 MCP 开发者有直接参考价值_\n· [MCP 原生 AI coding agent 验证层（开源）](https://dev.to/vighriday/i-built-a-workflow-aware-verification-layer-for-ai-coding-agents-open-source-mcp-native-10df)\n  _解决 agent 自主操作的可信度问题，用 MCP 原生验证层替代黑盒执行，是 MCP 生态安全层方向的开源实践参考_\n· [Auth0：AI 工具、MCP 服务器和技能实际做什么](https://dev.to/auth0/what-ai-tools-mcp-servers-and-skills-actually-do-7ep)\n  _Auth0 等主流企业开始规范化 MCP 认知，表明 MCP 正从极客圈向企业级采纳迁移，面试中解释 MCP 架构的参考基准_\n· [自建 MCP gateway 管理 27 个工具](https://dev.to/marras0914/putting-my-own-mcp-server-behind-my-own-mcp-gateway-3o0n)\n  _自建 MCP 网关统一管理多工具权限控制，是生产环境 MCP 部署的架构实践，解决多 server 权限混乱问题_"
+        }
+      },
+      {
+        "tag": "hr"
+      },
+      {
+        "tag": "div",
+        "text": {
+          "tag": "lark_md",
+          "content": "**📐 Spec 驱动开发**\n· [Claude Code 连错三次后，我改变了对 Spec…](https://dev.to/kenimo49/i-refused-to-write-specs-until-claude-code-generated-wrong-code-three-times-35hp)\n  _15 分钟 OpenAPI 规范使 Claude Code 停止连续生成错误折扣逻辑，是 spec-driven 开发降低 agent 错误率的典型实证案例_"
         }
       },
       {
@@ -54,7 +64,7 @@
         "elements": [
           {
             "tag": "plain_text",
-            "content": "数据来源：GitHub Releases · GitHub Trending · HN Algolia · DEV Community · Smarthey｜⚠️ 跳过：Leiphone（24h 内无更新）· Spec 驱动专栏（无新热度内容）· GitHub Search（Rate Limit 限速）｜修改关注维度：编辑仓库中的 watch.yaml"
+            "content": "数据来源：GitHub Releases · GitHub Trending · HN Algolia · DEV Community · Smarthey｜修改关注维度：编辑 watch.yaml\n⚠️ 跳过：Anthropic Blog（429 Rate Limit）、雷峰网（无当日更新）、GitHub Releases API（Rate Limit，无 Token）、GitHub Search API（Rate Limit，无 Token）"
           }
         ]
       }
