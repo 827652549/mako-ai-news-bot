@@ -1,0 +1,431 @@
+{
+  "urls": {
+    "https://www.anthropic.com/research": {
+      "title": "Research",
+      "url": "https://www.anthropic.com/research",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://www.anthropic.com/economic-futures": {
+      "title": "Economic Futures",
+      "url": "https://www.anthropic.com/economic-futures",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://claude.ai/": {
+      "title": "Try Claude",
+      "url": "https://claude.ai/",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://claude.com/product/claude-code": {
+      "title": "Claude Code",
+      "url": "https://claude.com/product/claude-code",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://claude.com/product/claude-code/enterprise": {
+      "title": "Claude Code Enterprise",
+      "url": "https://claude.com/product/claude-code/enterprise",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://claude.com/product/cowork": {
+      "title": "Claude Cowork",
+      "url": "https://claude.com/product/cowork",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://claude.com/product/claude-security": {
+      "title": "Claude Security",
+      "url": "https://claude.com/product/claude-security",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://claude.com/chrome": {
+      "title": "Claude for Chrome",
+      "url": "https://claude.com/chrome",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://claude.com/claude-for-slack": {
+      "title": "Claude for Slack",
+      "url": "https://claude.com/claude-for-slack",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://claude.com/claude-for-microsoft-365": {
+      "title": "Claude for Microsoft 365",
+      "url": "https://claude.com/claude-for-microsoft-365",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://claude.com/pricing/max": {
+      "title": "Max plan",
+      "url": "https://claude.com/pricing/max",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://claude.com/pricing/team": {
+      "title": "Team plan",
+      "url": "https://claude.com/pricing/team",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://claude.com/pricing/enterprise": {
+      "title": "Enterprise plan",
+      "url": "https://claude.com/pricing/enterprise",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://claude.ai/download": {
+      "title": "Download app",
+      "url": "https://claude.ai/download",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://www.anthropic.com/glasswing": {
+      "title": "Mythos Preview",
+      "url": "https://www.anthropic.com/glasswing",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://github.com/larksuite/cli/releases/tag/v1.0.35": {
+      "title": "larksuite/cli v1.0.35",
+      "url": "https://github.com/larksuite/cli/releases/tag/v1.0.35",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://github.com/colbymchenry/codegraph": {
+      "title": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://github.com/Imbad0202/academic-research-skills": {
+      "title": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://github.com/multica-ai/andrej-karpathy-skills": {
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://github.com/HKUDS/CLI-Anything": {
+      "title": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://github.com/can1357/oh-my-pi": {
+      "title": "can1357/oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://github.com/sponsors/obra": {
+      "title": "sponsors/obra",
+      "url": "https://github.com/sponsors/obra",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://github.com/anthropics/claude-plugins-official": {
+      "title": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://github.com/sponsors/msitarzewski": {
+      "title": "sponsors/msitarzewski",
+      "url": "https://github.com/sponsors/msitarzewski",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://github.com/sponsors/rohitg00": {
+      "title": "sponsors/rohitg00",
+      "url": "https://github.com/sponsors/rohitg00",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://github.com/HKUDS/ViMax": {
+      "title": "HKUDS/ViMax",
+      "url": "https://github.com/HKUDS/ViMax",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html": {
+      "title": "Learnings from 100K lines of Rust with AI (2025)",
+      "url": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 2
+    },
+    "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/": {
+      "title": "Formal Verification Gates for AI Coding Loops",
+      "url": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://news.ycombinator.com/item?id=48202486": {
+      "title": "Alternatives to HN for \"tech outside of AI\" discussion?",
+      "url": "https://news.ycombinator.com/item?id=48202486",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://www.wsj.com/tech/ai/openai-ipo-filing-date-0ec95af5": {
+      "title": "OpenAI Is Preparing to File for an IPO in the Coming Days or Weeks",
+      "url": "https://www.wsj.com/tech/ai/openai-ipo-filing-date-0ec95af5",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://dev.to/arthurpro/when-your-coding-agents-string-matcher-becomes-a-billing-decision-2ncc": {
+      "title": "When Your Coding Agent's String-Matcher Becomes a Billing Decision",
+      "url": "https://dev.to/arthurpro/when-your-coding-agents-string-matcher-becomes-a-billing-decision-2ncc",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://dev.to/yoskee/wie-ich-claude-code-benutze-nicht-aufraumen-abgeben-aus-dem-bauch-heraus-30bg": {
+      "title": "Wie ich Claude Code benutze — nicht aufräumen, abgeben, aus dem Bauch heraus",
+      "url": "https://dev.to/yoskee/wie-ich-claude-code-benutze-nicht-aufraumen-abgeben-aus-dem-bauch-heraus-30bg",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://dev.to/yoskee/wo-shi-zen-yao-yong-claude-code-de-bu-zheng-li-jiao-chu-qu-ping-zhi-jue-gan-42d6": {
+      "title": "我是怎么用 Claude Code 的 —— 不整理、交出去、凭直觉干",
+      "url": "https://dev.to/yoskee/wo-shi-zen-yao-yong-claude-code-de-bu-zheng-li-jiao-chu-qu-ping-zhi-jue-gan-42d6",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://dev.to/kenimo49/i-asked-3-claude-code-sub-agents-to-review-the-same-pr-they-disagreed-on-41-of-the-comments-2m57": {
+      "title": "I Asked 3 Claude Code Sub-agents to Review the Same PR. They Disagreed on 41% of",
+      "url": "https://dev.to/kenimo49/i-asked-3-claude-code-sub-agents-to-review-the-same-pr-they-disagreed-on-41-of-the-comments-2m57",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://dev.to/arthurpro/45-mb-of-claude-code-sessions-you-dont-see-clj": {
+      "title": "45 MB of Claude Code Sessions You Don't See",
+      "url": "https://dev.to/arthurpro/45-mb-of-claude-code-sessions-you-dont-see-clj",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://dev.to/santosh_ravitejagoteti_/i-built-a-claude-code-skill-that-scores-your-legacy-java-code-1-100-and-modernizes-it-to-java-21-2jee": {
+      "title": "I built a Claude Code skill that scores your legacy Java code 1–100 and moderniz",
+      "url": "https://dev.to/santosh_ravitejagoteti_/i-built-a-claude-code-skill-that-scores-your-legacy-java-code-1-100-and-modernizes-it-to-java-21-2jee",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://dev.to/yoskee/how-i-use-claude-code-dont-organize-delegate-just-vibe-4kj9": {
+      "title": "How I Use Claude Code — Don't Organize, Delegate, Just Vibe",
+      "url": "https://dev.to/yoskee/how-i-use-claude-code-dont-organize-delegate-just-vibe-4kj9",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://dev.to/baodev-studio/how-a-one-person-studio-writes-35-claude-code-agents-that-dont-fight-each-other-5cdg": {
+      "title": "How a one-person studio writes 35 Claude Code agents that don't fight each other",
+      "url": "https://dev.to/baodev-studio/how-a-one-person-studio-writes-35-claude-code-agents-that-dont-fight-each-other-5cdg",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://dev.to/yoskee/comment-jutilise-claude-code-ne-rien-ranger-tout-deleguer-y-aller-au-feeling-111o": {
+      "title": "Comment j'utilise Claude Code — ne rien ranger, tout déléguer, y aller au feelin",
+      "url": "https://dev.to/yoskee/comment-jutilise-claude-code-ne-rien-ranger-tout-deleguer-y-aller-au-feeling-111o",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://dev.to/yoskee/como-uso-claude-code-no-organizo-delego-y-voy-a-lo-que-salga-32oh": {
+      "title": "Cómo uso Claude Code: no organizo, delego, y voy a lo que salga",
+      "url": "https://dev.to/yoskee/como-uso-claude-code-no-organizo-delego-y-voy-a-lo-que-salga-32oh",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://dev.to/devtochukwu/how-i-got-my-hp-fingerprint-sensor-working-on-linux-and-why-nobody-else-had-3n2a": {
+      "title": "How I got my HP fingerprint sensor working on Linux.",
+      "url": "https://dev.to/devtochukwu/how-i-got-my-hp-fingerprint-sensor-working-on-linux-and-why-nobody-else-had-3n2a",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://dev.to/morinaga/how-i-built-pairwise-ai-model-compare-pages-with-claude-haiku-and-a-budget-cap-ia0": {
+      "title": "How I built pairwise AI model compare pages with Claude Haiku and a budget cap",
+      "url": "https://dev.to/morinaga/how-i-built-pairwise-ai-model-compare-pages-with-claude-haiku-and-a-budget-cap-ia0",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://dev.to/enmanuelmag/when-smart-is-not-enough-multi-agent-ai-orchestration-defaults-4okg": {
+      "title": "When smart is not enough — Multi-agent AI orchestration defaults",
+      "url": "https://dev.to/enmanuelmag/when-smart-is-not-enough-multi-agent-ai-orchestration-defaults-4okg",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://dev.to/wonderlab/one-open-source-project-a-day-no-70-claude-plugins-official-a-complete-tour-of-anthropics-4lgo": {
+      "title": "One Open Source Project a Day (No. 70): Claude Plugins Official — A Complete Tou",
+      "url": "https://dev.to/wonderlab/one-open-source-project-a-day-no-70-claude-plugins-official-a-complete-tour-of-anthropics-4lgo",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 2
+    },
+    "https://dev.to/leonhail/why-your-anthropic-prompt-caching-probably-isnt-working-and-the-npm-package-i-built-to-fix-it-42c": {
+      "title": "Why your Anthropic prompt caching probably isn't working (and the npm package I ",
+      "url": "https://dev.to/leonhail/why-your-anthropic-prompt-caching-probably-isnt-working-and-the-npm-package-i-built-to-fix-it-42c",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://dev.to/jai_lalawat_84c750c65b525/how-i-built-a-language-that-beats-c-on-lz77-by-66x-bootstrapped-from-assembly-3g13": {
+      "title": "How I Built a Language That Beats C on LZ77 by 6.6 — Bootstrapped from Assembly",
+      "url": "https://dev.to/jai_lalawat_84c750c65b525/how-i-built-a-language-that-beats-c-on-lz77-by-66x-bootstrapped-from-assembly-3g13",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://dev.to/0x2e73/how-do-you-prevent-ai-spaghetti-code-when-orchestrating-with-llms-56gm": {
+      "title": "How do you prevent \"AI spaghetti code\" when orchestrating with LLMs?",
+      "url": "https://dev.to/0x2e73/how-do-you-prevent-ai-spaghetti-code-when-orchestrating-with-llms-56gm",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://dev.to/tyler_tan_13b1f742020d35a/building-claude-code-from-scratch-a-minimal-agent-in-393-lines-of-c-3bgi": {
+      "title": "Building Claude Code from Scratch: A Minimal Agent in 393 Lines of C++",
+      "url": "https://dev.to/tyler_tan_13b1f742020d35a/building-claude-code-from-scratch-a-minimal-agent-in-393-lines-of-c-3bgi",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://dev.to/zoetaka38/when-the-ai-gets-stuck-the-engineer-fetches-the-same-prd-via-mcp-and-keeps-going-52nd": {
+      "title": "\"When the AI gets stuck, the engineer fetches the same PRD via MCP and keeps goi",
+      "url": "https://dev.to/zoetaka38/when-the-ai-gets-stuck-the-engineer-fetches-the-same-prd-via-mcp-and-keeps-going-52nd",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 2
+    },
+    "https://dev.to/nickyeolk/think-with-your-second-brain-a-proper-claude-code-harness-for-obsidian-2c0o": {
+      "title": "Think with your second brain: a proper Claude Code harness for Obsidian",
+      "url": "https://dev.to/nickyeolk/think-with-your-second-brain-a-proper-claude-code-harness-for-obsidian-2c0o",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://www.smarthey.com/detail/159084502637.html": {
+      "title": "用户因豆包AI错误退票建议损失600元，起诉运营方北京春田知韵科技有限公司",
+      "url": "https://www.smarthey.com/detail/159084502637.html",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://www.smarthey.com/detail/639113603747.html": {
+      "title": "渣打中国参保人数3年持续下降",
+      "url": "https://www.smarthey.com/detail/639113603747.html",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://dev.to/dannwaneri/mcp-just-landed-on-your-phone-what-google-ai-edge-gallery-actually-does-1567": {
+      "title": "MCP Just Landed on Your Phone: What Google AI Edge Gallery Actually Does",
+      "url": "https://dev.to/dannwaneri/mcp-just-landed-on-your-phone-what-google-ai-edge-gallery-actually-does-1567",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://dev.to/composiodev/per-user-oauth-for-ai-agents-why-it-matters-and-what-to-look-for-4h4a": {
+      "title": "Per-User OAuth for AI Agents: Why It Matters and What to Look For",
+      "url": "https://dev.to/composiodev/per-user-oauth-for-ai-agents-why-it-matters-and-what-to-look-for-4h4a",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://dev.to/aws/200000-mcp-servers-are-exposed-heres-why-serverless-is-safer-4p0j": {
+      "title": "200,000 MCP Servers Are Exposed. Here's Why Serverless Is Safer.",
+      "url": "https://dev.to/aws/200000-mcp-servers-are-exposed-heres-why-serverless-is-safer-4p0j",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://dev.to/levchenkod/building-ai-tailored-document-generation-react-edition-4jm4": {
+      "title": "Building AI-Tailored Document Generation (React Edition)",
+      "url": "https://dev.to/levchenkod/building-ai-tailored-document-generation-react-edition-4jm4",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://dev.to/bawbel/snyk-scans-your-mcp-servers-by-running-them-here-is-what-that-means-a4b": {
+      "title": "Snyk scans your MCP servers by running them. Here is what that means.",
+      "url": "https://dev.to/bawbel/snyk-scans-your-mcp-servers-by-running-them-here-is-what-that-means-a4b",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://dev.to/pedrop3/testing-and-debugging-mcp-2i53": {
+      "title": "Testing and Debugging MCP",
+      "url": "https://dev.to/pedrop3/testing-and-debugging-mcp-2i53",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://dev.to/mxguru1/i-built-a-127-tool-mcp-server-from-scratch-heres-what-i-learned-4hj8": {
+      "title": "I Built a 127-Tool MCP Server From Scratch — Here's What I Learned",
+      "url": "https://dev.to/mxguru1/i-built-a-127-tool-mcp-server-from-scratch-heres-what-i-learned-4hj8",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://dev.to/eliofbm/screenshots-are-not-browser-state-4h3n": {
+      "title": "Screenshots Are Not Browser State",
+      "url": "https://dev.to/eliofbm/screenshots-are-not-browser-state-4h3n",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    },
+    "https://dev.to/norviktech/connecting-ai-to-snowflake-insights-on-model-cont-4558": {
+      "title": "Connecting AI to Snowflake: Insights on Model Cont…",
+      "url": "https://dev.to/norviktech/connecting-ai-to-snowflake-insights-on-model-cont-4558",
+      "first_seen": "2026-05-21",
+      "last_seen": "2026-05-21",
+      "count": 1
+    }
+  }
+}
