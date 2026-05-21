@@ -1,0 +1,54 @@
+name: Run AI News Bot
+
+# Runs daily at 08:00 CST (UTC+8 = UTC 00:00).
+# Can also be triggered manually via workflow_dispatch.
+#
+# IMPORTANT — Feishu notification strategy:
+#   This workflow directly calls the Feishu webhook after the bot runs,
+#   so it works even when GITHUB_TOKEN is used (GITHUB_TOKEN pushes do not
+#   trigger notify-feishu.yml due to GitHub's loop-prevention policy).
+#
+#   If you run the bot OUTSIDE GitHub Actions (e.g. a Claude Code Routine)
+#   with a Personal Access Token, notify-feishu.yml handles the notification
+#   instead — no double-send because run-bot.yml won't be running at the same time.
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    environment: prod        # grants access to FEISHU_WEBHOOK_URL secret
+    permissions:
+      contents: write        # required to push report/YYYY-MM-DD branches
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run bot
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python bot.py
+
+      - name: Notify Feishu
+        # Runs even if the bot exits 0 with "skip_if_empty"; the report
+        # file may be absent (first ever run) or unchanged — guard with -f.
+        if: success() && hashFiles('.ai-news-bot/latest-report.json') != ''
+        run: |
+          curl -s -o /dev/null -w "%{http_code}" \
+            -X POST "${{ secrets.FEISHU_WEBHOOK_URL }}" \
+            -H "Content-Type: application/json" \
+            -d @.ai-news-bot/latest-report.json
